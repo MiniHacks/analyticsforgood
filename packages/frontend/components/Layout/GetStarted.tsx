@@ -1,10 +1,9 @@
-import { Button } from "@chakra-ui/react";
+import { Button, Link } from "@chakra-ui/react";
 
 const GetStarted = () => {
     return (
         <Button
             colorScheme={"brand"}
-            /*IMPORT GOTO SOMEWHERE*/
             style={{
                 position: "absolute",
                 width: "254.7px",
@@ -31,7 +30,10 @@ const GetStarted = () => {
             }}
 
         >
-            Get Started</Button>
+            <Link href={"/dashboard"}>
+                  Get Started
+            </Link>
+        </Button>
     )
 };
 
