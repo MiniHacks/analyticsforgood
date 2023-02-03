@@ -1,4 +1,4 @@
-import NavBar from "../components/Layout/NavBar";
+import NavBar from "../components/NavBar";
 import type { NextPage } from "next";
 import { HStack, VStack, Box, chakra, Heading, Image} from "@chakra-ui/react";
 import PageLayout from "../components/Layout/PageLayout";

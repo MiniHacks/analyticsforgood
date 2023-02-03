@@ -7,6 +7,7 @@ import {
     Text,
     Input,
 } from "@chakra-ui/react";
+import Logo from "./Logo";
 
 const NavBar = (): JSX.Element => {
     return (
@@ -18,9 +19,7 @@ const NavBar = (): JSX.Element => {
             zIndex={"100"}
         >
             <HStack px={"5%"} justifyContent={"space-between"}>
-                <Heading fontFamily={"'Baloo 2', sans-serif"} fontSize={"45px"} color={"brand.600"}>
-                    <a href={"#home"}>aly</a>
-                </Heading>
+                <Logo/>
                 <HStack>
                     <Button
                         variant={"solid"}
