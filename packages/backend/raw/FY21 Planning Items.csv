@@ -1,0 +1,728 @@
+Delivery Week,Producer Code,Product ID,Product,Quantity,Cost
+9/6/2021,CVP,3401,"Beans, Green, Yellow or Purple",18,$62.50
+7/26/2021,HAF,3401,"Beans, Green, Yellow or Purple",5,$62.50
+9/6/2021,HAF,3401,"Beans, Green, Yellow or Purple",10,$62.50
+9/6/2021,CLP,3401,"Beans, Green, Yellow or Purple",5,$62.50
+7/26/2021,D2D,3401,"Beans, Green, Yellow or Purple",15,$62.50
+8/9/2021,D2D,3401,"Beans, Green, Yellow or Purple",15,$62.50
+9/6/2021,D2D,3401,"Beans, Green, Yellow or Purple",18,$62.50
+9/6/2021,D2D,3401,"Beans, Green, Yellow or Purple",15,$62.50
+7/26/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,$62.50
+8/9/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,$62.50
+9/6/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,$62.50
+7/26/2021,MLG,3401,"Beans, Green, Yellow or Purple",15,$62.50
+8/9/2021,MLG,3401,"Beans, Green, Yellow or Purple",15,$62.50
+9/6/2021,MLG,3401,"Beans, Green, Yellow or Purple",15,$62.50
+7/5/2021,YMF,3401,"Beans, Green, Yellow or Purple",18,$62.50
+8/9/2021,YMF,3401,"Beans, Green, Yellow or Purple",5,$62.50
+7/5/2021,YMF,3099,Beets w/greens,75,$36.00
+10/11/2021,YMF,3099,Beets w/greens,75,$36.00
+8/23/2021,HAF,3613,"Beets, Bulk",36,$26.31
+10/4/2021,LXF,3613,"Beets, Bulk",18,$26.31
+10/11/2021,LXF,3613,"Beets, Bulk",18,$26.31
+10/18/2021,LXF,3613,"Beets, Bulk",18,$26.31
+10/25/2021,LXF,3613,"Beets, Bulk",18,$26.31
+10/4/2021,CLP,3613,"Beets, Bulk",16,$26.31
+10/18/2021,CLP,3613,"Beets, Bulk",16,$26.31
+10/25/2021,CLP,3613,"Beets, Bulk",16,$26.31
+10/4/2021,MHG,3613,"Beets, Bulk",16,$26.31
+10/11/2021,MHG,3613,"Beets, Bulk",16,$26.31
+10/18/2021,MHG,3613,"Beets, Bulk",16,$26.31
+10/25/2021,MHG,3613,"Beets, Bulk",16,$26.31
+10/4/2021,PBY,3613,"Beets, Bulk",16,$26.31
+10/11/2021,PBY,3613,"Beets, Bulk",16,$26.31
+10/18/2021,PBY,3613,"Beets, Bulk",16,$26.31
+10/25/2021,PBY,3613,"Beets, Bulk",16,$26.31
+6/21/2021,PBY,3573,Bok Choi,30,$40.00
+6/21/2021,WKH,3573,Bok Choi,10,$40.00
+6/28/2021,WKH,3573,Bok Choi,45,$40.00
+9/27/2021,KSL,3592,Broccoli,20,$31.45
+10/11/2021,KSL,3592,Broccoli,20,$31.45
+9/27/2021,MLP,3592,Broccoli,20,$31.45
+10/11/2021,MLP,3592,Broccoli,20,$31.45
+9/27/2021,NTN,3592,Broccoli,30,$31.45
+10/11/2021,NTN,3592,Broccoli,30,$31.45
+9/13/2021,PBY,3592,Broccoli,42,$31.45
+9/27/2021,PBY,3592,Broccoli,42,$31.45
+9/27/2021,PBY,3592,Broccoli,30,$31.45
+10/4/2021,PBY,3592,Broccoli,42,$31.45
+10/11/2021,PBY,3592,Broccoli,30,$31.45
+10/18/2021,PBY,3592,Broccoli,42,$31.45
+9/27/2021,SGC,3592,Broccoli,10,$31.45
+10/11/2021,SGC,3592,Broccoli,10,$31.45
+9/27/2021,WKH,3592,Broccoli,10,$31.45
+10/11/2021,WKH,3592,Broccoli,10,$31.45
+9/27/2021,YMF,3592,Broccoli,30,$31.45
+10/11/2021,YMF,3592,Broccoli,30,$31.45
+10/4/2021,LXF,3079,Brussels Sprouts,40,$42.16
+10/4/2021,D2D,3079,Brussels Sprouts,10,$42.16
+10/4/2021,NTN,3079,Brussels Sprouts,10,$42.16
+10/4/2021,YMF,3079,Brussels Sprouts,30,$42.16
+7/19/2021,CHO,3754,Cabbage,10,$34.00
+11/1/2021,AFC,3754,Cabbage,5,$34.00
+11/8/2021,AFC,3754,Cabbage,15,$34.00
+11/15/2021,AFC,3754,Cabbage,5,$34.00
+11/22/2021,AFC,3754,Cabbage,5,$34.00
+11/1/2021,D2D,3754,Cabbage,15,$34.00
+11/8/2021,D2D,3754,Cabbage,15,$34.00
+11/15/2021,D2D,3754,Cabbage,15,$34.00
+11/22/2021,D2D,3754,Cabbage,15,$34.00
+11/1/2021,NTN,3754,Cabbage,15,$34.00
+11/8/2021,NTN,3754,Cabbage,15,$34.00
+11/15/2021,NTN,3754,Cabbage,15,$34.00
+11/22/2021,NTN,3754,Cabbage,15,$34.00
+10/18/2021,SGC,3754,Cabbage,10,$34.00
+10/18/2021,SGC,3754,Cabbage,10,$34.00
+11/1/2021,SGC,3754,Cabbage,15,$34.00
+11/8/2021,SGC,3754,Cabbage,5,$34.00
+11/15/2021,SGC,3754,Cabbage,15,$34.00
+11/22/2021,SGC,3754,Cabbage,15,$34.00
+7/19/2021,,3754,Cabbage,10,$34.00
+8/30/2021,CVP,3755,"Carrots, Orange Bulk",30,$31.62
+9/13/2021,CVP,3755,"Carrots, Orange Bulk",30,$31.62
+10/4/2021,CVP,3755,"Carrots, Orange Bulk",30,$31.62
+10/11/2021,CVP,3755,"Carrots, Orange Bulk",30,$31.62
+10/18/2021,CVP,3755,"Carrots, Orange Bulk",30,$31.62
+10/25/2021,CVP,3755,"Carrots, Orange Bulk",30,$31.62
+9/13/2021,HAF,3755,"Carrots, Orange Bulk",12,$31.62
+10/4/2021,HAF,3755,"Carrots, Orange Bulk",12,$31.62
+10/11/2021,HAF,3755,"Carrots, Orange Bulk",12,$31.62
+10/18/2021,HAF,3755,"Carrots, Orange Bulk",12,$31.62
+10/25/2021,HAF,3755,"Carrots, Orange Bulk",12,$31.62
+8/30/2021,POG,3755,"Carrots, Orange Bulk",36,$31.62
+9/13/2021,LXF,3755,"Carrots, Orange Bulk",36,$31.62
+8/30/2021,D2D,3755,"Carrots, Orange Bulk",27,$31.62
+9/13/2021,D2D,3755,"Carrots, Orange Bulk",30,$31.62
+10/4/2021,D2D,3755,"Carrots, Orange Bulk",30,$31.62
+10/11/2021,D2D,3755,"Carrots, Orange Bulk",30,$31.62
+10/18/2021,D2D,3755,"Carrots, Orange Bulk",30,$31.62
+10/25/2021,D2D,3755,"Carrots, Orange Bulk",30,$31.62
+8/30/2021,NTN,3755,"Carrots, Orange Bulk",30,$31.62
+9/13/2021,NTN,3755,"Carrots, Orange Bulk",30,$31.62
+10/4/2021,NTN,3755,"Carrots, Orange Bulk",30,$31.62
+10/11/2021,NTN,3755,"Carrots, Orange Bulk",30,$31.62
+10/18/2021,NTN,3755,"Carrots, Orange Bulk",30,$31.62
+10/25/2021,NTN,3755,"Carrots, Orange Bulk",30,$31.62
+8/30/2021,RSV,3755,"Carrots, Orange Bulk",15,$31.62
+9/13/2021,RSV,3755,"Carrots, Orange Bulk",15,$31.62
+10/4/2021,RSV,3755,"Carrots, Orange Bulk",15,$31.62
+10/11/2021,RSV,3755,"Carrots, Orange Bulk",15,$31.62
+10/18/2021,RSV,3755,"Carrots, Orange Bulk",15,$31.62
+10/25/2021,RSV,3755,"Carrots, Orange Bulk",15,$31.62
+8/30/2021,YMF,3755,"Carrots, Orange Bulk",30,$31.62
+9/13/2021,YMF,3755,"Carrots, Orange Bulk",15,$31.62
+10/4/2021,YMF,3755,"Carrots, Orange Bulk",15,$31.62
+10/11/2021,YMF,3755,"Carrots, Orange Bulk",15,$31.62
+10/18/2021,YMF,3755,"Carrots, Orange Bulk",15,$31.62
+10/25/2021,YMF,3755,"Carrots, Orange Bulk",15,$31.62
+9/20/2021,LXF,3132,"Carrots, Rainbow Bulk",24,$31.62
+9/20/2021,LXF,3132,"Carrots, Rainbow Bulk",40,$31.62
+10/4/2021,LXF,3132,"Carrots, Rainbow Bulk",24,$31.62
+10/4/2021,LXF,3132,"Carrots, Rainbow Bulk",60,$31.62
+10/11/2021,LXF,3132,"Carrots, Rainbow Bulk",40,$31.62
+10/11/2021,LXF,3132,"Carrots, Rainbow Bulk",60,$31.62
+10/18/2021,LXF,3132,"Carrots, Rainbow Bulk",60,$31.62
+10/25/2021,LXF,3132,"Carrots, Rainbow Bulk",24,$31.62
+10/25/2021,LXF,3132,"Carrots, Rainbow Bulk",60,$31.62
+11/8/2021,LXF,3132,"Carrots, Rainbow Bulk",40,$31.62
+11/22/2021,LXF,3132,"Carrots, Rainbow Bulk",24,$31.62
+8/9/2021,WKH,3132,"Carrots, Rainbow Bulk",18,$31.62
+9/20/2021,WKH,3132,"Carrots, Rainbow Bulk",12,$31.62
+10/4/2021,WKH,3132,"Carrots, Rainbow Bulk",12,$31.62
+10/4/2021,WKH,3132,"Carrots, Rainbow Bulk",60,$31.62
+10/11/2021,WKH,3132,"Carrots, Rainbow Bulk",60,$31.62
+10/18/2021,WKH,3132,"Carrots, Rainbow Bulk",60,$31.62
+10/25/2021,WKH,3132,"Carrots, Rainbow Bulk",12,$31.62
+10/25/2021,WKH,3132,"Carrots, Rainbow Bulk",60,$31.62
+11/22/2021,WKH,3132,"Carrots, Rainbow Bulk",12,$31.62
+8/9/2021,YMF,3132,"Carrots, Rainbow Bulk",18,$31.62
+10/4/2021,YMF,3132,"Carrots, Rainbow Bulk",12,$31.62
+10/11/2021,YMF,3132,"Carrots, Rainbow Bulk",12,$31.62
+10/18/2021,YMF,3132,"Carrots, Rainbow Bulk",12,$31.62
+10/25/2021,YMF,3132,"Carrots, Rainbow Bulk",12,$31.62
+9/13/2021,DTF,3807,Cauliflower,50,$23.00
+9/27/2021,DTF,3807,Cauliflower,50,$23.00
+9/20/2021,NTN,3807,Cauliflower,23,$23.00
+10/4/2021,NTN,3807,Cauliflower,23,$23.00
+10/18/2021,NTN,3807,Cauliflower,23,$23.00
+9/13/2021,SGC,3807,Cauliflower,25,$23.00
+9/27/2021,SGC,3807,Cauliflower,25,$23.00
+9/13/2021,YMF,3807,Cauliflower,25,$23.00
+9/27/2021,YMF,3807,Cauliflower,25,$23.00
+6/28/2021,SEE,,Cilantro,19,$36.00
+7/26/2021,POG,,Cilantro,38,$36.00
+7/12/2021,HAF,3361,"Cucumbers, Slicing",38,$20.00
+7/12/2021,CHO,3361,"Cucumbers, Slicing",30,$20.00
+7/19/2021,CHO,3361,"Cucumbers, Slicing",30,$20.00
+7/26/2021,CHO,3361,"Cucumbers, Slicing",30,$20.00
+8/2/2021,CHO,3361,"Cucumbers, Slicing",30,$20.00
+8/9/2021,CHO,3361,"Cucumbers, Slicing",30,$20.00
+8/16/2021,CHO,3361,"Cucumbers, Slicing",30,$20.00
+7/12/2021,CBS,3361,"Cucumbers, Slicing",30,$20.00
+7/19/2021,CBS,3361,"Cucumbers, Slicing",30,$20.00
+7/26/2021,CBS,3361,"Cucumbers, Slicing",30,$20.00
+8/2/2021,CBS,3361,"Cucumbers, Slicing",30,$20.00
+8/9/2021,CBS,3361,"Cucumbers, Slicing",30,$20.00
+8/16/2021,CBS,3361,"Cucumbers, Slicing",30,$20.00
+7/5/2021,LXF,3361,"Cucumbers, Slicing",30,$20.00
+7/19/2021,LXF,3361,"Cucumbers, Slicing",30,$20.00
+8/2/2021,LXF,3361,"Cucumbers, Slicing",30,$20.00
+7/12/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00
+7/19/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00
+7/26/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00
+8/2/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00
+8/9/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00
+8/16/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00
+7/12/2021,MHG,3361,"Cucumbers, Slicing",30,$20.00
+7/19/2021,MHG,3361,"Cucumbers, Slicing",30,$20.00
+7/26/2021,MHG,3361,"Cucumbers, Slicing",30,$20.00
+8/2/2021,MHG,3361,"Cucumbers, Slicing",30,$20.00
+8/9/2021,MHG,3361,"Cucumbers, Slicing",30,$20.00
+8/16/2021,MHG,3361,"Cucumbers, Slicing",30,$20.00
+7/12/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00
+7/19/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00
+7/26/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00
+8/2/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00
+8/9/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00
+8/16/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00
+7/5/2021,WKH,3361,"Cucumbers, Slicing",15,$20.00
+7/12/2021,WKH,3361,"Cucumbers, Slicing",30,$20.00
+7/19/2021,WKH,3361,"Cucumbers, Slicing",15,$20.00
+7/19/2021,WKH,3361,"Cucumbers, Slicing",30,$20.00
+7/26/2021,WKH,3361,"Cucumbers, Slicing",30,$20.00
+8/2/2021,WKH,3361,"Cucumbers, Slicing",15,$20.00
+8/2/2021,WKH,3361,"Cucumbers, Slicing",30,$20.00
+8/9/2021,WKH,3361,"Cucumbers, Slicing",30,$20.00
+8/16/2021,WKH,3361,"Cucumbers, Slicing",30,$20.00
+8/9/2021,D2D,3758,"Eggplant, African (Bitter Ball)",33,$20.00
+8/16/2021,D2D,3758,"Eggplant, African (Bitter Ball)",33,$20.00
+8/23/2021,D2D,3758,"Eggplant, African (Bitter Ball)",33,$20.00
+8/9/2021,PLT,3758,"Eggplant, African (Bitter Ball)",33,$20.00
+8/16/2021,PLT,3758,"Eggplant, African (Bitter Ball)",33,$20.00
+8/23/2021,PLT,3758,"Eggplant, African (Bitter Ball)",33,$20.00
+8/23/2021,KLF,3717,"Eggplant, Globe",25,$31.62
+9/13/2021,KLF,3717,"Eggplant, Globe",25,$31.62
+8/16/2021,POG,3717,"Eggplant, Globe",36,$31.62
+8/2/2021,CLP,3717,"Eggplant, Globe",18,$31.62
+8/23/2021,CLP,3717,"Eggplant, Globe",50,$31.62
+9/13/2021,CLP,3717,"Eggplant, Globe",50,$31.62
+8/2/2021,YMF,3717,"Eggplant, Globe",18,$31.62
+8/23/2021,YMF,3717,"Eggplant, Globe",25,$31.62
+9/13/2021,YMF,3717,"Eggplant, Globe",25,$31.62
+7/5/2021,SEE,3326,Fennel,38,$42.00
+6/14/2021,SEE,3304,Garlic scapes,38,$48.00
+6/21/2021,POG,3669,"Greens, Chard",38,$36.00
+8/16/2021,POG,3669,"Greens, Chard",38,$36.00
+7/12/2021,HAF,3138,"Greens, Collard-24 ct",38,$36.00
+8/2/2021,HAF,3138,"Greens, Collard-24 ct",38,$36.00
+9/13/2021,HAF,3138,"Greens, Collard-24 ct",8,$36.00
+7/12/2021,AFC,3138,"Greens, Collard-24 ct",5,$36.00
+8/16/2021,AFC,3138,"Greens, Collard-24 ct",5,$36.00
+9/13/2021,AFC,3138,"Greens, Collard-24 ct",5,$36.00
+9/13/2021,KSL,3138,"Greens, Collard-24 ct",10,$36.00
+9/13/2021,MLP,3138,"Greens, Collard-24 ct",10,$36.00
+7/12/2021,D2D,3138,"Greens, Collard-24 ct",10,$36.00
+8/16/2021,D2D,3138,"Greens, Collard-24 ct",10,$36.00
+9/13/2021,D2D,3138,"Greens, Collard-24 ct",10,$36.00
+9/13/2021,PLT,3138,"Greens, Collard-24 ct",10,$36.00
+7/12/2021,MLG,3138,"Greens, Collard-24 ct",10,$36.00
+8/16/2021,MLG,3138,"Greens, Collard-24 ct",10,$36.00
+9/13/2021,MLG,3138,"Greens, Collard-24 ct",10,$36.00
+9/6/2021,HAF,3813,"Greens, Kale-24 ct",8,$36.00
+7/19/2021,CHO,3813,"Greens, Kale-24 ct",10,$36.00
+8/2/2021,CHO,3813,"Greens, Kale-24 ct",10,$36.00
+8/16/2021,CHO,3813,"Greens, Kale-24 ct",10,$36.00
+9/20/2021,CHO,3813,"Greens, Kale-24 ct",10,$36.00
+9/6/2021,AFC,3813,"Greens, Kale-24 ct",8,$36.00
+7/19/2021,CLP,3813,"Greens, Kale-24 ct",10,$36.00
+8/2/2021,CLP,3813,"Greens, Kale-24 ct",10,$36.00
+8/16/2021,CLP,3813,"Greens, Kale-24 ct",10,$36.00
+9/6/2021,CLP,3813,"Greens, Kale-24 ct",8,$36.00
+9/20/2021,CLP,3813,"Greens, Kale-24 ct",10,$36.00
+7/19/2021,D2D,3813,"Greens, Kale-24 ct",10,$36.00
+8/2/2021,D2D,3813,"Greens, Kale-24 ct",10,$36.00
+8/16/2021,D2D,3813,"Greens, Kale-24 ct",10,$36.00
+9/6/2021,D2D,3813,"Greens, Kale-24 ct",8,$36.00
+9/20/2021,D2D,3813,"Greens, Kale-24 ct",10,$36.00
+6/7/2021,NTN,3813,"Greens, Kale-24 ct",15,$36.00
+7/19/2021,NTN,3813,"Greens, Kale-24 ct",10,$36.00
+8/2/2021,NTN,3813,"Greens, Kale-24 ct",10,$36.00
+8/16/2021,NTN,3813,"Greens, Kale-24 ct",10,$36.00
+9/20/2021,NTN,3813,"Greens, Kale-24 ct",10,$36.00
+7/19/2021,PLT,3813,"Greens, Kale-24 ct",10,$36.00
+8/2/2021,PLT,3813,"Greens, Kale-24 ct",10,$36.00
+8/16/2021,PLT,3813,"Greens, Kale-24 ct",10,$36.00
+9/6/2021,PLT,3813,"Greens, Kale-24 ct",6,$36.00
+9/20/2021,PLT,3813,"Greens, Kale-24 ct",10,$36.00
+6/14/2021,YMF,3813,"Greens, Kale-24 ct",38,$36.00
+10/18/2021,YMF,3813,"Greens, Kale-24 ct",38,$36.00
+7/19/2021,HAF,3364,"Greens, Mustard-24 ct",38,$36.00
+8/23/2021,HAF,3364,"Greens, Mustard-24 ct",38,$36.00
+8/16/2021,CHO,3364,"Greens, Mustard-24 ct",5,$36.00
+9/6/2021,CHO,3364,"Greens, Mustard-24 ct",5,$36.00
+9/20/2021,CHO,3364,"Greens, Mustard-24 ct",5,$36.00
+8/16/2021,KLF,3364,"Greens, Mustard-24 ct",10,$36.00
+9/6/2021,KLF,3364,"Greens, Mustard-24 ct",10,$36.00
+9/20/2021,KLF,3364,"Greens, Mustard-24 ct",10,$36.00
+8/16/2021,PLT,3364,"Greens, Mustard-24 ct",10,$36.00
+9/6/2021,PLT,3364,"Greens, Mustard-24 ct",10,$36.00
+9/20/2021,PLT,3364,"Greens, Mustard-24 ct",10,$36.00
+11/15/2021,SEE,,"Greens, Spinach",75,$44.40
+11/29/2021,SEE,,"Greens, Spinach",75,$44.40
+8/16/2021,LXF,3539,Ground cherries,75,$33.60
+6/14/2021,POG,3775,Kohlrabi,36,$30.00
+7/5/2021,YMF,3775,Kohlrabi,18,$30.00
+10/11/2021,YMF,3775,Kohlrabi,18,$30.00
+6/14/2021,DTF,3806,"Lettuce, Head-24 ct",15,$36.00
+6/21/2021,DTF,3806,"Lettuce, Head-24 ct",15,$36.00
+6/28/2021,DTF,3806,"Lettuce, Head-24 ct",15,$36.00
+7/5/2021,DTF,3806,"Lettuce, Head-24 ct",15,$36.00
+6/21/2021,HAF,3806,"Lettuce, Head-24 ct",10,$36.00
+7/5/2021,HAF,3806,"Lettuce, Head-24 ct",10,$36.00
+6/21/2021,CHO,3806,"Lettuce, Head-24 ct",15,$36.00
+6/28/2021,CHO,3806,"Lettuce, Head-24 ct",15,$36.00
+7/5/2021,CHO,3806,"Lettuce, Head-24 ct",15,$36.00
+7/5/2021,CHO,3806,"Lettuce, Head-24 ct",15,$36.00
+6/7/2021,POG,3806,"Lettuce, Head-24 ct",38,$36.00
+6/28/2021,POG,3806,"Lettuce, Head-24 ct",38,$36.00
+6/14/2021,WKH,3806,"Lettuce, Head-24 ct",5,$36.00
+6/21/2021,WKH,3806,"Lettuce, Head-24 ct",13,$36.00
+6/21/2021,WKH,3806,"Lettuce, Head-24 ct",5,$36.00
+6/28/2021,WKH,3806,"Lettuce, Head-24 ct",15,$36.00
+7/5/2021,WKH,3806,"Lettuce, Head-24 ct",13,$36.00
+7/5/2021,WKH,3806,"Lettuce, Head-24 ct",5,$36.00
+6/7/2021,YMF,3806,"Lettuce, Head-24 ct",38,$36.00
+6/21/2021,YMF,3806,"Lettuce, Head-24 ct",15,$36.00
+6/21/2021,YMF,3806,"Lettuce, Head-24 ct",23,$36.00
+6/28/2021,YMF,3806,"Lettuce, Head-24 ct",5,$36.00
+7/5/2021,YMF,3806,"Lettuce, Head-24 ct",15,$36.00
+11/8/2021,SEE,3806,"Lettuce, Salanova",75,$36.00
+8/23/2021,SGC,3091,"Melon, Honeydew",38,$20.10
+8/23/2021,SGC,3091,"Melon, Honeydew",50,$20.10
+8/30/2021,SGC,3091,"Melon, Honeydew",50,$20.10
+9/6/2021,SGC,3089,"Melon, Watermelon",46,$38.00
+8/16/2021,AFC,3405,Okra,6,$51.00
+8/23/2021,AFC,3405,Okra,6,$51.00
+9/6/2021,MKV,3405,Okra,30,$51.00
+9/13/2021,MKV,3405,Okra,30,$51.00
+9/20/2021,MKV,3405,Okra,30,$51.00
+8/16/2021,PLT,3405,Okra,30,$51.00
+8/23/2021,PLT,3405,Okra,30,$51.00
+8/9/2021,KHF,3759,"Onions, Bulb",23,$40.00
+8/30/2021,KHF,3759,"Onions, Bulb",23,$40.00
+10/18/2021,LKW,3759,"Onions, Bulb",5,$40.00
+8/30/2021,LXF,3759,"Onions, Bulb",20,$40.00
+9/13/2021,LXF,3759,"Onions, Bulb",20,$40.00
+10/4/2021,LXF,3759,"Onions, Bulb",20,$40.00
+11/1/2021,LXF,3759,"Onions, Bulb",20,$40.00
+11/15/2021,LXF,3759,"Onions, Bulb",20,$40.00
+7/26/2021,MLP,3759,"Onions, Bulb",15,$40.00
+7/26/2021,MKV,3759,"Onions, Bulb",15,$40.00
+8/9/2021,MKV,3759,"Onions, Bulb",20,$40.00
+9/6/2021,MKV,3759,"Onions, Bulb",10,$40.00
+9/6/2021,MKV,3759,"Onions, Bulb",20,$40.00
+9/20/2021,MKV,3759,"Onions, Bulb",20,$40.00
+10/18/2021,MKV,3759,"Onions, Bulb",20,$40.00
+11/8/2021,MKV,3759,"Onions, Bulb",20,$40.00
+10/18/2021,NTN,3759,"Onions, Bulb",10,$40.00
+8/9/2021,PBY,3759,"Onions, Bulb",20,$40.00
+9/6/2021,PBY,3759,"Onions, Bulb",13,$40.00
+9/6/2021,PBY,3759,"Onions, Bulb",20,$40.00
+9/20/2021,PBY,3759,"Onions, Bulb",20,$40.00
+10/18/2021,PBY,3759,"Onions, Bulb",20,$40.00
+11/8/2021,PBY,3759,"Onions, Bulb",20,$40.00
+8/30/2021,MLG,3759,"Onions, Bulb",20,$40.00
+9/13/2021,MLG,3759,"Onions, Bulb",20,$40.00
+10/4/2021,MLG,3759,"Onions, Bulb",20,$40.00
+11/1/2021,MLG,3759,"Onions, Bulb",20,$40.00
+11/15/2021,MLG,3759,"Onions, Bulb",20,$40.00
+8/9/2021,SGC,3759,"Onions, Bulb",20,$40.00
+9/6/2021,SGC,3759,"Onions, Bulb",20,$40.00
+9/20/2021,SGC,3759,"Onions, Bulb",20,$40.00
+10/18/2021,SGC,3759,"Onions, Bulb",20,$40.00
+11/8/2021,SGC,3759,"Onions, Bulb",7,$40.00
+11/8/2021,SGC,3759,"Onions, Bulb",20,$40.00
+8/30/2021,SGC,3759,"Onions, Bulb",20,$40.00
+9/13/2021,SGC,3759,"Onions, Bulb",20,$40.00
+10/4/2021,SGC,3759,"Onions, Bulb",20,$40.00
+11/1/2021,SGC,3759,"Onions, Bulb",20,$40.00
+11/8/2021,SGC,3759,"Onions, Bulb",8,$40.00
+11/15/2021,SGC,3759,"Onions, Bulb",20,$40.00
+8/9/2021,SGC,3759,"Onions, Bulb",20,$40.00
+9/6/2021,SGC,3759,"Onions, Bulb",20,$40.00
+9/20/2021,SGC,3759,"Onions, Bulb",20,$40.00
+10/18/2021,SGC,3759,"Onions, Bulb",20,$40.00
+11/8/2021,SGC,3759,"Onions, Bulb",8,$40.00
+11/8/2021,SGC,3759,"Onions, Bulb",20,$40.00
+8/30/2021,SXF,3759,"Onions, Bulb",20,$40.00
+9/13/2021,SXF,3759,"Onions, Bulb",20,$40.00
+10/4/2021,SXF,3759,"Onions, Bulb",20,$40.00
+11/1/2021,SXF,3759,"Onions, Bulb",20,$40.00
+11/15/2021,SXF,3759,"Onions, Bulb",20,$40.00
+8/9/2021,WKH,3759,"Onions, Bulb",20,$40.00
+9/6/2021,WKH,3759,"Onions, Bulb",20,$40.00
+9/20/2021,WKH,3759,"Onions, Bulb",20,$40.00
+10/18/2021,WKH,3759,"Onions, Bulb",20,$40.00
+11/8/2021,WKH,3759,"Onions, Bulb",20,$40.00
+8/30/2021,YMF,3759,"Onions, Bulb",20,$40.00
+9/13/2021,YMF,3759,"Onions, Bulb",20,$40.00
+10/4/2021,YMF,3759,"Onions, Bulb",20,$40.00
+11/1/2021,YMF,3759,"Onions, Bulb",20,$40.00
+11/15/2021,YMF,3759,"Onions, Bulb",20,$40.00
+7/26/2021,,3759,"Onions, Bulb",10,$40.00
+10/18/2021,,3759,"Onions, Bulb",8,$40.00
+6/7/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/14/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/21/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/28/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+7/5/2021,CVP,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+6/7/2021,HAF,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/14/2021,HAF,3266,"Onions, Green or Scallions-24 ct",6,$28.80
+6/21/2021,HAF,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/28/2021,HAF,3266,"Onions, Green or Scallions-24 ct",7,$28.80
+7/5/2021,HAF,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+9/27/2021,HAF,3266,"Onions, Green or Scallions-24 ct",10,$28.80
+6/7/2021,CHO,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/21/2021,CHO,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/28/2021,CHO,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+7/5/2021,CHO,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+6/7/2021,NTN,3266,"Onions, Green or Scallions-24 ct",6,$28.80
+6/14/2021,NTN,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+6/21/2021,NTN,3266,"Onions, Green or Scallions-24 ct",7,$28.80
+6/28/2021,NTN,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+7/5/2021,NTN,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+6/7/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/14/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/21/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+6/28/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,$28.80
+7/5/2021,SGC,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+6/7/2021,YMF,3266,"Onions, Green or Scallions-24 ct",12,$28.80
+6/14/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+6/21/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+6/28/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+7/5/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,$28.80
+10/18/2021,YMF,3266,"Onions, Green or Scallions-24 ct",38,$28.80
+8/16/2021,CHO,3828,"Peppers, Green Bell",20,$35.00
+8/23/2021,CHO,3828,"Peppers, Green Bell",20,$35.00
+8/30/2021,CHO,3828,"Peppers, Green Bell",20,$35.00
+9/6/2021,CHO,3828,"Peppers, Green Bell",20,$35.00
+9/13/2021,CHO,3828,"Peppers, Green Bell",20,$35.00
+9/20/2021,CHO,3828,"Peppers, Green Bell",20,$35.00
+8/9/2021,LXF,3828,"Peppers, Green Bell",36,$35.00
+8/16/2021,CLP,3828,"Peppers, Green Bell",10,$35.00
+8/23/2021,CLP,3828,"Peppers, Green Bell",10,$35.00
+8/30/2021,CLP,3828,"Peppers, Green Bell",10,$35.00
+9/6/2021,CLP,3828,"Peppers, Green Bell",10,$35.00
+9/13/2021,CLP,3828,"Peppers, Green Bell",10,$35.00
+9/20/2021,CLP,3828,"Peppers, Green Bell",10,$35.00
+8/16/2021,NTN,3828,"Peppers, Green Bell",20,$35.00
+8/23/2021,NTN,3828,"Peppers, Green Bell",20,$35.00
+8/30/2021,NTN,3828,"Peppers, Green Bell",20,$35.00
+9/6/2021,NTN,3828,"Peppers, Green Bell",20,$35.00
+9/13/2021,NTN,3828,"Peppers, Green Bell",20,$35.00
+9/20/2021,NTN,3828,"Peppers, Green Bell",20,$35.00
+8/16/2021,MLG,3828,"Peppers, Green Bell",20,$35.00
+8/23/2021,MLG,3828,"Peppers, Green Bell",20,$35.00
+8/30/2021,MLG,3828,"Peppers, Green Bell",20,$35.00
+9/6/2021,MLG,3828,"Peppers, Green Bell",20,$35.00
+9/13/2021,MLG,3828,"Peppers, Green Bell",20,$35.00
+9/20/2021,MLG,3828,"Peppers, Green Bell",20,$35.00
+7/26/2021,SGC,3828,"Peppers, Green Bell",15,$35.00
+8/16/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+8/23/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+8/30/2021,SGC,3828,"Peppers, Green Bell",12,$35.00
+8/30/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/6/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/13/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+7/26/2021,SGC,3828,"Peppers, Green Bell",15,$35.00
+8/16/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+8/23/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+8/30/2021,SGC,3828,"Peppers, Green Bell",12,$35.00
+8/30/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/6/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/13/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+7/26/2021,SGC,3828,"Peppers, Green Bell",15,$35.00
+8/16/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+8/23/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+8/30/2021,SGC,3828,"Peppers, Green Bell",12,$35.00
+8/30/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/6/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/13/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,$35.00
+8/23/2021,HAF,3458,"Peppers, Habanero",8,$35.00
+8/30/2021,HAF,3458,"Peppers, Habanero",8,$35.00
+9/6/2021,HAF,3458,"Peppers, Habanero",8,$35.00
+9/13/2021,HAF,3458,"Peppers, Habanero",8,$35.00
+8/23/2021,CHO,3458,"Peppers, Habanero",8,$35.00
+8/30/2021,CHO,3458,"Peppers, Habanero",8,$35.00
+9/6/2021,CHO,3458,"Peppers, Habanero",8,$35.00
+9/13/2021,CHO,3458,"Peppers, Habanero",8,$35.00
+8/23/2021,MKV,3458,"Peppers, Habanero",25,$35.00
+8/30/2021,MKV,3458,"Peppers, Habanero",25,$35.00
+9/6/2021,MKV,3458,"Peppers, Habanero",25,$35.00
+9/13/2021,MKV,3458,"Peppers, Habanero",25,$35.00
+8/23/2021,PLT,3458,"Peppers, Habanero",25,$35.00
+8/30/2021,PLT,3458,"Peppers, Habanero",25,$35.00
+9/6/2021,PLT,3458,"Peppers, Habanero",25,$35.00
+9/13/2021,PLT,3458,"Peppers, Habanero",25,$35.00
+7/26/2021,CBS,3153,"Peppers, Jalapeño",6,$25.50
+8/16/2021,CBS,3153,"Peppers, Jalapeño",20,$25.50
+8/23/2021,CBS,3153,"Peppers, Jalapeño",20,$25.50
+8/30/2021,CBS,3153,"Peppers, Jalapeño",6,$25.50
+8/30/2021,CBS,3153,"Peppers, Jalapeño",20,$25.50
+9/6/2021,CBS,3153,"Peppers, Jalapeño",20,$25.50
+9/13/2021,CBS,3153,"Peppers, Jalapeño",20,$25.50
+8/16/2021,MHG,3153,"Peppers, Jalapeño",8,$25.50
+8/23/2021,MHG,3153,"Peppers, Jalapeño",8,$25.50
+8/30/2021,MHG,3153,"Peppers, Jalapeño",8,$25.50
+9/6/2021,MHG,3153,"Peppers, Jalapeño",8,$25.50
+9/13/2021,MHG,3153,"Peppers, Jalapeño",8,$25.50
+8/16/2021,PLT,3153,"Peppers, Jalapeño",8,$25.50
+8/23/2021,PLT,3153,"Peppers, Jalapeño",8,$25.50
+8/30/2021,PLT,3153,"Peppers, Jalapeño",8,$25.50
+9/6/2021,PLT,3153,"Peppers, Jalapeño",8,$25.50
+9/13/2021,PLT,3153,"Peppers, Jalapeño",8,$25.50
+8/16/2021,SGC,3153,"Peppers, Jalapeño",10,$25.50
+8/23/2021,SGC,3153,"Peppers, Jalapeño",9,$25.50
+8/23/2021,SGC,3153,"Peppers, Jalapeño",10,$25.50
+8/30/2021,SGC,3153,"Peppers, Jalapeño",10,$25.50
+9/6/2021,SGC,3153,"Peppers, Jalapeño",10,$25.50
+9/13/2021,SGC,3153,"Peppers, Jalapeño",10,$25.50
+8/16/2021,SGC,3153,"Peppers, Jalapeño",20,$25.50
+8/23/2021,SGC,3153,"Peppers, Jalapeño",20,$25.50
+8/30/2021,SGC,3153,"Peppers, Jalapeño",20,$25.50
+9/6/2021,SGC,3153,"Peppers, Jalapeño",20,$25.50
+9/13/2021,SGC,3153,"Peppers, Jalapeño",20,$25.50
+8/16/2021,LXF,3449,"Peppers, Poblano",36,$25.00
+8/16/2021,CVP,3166,"Potatoes, Red",10,$50.00
+8/30/2021,CVP,3166,"Potatoes, Red",10,$50.00
+9/13/2021,CVP,3166,"Potatoes, Red",10,$50.00
+9/27/2021,CVP,3166,"Potatoes, Red",10,$50.00
+10/11/2021,CVP,3166,"Potatoes, Red",10,$50.00
+8/23/2021,KHF,3166,"Potatoes, Red",9,$50.00
+8/16/2021,LXF,3166,"Potatoes, Red",10,$50.00
+8/30/2021,LXF,3166,"Potatoes, Red",10,$50.00
+9/13/2021,LXF,3166,"Potatoes, Red",10,$50.00
+9/27/2021,LXF,3166,"Potatoes, Red",10,$50.00
+10/11/2021,LXF,3166,"Potatoes, Red",10,$50.00
+8/23/2021,MLP,3166,"Potatoes, Red",9,$50.00
+8/16/2021,MKV,3166,"Potatoes, Red",10,$50.00
+8/30/2021,MKV,3166,"Potatoes, Red",10,$50.00
+9/13/2021,MKV,3166,"Potatoes, Red",10,$50.00
+9/27/2021,MKV,3166,"Potatoes, Red",10,$50.00
+10/11/2021,MKV,3166,"Potatoes, Red",10,$50.00
+8/16/2021,PBY,3166,"Potatoes, Red",10,$50.00
+8/30/2021,PBY,3166,"Potatoes, Red",10,$50.00
+9/13/2021,PBY,3166,"Potatoes, Red",10,$50.00
+9/27/2021,PBY,3166,"Potatoes, Red",10,$50.00
+10/11/2021,PBY,3166,"Potatoes, Red",10,$50.00
+8/23/2021,CVP,3171,"Potatoes, Yellow",10,$50.00
+9/6/2021,CVP,3171,"Potatoes, Yellow",10,$50.00
+9/20/2021,CVP,3171,"Potatoes, Yellow",10,$50.00
+10/4/2021,CVP,3171,"Potatoes, Yellow",10,$50.00
+10/18/2021,CVP,3171,"Potatoes, Yellow",10,$50.00
+8/23/2021,LXF,3171,"Potatoes, Yellow",10,$50.00
+9/6/2021,LXF,3171,"Potatoes, Yellow",10,$50.00
+9/20/2021,LXF,3171,"Potatoes, Yellow",10,$50.00
+10/4/2021,LXF,3171,"Potatoes, Yellow",10,$50.00
+10/18/2021,LXF,3171,"Potatoes, Yellow",10,$50.00
+8/23/2021,MKV,3171,"Potatoes, Yellow",10,$50.00
+9/6/2021,MKV,3171,"Potatoes, Yellow",10,$50.00
+9/20/2021,MKV,3171,"Potatoes, Yellow",10,$50.00
+10/4/2021,MKV,3171,"Potatoes, Yellow",10,$50.00
+10/18/2021,MKV,3171,"Potatoes, Yellow",10,$50.00
+8/23/2021,NTN,3171,"Potatoes, Yellow",10,$50.00
+9/6/2021,NTN,3171,"Potatoes, Yellow",10,$50.00
+9/20/2021,NTN,3171,"Potatoes, Yellow",10,$50.00
+10/4/2021,NTN,3171,"Potatoes, Yellow",10,$50.00
+10/18/2021,NTN,3171,"Potatoes, Yellow",10,$50.00
+7/12/2021,HAF,3278,"Radishes, bunched-24 ct",10,$33.75
+6/14/2021,CHO,3278,"Radishes, bunched-24 ct",30,$33.75
+6/28/2021,CHO,3278,"Radishes, bunched-24 ct",30,$33.75
+6/21/2021,CBS,3278,"Radishes, bunched-24 ct",10,$33.75
+6/28/2021,CBS,3278,"Radishes, bunched-24 ct",15,$33.75
+7/5/2021,CBS,3278,"Radishes, bunched-24 ct",20,$33.75
+7/12/2021,CBS,3278,"Radishes, bunched-24 ct",20,$33.75
+7/19/2021,CBS,3278,"Radishes, bunched-24 ct",20,$33.75
+6/7/2021,KLF,3278,"Radishes, bunched-24 ct",8,$33.75
+6/14/2021,KLF,3278,"Radishes, bunched-24 ct",10,$33.75
+6/21/2021,KLF,3278,"Radishes, bunched-24 ct",10,$33.75
+6/28/2021,KLF,3278,"Radishes, bunched-24 ct",5,$33.75
+7/5/2021,KLF,3278,"Radishes, bunched-24 ct",8,$33.75
+7/12/2021,KLF,3278,"Radishes, bunched-24 ct",20,$33.75
+7/19/2021,KLF,3278,"Radishes, bunched-24 ct",20,$33.75
+6/21/2021,MHG,3278,"Radishes, bunched-24 ct",5,$33.75
+6/28/2021,MHG,3278,"Radishes, bunched-24 ct",7,$33.75
+7/5/2021,MHG,3278,"Radishes, bunched-24 ct",5,$33.75
+7/12/2021,MHG,3278,"Radishes, bunched-24 ct",5,$33.75
+7/19/2021,MHG,3278,"Radishes, bunched-24 ct",5,$33.75
+6/21/2021,D2D,3278,"Radishes, bunched-24 ct",5,$33.75
+6/28/2021,D2D,3278,"Radishes, bunched-24 ct",5,$33.75
+7/5/2021,D2D,3278,"Radishes, bunched-24 ct",5,$33.75
+7/12/2021,D2D,3278,"Radishes, bunched-24 ct",5,$33.75
+7/19/2021,D2D,3278,"Radishes, bunched-24 ct",5,$33.75
+6/28/2021,WKH,3278,"Radishes, bunched-24 ct",8,$33.75
+10/11/2021,MHG,3178,"Radishes, Daikon",25,$30.00
+10/18/2021,MHG,3178,"Radishes, Daikon",25,$30.00
+10/25/2021,MHG,3178,"Radishes, Daikon",25,$30.00
+11/1/2021,MHG,3178,"Radishes, Daikon",25,$30.00
+10/11/2021,YMF,3178,"Radishes, Daikon",25,$30.00
+10/18/2021,YMF,3178,"Radishes, Daikon",25,$30.00
+10/25/2021,YMF,3178,"Radishes, Daikon",25,$30.00
+11/1/2021,YMF,3178,"Radishes, Daikon",25,$30.00
+6/28/2021,YMF,3216,Rhubarb,36,$60.00
+7/12/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00
+7/19/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00
+7/26/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00
+8/2/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00
+8/9/2021,AFC,3184,"Squash, Summer, Zucchini",15,$20.00
+8/9/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00
+7/12/2021,LXF,3184,"Squash, Summer, Zucchini",30,$20.00
+7/19/2021,LXF,3184,"Squash, Summer, Zucchini",30,$20.00
+7/26/2021,LXF,3184,"Squash, Summer, Zucchini",30,$20.00
+8/2/2021,LXF,3184,"Squash, Summer, Zucchini",30,$20.00
+8/9/2021,LXF,3184,"Squash, Summer, Zucchini",30,$20.00
+7/12/2021,MHG,3184,"Squash, Summer, Zucchini",30,$20.00
+7/19/2021,MHG,3184,"Squash, Summer, Zucchini",30,$20.00
+7/26/2021,MHG,3184,"Squash, Summer, Zucchini",30,$20.00
+8/2/2021,MHG,3184,"Squash, Summer, Zucchini",30,$20.00
+8/9/2021,MHG,3184,"Squash, Summer, Zucchini",30,$20.00
+7/12/2021,D2D,3184,"Squash, Summer, Zucchini",30,$20.00
+7/19/2021,D2D,3184,"Squash, Summer, Zucchini",30,$20.00
+7/26/2021,D2D,3184,"Squash, Summer, Zucchini",30,$20.00
+8/2/2021,D2D,3184,"Squash, Summer, Zucchini",30,$20.00
+8/9/2021,D2D,3184,"Squash, Summer, Zucchini",15,$20.00
+8/9/2021,D2D,3184,"Squash, Summer, Zucchini",30,$20.00
+7/12/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00
+7/19/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00
+7/26/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00
+8/2/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00
+8/9/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00
+7/12/2021,WKH,3184,"Squash, Summer, Zucchini",30,$20.00
+7/19/2021,WKH,3184,"Squash, Summer, Zucchini",15,$20.00
+7/19/2021,WKH,3184,"Squash, Summer, Zucchini",30,$20.00
+7/26/2021,WKH,3184,"Squash, Summer, Zucchini",30,$20.00
+8/2/2021,WKH,3184,"Squash, Summer, Zucchini",30,$20.00
+8/9/2021,WKH,3184,"Squash, Summer, Zucchini",15,$20.00
+8/9/2021,WKH,3184,"Squash, Summer, Zucchini",30,$20.00
+7/19/2021,YMF,3184,"Squash, Summer, Zucchini",30,$20.00
+8/23/2021,,3184,"Squash, Summer, Zucchini",45,$20.00
+10/4/2021,SEE,3188,"Squash, Winter, Butternut",68,$24.65
+11/1/2021,SEE,3188,"Squash, Winter, Butternut",68,$24.65
+11/22/2021,SEE,3188,"Squash, Winter, Butternut",68,$24.65
+10/4/2021,CBS,3188,"Squash, Winter, Butternut",25,$24.65
+10/11/2021,CBS,3188,"Squash, Winter, Butternut",25,$24.65
+10/18/2021,CBS,3188,"Squash, Winter, Butternut",25,$24.65
+10/25/2021,CBS,3188,"Squash, Winter, Butternut",25,$24.65
+11/8/2021,CBS,3188,"Squash, Winter, Butternut",25,$24.65
+10/4/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/11/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+11/8/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/4/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/11/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+11/8/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/4/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/11/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+11/8/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65
+9/20/2021,SEE,3189,"Squash, Winter, Delicata",52,$35.00
+10/18/2021,SEE,3189,"Squash, Winter, Delicata",52,$35.00
+9/20/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+10/4/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+10/18/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+11/1/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+9/20/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+10/4/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+10/18/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+11/1/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+9/20/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+10/4/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+10/18/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+11/1/2021,SGC,3189,"Squash, Winter, Delicata",25,$35.00
+9/20/2021,YMF,3189,"Squash, Winter, Delicata",25,$35.00
+10/4/2021,YMF,3189,"Squash, Winter, Delicata",25,$35.00
+10/18/2021,YMF,3189,"Squash, Winter, Delicata",25,$35.00
+11/1/2021,YMF,3189,"Squash, Winter, Delicata",25,$35.00
+7/26/2021,CBS,3404,Tomatillos,90,$28.00
+8/2/2021,CBS,3404,Tomatillos,66,$28.00
+8/23/2021,CBS,3404,Tomatillos,66,$28.00
+8/30/2021,CBS,3404,Tomatillos,90,$28.00
+9/27/2021,CBS,3404,Tomatillos,66,$28.00
+8/30/2021,CVP,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+9/6/2021,CVP,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+9/13/2021,CVP,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+8/23/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,$30.00
+8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,$30.00
+8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,$30.00
+9/6/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,$30.00
+9/13/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,$30.00
+9/13/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,$30.00
+8/23/2021,AFC,3200,"Tomatoes, Grape, 12 ct Pint",10,$30.00
+8/30/2021,AFC,3200,"Tomatoes, Grape, 12 ct Pint",10,$30.00
+9/13/2021,AFC,3200,"Tomatoes, Grape, 12 ct Pint",10,$30.00
+8/23/2021,MHG,3200,"Tomatoes, Grape, 12 ct Pint",25,$30.00
+8/30/2021,MHG,3200,"Tomatoes, Grape, 12 ct Pint",25,$30.00
+9/13/2021,MHG,3200,"Tomatoes, Grape, 12 ct Pint",25,$30.00
+8/30/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+9/6/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+9/13/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+8/30/2021,WKH,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+9/6/2021,WKH,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+9/13/2021,WKH,3200,"Tomatoes, Grape, 12 ct Pint",16,$30.00
+8/23/2021,AFC,3201,"Tomatoes, Roma",6,$35.00
+8/30/2021,AFC,3201,"Tomatoes, Roma",6,$35.00
+9/6/2021,AFC,3201,"Tomatoes, Roma",6,$35.00
+9/13/2021,AFC,3201,"Tomatoes, Roma",6,$35.00
+9/20/2021,AFC,3201,"Tomatoes, Roma",6,$35.00
+9/27/2021,AFC,3201,"Tomatoes, Roma",6,$35.00
+8/23/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+8/23/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+8/30/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+8/30/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/6/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/6/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/13/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/13/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/20/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/20/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/27/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+9/27/2021,CBS,3201,"Tomatoes, Roma",20,$35.00
+8/23/2021,SGC,3201,"Tomatoes, Roma",20,$35.00
+8/30/2021,SGC,3201,"Tomatoes, Roma",20,$35.00
+9/6/2021,SGC,3201,"Tomatoes, Roma",20,$35.00
+9/13/2021,SGC,3201,"Tomatoes, Roma",20,$35.00
+9/20/2021,SGC,3201,"Tomatoes, Roma",20,$35.00
+9/27/2021,SGC,3201,"Tomatoes, Roma",20,$35.00
+7/12/2021,SEE,3202,"Tomatoes, Slicing",23,$40.00
+7/19/2021,SEE,3202,"Tomatoes, Slicing",23,$40.00
+7/26/2021,SEE,3202,"Tomatoes, Slicing",23,$40.00
+8/2/2021,SEE,3202,"Tomatoes, Slicing",23,$40.00
+8/16/2021,CHO,3202,"Tomatoes, Slicing",9,$40.00
+9/6/2021,CHO,3202,"Tomatoes, Slicing",6,$40.00
+9/20/2021,CHO,3202,"Tomatoes, Slicing",9,$40.00
+8/16/2021,KSL,3202,"Tomatoes, Slicing",12,$40.00
+9/6/2021,KSL,3202,"Tomatoes, Slicing",10,$40.00
+9/20/2021,KSL,3202,"Tomatoes, Slicing",12,$40.00
+8/23/2021,KHF,3202,"Tomatoes, Slicing",13,$40.00
+8/30/2021,KHF,3202,"Tomatoes, Slicing",13,$40.00
+9/6/2021,KHF,3202,"Tomatoes, Slicing",13,$40.00
+9/13/2021,KHF,3202,"Tomatoes, Slicing",13,$40.00
+9/20/2021,KHF,3202,"Tomatoes, Slicing",13,$40.00
+8/16/2021,MLP,3202,"Tomatoes, Slicing",12,$40.00
+9/6/2021,MLP,3202,"Tomatoes, Slicing",10,$40.00
+9/20/2021,MLP,3202,"Tomatoes, Slicing",12,$40.00
+8/16/2021,PBY,3202,"Tomatoes, Slicing",12,$40.00
+9/6/2021,PBY,3202,"Tomatoes, Slicing",10,$40.00
+9/20/2021,PBY,3202,"Tomatoes, Slicing",12,$40.00
+8/23/2021,DTF,3202,"Tomatoes, Slicing",53,$40.00
+8/30/2021,DTF,3202,"Tomatoes, Slicing",53,$40.00
+9/6/2021,DTF,3202,"Tomatoes, Slicing",53,$40.00
+9/13/2021,DTF,3202,"Tomatoes, Slicing",53,$40.00
+9/20/2021,DTF,3202,"Tomatoes, Slicing",53,$40.00

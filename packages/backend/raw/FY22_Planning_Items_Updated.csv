@@ -1,0 +1,866 @@
+Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price
+6/6/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/6/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/6/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/6/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+6/6/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/6/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/6/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/6/2022,JWI,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+6/6/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/6/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,$42.75,$47.45
+6/6/2022,CBS,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+6/6/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,$33.75,$37.46
+6/13/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/13/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,$42.75,$47.45
+6/13/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,$33.75,$37.46
+6/13/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/13/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/13/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+6/13/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/13/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/13/2022,CBS,3278,"Radishes, bunched-24 ct",15,$43.50,$48.29
+6/13/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/13/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/13/2022,JWI,3278,"Radishes, bunched-24 ct",15,$43.50,$48.29
+6/20/2022,JWI,3278,"Radishes, bunched-24 ct",5,$43.50,$48.29
+6/20/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/20/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/20/2022,CBO,3278,"Radishes, bunched-24 ct",5,$43.50,$48.29
+6/20/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,$33.75,$37.46
+6/20/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/20/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/20/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,$42.75,$47.45
+6/20/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/20/2022,CMA,3278,"Radishes, bunched-24 ct",5,$43.50,$48.29
+6/20/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/20/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/20/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+6/20/2022,CBS,3278,"Radishes, bunched-24 ct",15,$43.50,$48.29
+6/27/2022,D2D,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+6/27/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/27/2022,CBS,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+6/27/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+6/27/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,$33.75,$37.46
+6/27/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/27/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/27/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,$42.75,$47.45
+6/27/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+6/27/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/27/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+6/27/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+6/27/2022,JWI,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/4/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+7/4/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+7/4/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+7/4/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,$33.75,$37.46
+7/4/2022,CHO,3182,"Squash, Summer, Patty Pan",22,$24.00,$26.64
+7/4/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+7/4/2022,MFP,3573,"Greens, Bok Choi",10,$46.25,$51.34
+7/4/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,$42.75,$47.45
+7/4/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+7/4/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,$33.75,$37.46
+7/4/2022,JWI,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/4/2022,D2D,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/4/2022,D2D,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/4/2022,CLP,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/4/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+7/4/2022,CBS,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/4/2022,TEB,3573,"Greens, Bok Choi",10,$46.25,$51.34
+7/4/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,$33.75,$37.46
+7/4/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+7/4/2022,TEB,3573,"Greens, Bok Choi",10,$46.25,$51.34
+7/4/2022,AFC,3138,"Greens, Collard-24 ct",8,$42.75,$47.45
+7/4/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+7/11/2022,KSL,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/11/2022,YMF,3754,"Cabbage, Red",5,$40.75,$45.23
+7/11/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,$42.75,$47.45
+7/11/2022,YMF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/11/2022,ONC,3754,"Cabbage, Red",5,$40.75,$45.23
+7/11/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+7/11/2022,D2D,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/11/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+7/11/2022,CHO,3182,"Squash, Summer, Patty Pan",22,$24.00,$26.64
+7/11/2022,HAF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/11/2022,SXF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/11/2022,JWI,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/11/2022,CLP,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/11/2022,CMA,3754,"Cabbage, Red",5,$40.75,$45.23
+7/11/2022,D2D,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/11/2022,AFC,3138,"Greens, Collard-24 ct",8,$42.75,$47.45
+7/11/2022,LDX,3754,"Cabbage, Red",5,$40.75,$45.23
+7/11/2022,MHG,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/11/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,$42.75,$47.45
+7/11/2022,CHO,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/18/2022,RSV,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/18/2022,JWI,3809,"Beans, Green, Yellow or Purple",7,$71.00,$78.81
+7/18/2022,D2D,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/18/2022,JWI,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/18/2022,ONC,3754,"Cabbage, Red",5,$40.75,$45.23
+7/18/2022,CHO,3182,"Squash, Summer, Patty Pan",22,$24.00,$26.64
+7/18/2022,TXI,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/18/2022,D2D,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/18/2022,YMF,3754,"Cabbage, Red",5,$40.75,$45.23
+7/18/2022,NTN,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+7/18/2022,CLP,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/18/2022,D2D,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+7/18/2022,CMA,3754,"Cabbage, Red",5,$40.75,$45.23
+7/18/2022,MHA,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/18/2022,LDX,3754,"Cabbage, Red",5,$40.75,$45.23
+7/18/2022,HOP,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/18/2022,MLG,3809,"Beans, Green, Yellow or Purple",5,$71.00,$78.81
+7/18/2022,LOF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/18/2022,CMA,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+7/18/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+7/18/2022,CLP,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/18/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,$71.00,$78.81
+7/18/2022,RSV,3809,"Beans, Green, Yellow or Purple",6,$71.00,$78.81
+7/18/2022,AFC,3138,"Greens, Collard-24 ct",8,$42.75,$47.45
+7/18/2022,JWI,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+7/18/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,LEE,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,BXF,3669,"Greens, Chard-24 ct",15,$42.75,$47.45
+7/25/2022,ONC,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+7/25/2022,CBO,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+7/25/2022,TEB,3099,Beets w/greens,10,$43.25,$48.01
+7/25/2022,KSL,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/25/2022,CHO,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/25/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+7/25/2022,LVO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+7/25/2022,JWI,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+7/25/2022,MLG,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,D2D,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/25/2022,AFC,3138,"Greens, Collard-24 ct",8,$42.75,$47.45
+7/25/2022,CMA,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+7/25/2022,CLP,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+7/25/2022,CMU,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+7/25/2022,SXF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/25/2022,LOF,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+7/25/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+7/25/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+7/25/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+7/25/2022,LVO,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+7/25/2022,CMA,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/25/2022,HAF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/25/2022,MMO,3669,"Greens, Chard-24 ct",15,$42.75,$47.45
+7/25/2022,YMF,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,D2D,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+7/25/2022,D2D,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/25/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+7/25/2022,YMF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/25/2022,ONC,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+7/25/2022,CHO,3182,"Squash, Summer, Patty Pan",22,$24.00,$26.64
+7/25/2022,HOP,3099,Beets w/greens,20,$43.25,$48.01
+7/25/2022,YMF,3099,Beets w/greens,20,$43.25,$48.01
+7/25/2022,CBO,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/25/2022,CLP,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+7/25/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,$71.00,$78.81
+7/25/2022,RSV,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,JWI,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+7/25/2022,MHG,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+7/25/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+7/25/2022,MMO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+7/25/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+7/25/2022,HAF,3809,"Beans, Green, Yellow or Purple",5,$71.00,$78.81
+7/25/2022,CBO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+7/25/2022,CBO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+7/25/2022,CMA,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+7/25/2022,D2D,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,CHO,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+7/25/2022,BXF,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+8/1/2022,CLP,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/1/2022,CBS,3404,Tomatillos,66,$32.75,$36.35
+8/1/2022,MHA,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/1/2022,CMA,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+8/1/2022,LVO,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+8/1/2022,CBS,3404,Tomatillos,20,$32.75,$36.35
+8/1/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/1/2022,YMF,3754,"Cabbage, Red",5,$40.75,$45.23
+8/1/2022,CMA,3754,"Cabbage, Red",5,$40.75,$45.23
+8/1/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+8/1/2022,CMA,3754,"Cabbage, Red",5,$40.75,$45.23
+8/1/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/1/2022,SRF,3809,"Beans, Green, Yellow or Purple",15,$71.00,$78.81
+8/1/2022,JWI,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/1/2022,CMA,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/1/2022,HAF,3809,"Beans, Green, Yellow or Purple",5,$71.00,$78.81
+8/1/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,$71.00,$78.81
+8/1/2022,AFC,3138,"Greens, Collard-24 ct",8,$42.75,$47.45
+8/1/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/1/2022,CHO,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/1/2022,CMU,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+8/1/2022,BXF,3669,"Greens, Chard-24 ct",15,$42.75,$47.45
+8/1/2022,RSV,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/1/2022,LOF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/1/2022,RSV,3809,"Beans, Green, Yellow or Purple",5,$71.00,$78.81
+8/1/2022,AGF,3404,Tomatillos,46,$32.75,$36.35
+8/1/2022,D2D,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+8/1/2022,CHO,3182,"Squash, Summer, Patty Pan",22,$24.00,$26.64
+8/1/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/1/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/1/2022,HOP,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/1/2022,MLG,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/1/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/1/2022,ONC,3754,"Cabbage, Red",5,$40.75,$45.23
+8/1/2022,ONC,3754,"Cabbage, Red",5,$40.75,$45.23
+8/1/2022,CBO,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+8/1/2022,LDX,3754,"Cabbage, Red",5,$40.75,$45.23
+8/1/2022,CLP,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+8/1/2022,BXF,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+8/1/2022,LEE,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/1/2022,D2D,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/1/2022,ONC,3669,"Greens, Chard-24 ct",5,$42.75,$47.45
+8/1/2022,YMF,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/1/2022,D2D,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+8/1/2022,CBO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/1/2022,LVO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/1/2022,TXI,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/1/2022,MMO,3669,"Greens, Chard-24 ct",15,$42.75,$47.45
+8/8/2022,AFC,3138,"Greens, Collard-24 ct",8,$42.75,$47.45
+8/8/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,$71.00,$78.81
+8/8/2022,CBS,3404,Tomatillos,66,$32.75,$36.35
+8/8/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/8/2022,LEE,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/8/2022,CMA,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/8/2022,D2D,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/8/2022,SXF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/8/2022,KSL,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/8/2022,D2D,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+8/8/2022,YMF,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/8/2022,ONC,3754,"Cabbage, Red",5,$40.75,$45.23
+8/8/2022,HAF,3809,"Beans, Green, Yellow or Purple",5,$71.00,$78.81
+8/8/2022,RSV,3809,"Beans, Green, Yellow or Purple",6,$71.00,$78.81
+8/8/2022,YMF,3754,"Cabbage, Red",5,$40.75,$45.23
+8/8/2022,KHF,3759,"Onions, Bulb",10,$46.25,$51.34
+8/8/2022,NTN,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+8/8/2022,MFP,3759,"Onions, Bulb",10,$46.25,$51.34
+8/8/2022,HAF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/8/2022,CLP,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+8/8/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+8/8/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/8/2022,CHO,3182,"Squash, Summer, Patty Pan",22,$24.00,$26.64
+8/8/2022,AGF,3404,Tomatillos,46,$32.75,$36.35
+8/8/2022,CBO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/8/2022,CLP,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+8/8/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/8/2022,CAL,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/8/2022,D2D,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/8/2022,CMA,3754,"Cabbage, Red",5,$40.75,$45.23
+8/8/2022,CHO,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/8/2022,PZM,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/8/2022,LDX,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/8/2022,CLP,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/8/2022,LOF,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/8/2022,CHO,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/8/2022,JWI,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/8/2022,SRF,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/8/2022,CBS,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/8/2022,MMO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/8/2022,LFF,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/8/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+8/8/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/8/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/8/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+8/8/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+8/8/2022,MLG,3759,"Onions, Bulb",10,$46.25,$51.34
+8/8/2022,LDX,3754,"Cabbage, Red",5,$40.75,$45.23
+8/8/2022,MLG,3809,"Beans, Green, Yellow or Purple",10,$71.00,$78.81
+8/8/2022,SRF,3759,"Onions, Bulb",10,$46.25,$51.34
+8/8/2022,MHG,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/8/2022,CBS,3404,Tomatillos,20,$32.75,$36.35
+8/8/2022,KHF,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/8/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/15/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/15/2022,AGF,3089,"Melon, Watermelon",15,$30.75,$34.13
+8/15/2022,YMF,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/15/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/15/2022,MHA,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/15/2022,KSL,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/15/2022,MHA,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/15/2022,D2D,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+8/15/2022,KSL,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+8/15/2022,CBS,3404,Tomatillos,20,$32.75,$36.35
+8/15/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/15/2022,CAL,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/15/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/15/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+8/15/2022,TXI,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/15/2022,LEE,3828,"Peppers, Green Bell",5,$40.75,$45.23
+8/15/2022,D2D,3754,"Cabbage, Red",5,$40.75,$45.23
+8/15/2022,MFP,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/15/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/15/2022,LFF,3828,"Peppers, Green Bell",25,$40.75,$45.23
+8/15/2022,PLT,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/15/2022,AGF,3091,"Melon, Honeydew",50,$31.25,$34.69
+8/15/2022,CBO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/15/2022,KHF,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/15/2022,MMO,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/15/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/15/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/15/2022,BXF,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+8/15/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+8/15/2022,KSL,3828,"Peppers, Green Bell",15,$40.75,$45.23
+8/15/2022,LDX,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/15/2022,HOP,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/15/2022,PBY,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/15/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+8/15/2022,CLP,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/15/2022,D2D,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+8/15/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+8/15/2022,CBS,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/15/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/15/2022,HOP,3717,"Eggplant, Globe",10,$37.00,$41.07
+8/15/2022,AGF,3089,"Melon, Watermelon",15,$30.75,$34.13
+8/15/2022,PBY,3089,"Melon, Watermelon",10,$30.75,$34.13
+8/15/2022,CMU,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/15/2022,LFF,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/15/2022,YMF,3717,"Eggplant, Globe",10,$37.00,$41.07
+8/15/2022,RSV,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/15/2022,PZM,3828,"Peppers, Green Bell",5,$40.75,$45.23
+8/15/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/15/2022,KHF,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/15/2022,AGF,3091,"Melon, Honeydew",50,$31.25,$34.69
+8/15/2022,CHO,3182,"Squash, Summer, Patty Pan",22,$24.00,$26.64
+8/15/2022,KSL,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/15/2022,PBY,3717,"Eggplant, Globe",15,$37.00,$41.07
+8/15/2022,AGF,3404,Tomatillos,46,$32.75,$36.35
+8/15/2022,PLT,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/15/2022,PBY,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/15/2022,LVO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/15/2022,LOF,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/15/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+8/15/2022,MFP,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/15/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/15/2022,DTF,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/15/2022,KHF,3202,"Tomatoes, Slicing",36,$46.00,$51.06
+8/15/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/15/2022,LOF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/15/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+8/15/2022,JWI,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/15/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/15/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/15/2022,CBS,3404,Tomatillos,66,$32.75,$36.35
+8/15/2022,AFC,3138,"Greens, Collard-24 ct",8,$42.75,$47.45
+8/15/2022,CLP,3717,"Eggplant, Globe",15,$37.00,$41.07
+8/15/2022,DTF,3202,"Tomatoes, Slicing",36,$46.00,$51.06
+8/15/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/15/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+8/15/2022,CMU,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+8/15/2022,CMA,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+8/15/2022,CTH,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/15/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/15/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/15/2022,PBY,3089,"Melon, Watermelon",10,$30.75,$34.13
+8/15/2022,BXF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/15/2022,CLP,3362,"Cucumbers, Pickling",11,$24.00,$26.64
+8/15/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/15/2022,MLG,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+8/15/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/15/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/15/2022,CLP,3182,"Squash, Summer, Patty Pan",18,$24.00,$26.64
+8/22/2022,MFP,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/22/2022,LDX,3458,"Peppers, Habanero",11,$40.50,$44.96
+8/22/2022,KSL,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+8/22/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/22/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,$40.50,$44.96
+8/22/2022,KHF,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/22/2022,JWI,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/22/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+8/22/2022,MHA,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/22/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+8/22/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/22/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/22/2022,CBS,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/22/2022,LEE,3828,"Peppers, Green Bell",10,$40.75,$45.23
+8/22/2022,AGF,3089,"Melon, Watermelon",40,$30.75,$34.13
+8/22/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/22/2022,CMA,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/22/2022,MLG,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+8/22/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/22/2022,CTH,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/22/2022,CLP,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+8/22/2022,CBS,3404,Tomatillos,66,$32.75,$36.35
+8/22/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+8/22/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+8/22/2022,D2D,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/22/2022,DTF,3202,"Tomatoes, Slicing",36,$46.00,$51.06
+8/22/2022,PZM,3458,"Peppers, Habanero",10,$40.50,$44.96
+8/22/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/22/2022,CHO,3458,"Peppers, Habanero",10,$40.50,$44.96
+8/22/2022,CBS,3404,Tomatillos,20,$32.75,$36.35
+8/22/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/22/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/22/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/22/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/22/2022,LDX,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/22/2022,BXF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/22/2022,MMO,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/22/2022,AGF,3404,Tomatillos,46,$32.75,$36.35
+8/22/2022,KSL,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/22/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/22/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+8/22/2022,MFP,3828,"Peppers, Green Bell",5,$40.75,$45.23
+8/22/2022,KSL,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/22/2022,LOF,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/22/2022,KSL,3828,"Peppers, Green Bell",10,$40.75,$45.23
+8/22/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+8/22/2022,MFP,3828,"Peppers, Green Bell",5,$40.75,$45.23
+8/22/2022,KHF,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/22/2022,NTN,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+8/22/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/22/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/22/2022,CAL,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/22/2022,KSL,3828,"Peppers, Green Bell",10,$40.75,$45.23
+8/22/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/22/2022,PBY,3089,"Melon, Watermelon",10,$30.75,$34.13
+8/22/2022,PZM,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/22/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/22/2022,LEE,3828,"Peppers, Green Bell",10,$40.75,$45.23
+8/22/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/22/2022,PLT,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/22/2022,LFF,3828,"Peppers, Green Bell",25,$40.75,$45.23
+8/22/2022,LFF,3458,"Peppers, Habanero",25,$40.50,$44.96
+8/22/2022,KHF,3201,"Tomatoes, Roma",36,$40.50,$44.96
+8/22/2022,CBS,3201,"Tomatoes, Roma",10,$40.50,$44.96
+8/22/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,$24.00,$26.64
+8/22/2022,LFF,3828,"Peppers, Green Bell",25,$40.75,$45.23
+8/22/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/22/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+8/22/2022,PBY,3201,"Tomatoes, Roma",10,$40.50,$44.96
+8/22/2022,AGF,3201,"Tomatoes, Roma",10,$40.50,$44.96
+8/22/2022,LFF,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/22/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+8/22/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+8/22/2022,PLT,3458,"Peppers, Habanero",10,$40.50,$44.96
+8/22/2022,LOF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/22/2022,MMO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/22/2022,PBY,3089,"Melon, Watermelon",10,$30.75,$34.13
+8/22/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/22/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+8/22/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/22/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/22/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/22/2022,CBO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+8/22/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/22/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/22/2022,D2D,3754,"Cabbage, Red",5,$40.75,$45.23
+8/22/2022,AGF,3089,"Melon, Watermelon",40,$30.75,$34.13
+8/22/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+8/29/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+8/29/2022,MLG,3759,"Onions, Bulb",10,$46.25,$51.34
+8/29/2022,LEE,3828,"Peppers, Green Bell",10,$40.75,$45.23
+8/29/2022,PZM,3828,"Peppers, Green Bell",10,$40.75,$45.23
+8/29/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/29/2022,SRF,3759,"Onions, Bulb",10,$46.25,$51.34
+8/29/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/29/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+8/29/2022,LOF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/29/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+8/29/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/29/2022,SRF,3201,"Tomatoes, Roma",18,$40.50,$44.96
+8/29/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/29/2022,CBS,3404,Tomatillos,20,$32.75,$36.35
+8/29/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/29/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/29/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/29/2022,KHF,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/29/2022,LFF,3458,"Peppers, Habanero",25,$40.50,$44.96
+8/29/2022,LDX,3458,"Peppers, Habanero",11,$40.50,$44.96
+8/29/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/29/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+8/29/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+8/29/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+8/29/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/29/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,$24.00,$26.64
+8/29/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/29/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+8/29/2022,KHF,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/29/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/29/2022,LFF,3828,"Peppers, Green Bell",20,$40.75,$45.23
+8/29/2022,CBS,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/29/2022,CBS,3201,"Tomatoes, Roma",15,$40.50,$44.96
+8/29/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/29/2022,LDX,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/29/2022,KSL,3828,"Peppers, Green Bell",10,$40.75,$45.23
+8/29/2022,CAL,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+8/29/2022,DTF,3202,"Tomatoes, Slicing",36,$46.00,$51.06
+8/29/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/29/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+8/29/2022,CTH,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/29/2022,YMF,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/29/2022,KSL,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+8/29/2022,CHO,3458,"Peppers, Habanero",10,$40.50,$44.96
+8/29/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/29/2022,MFP,3759,"Onions, Bulb",10,$46.25,$51.34
+8/29/2022,MMO,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/29/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+8/29/2022,RSV,3755,"Carrots, Orange",22,$36.75,$40.79
+8/29/2022,PBY,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/29/2022,TEB,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/29/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/29/2022,CMU,3132,"Carrots, Rainbow",11,$36.75,$40.79
+8/29/2022,D2D,3754,"Cabbage, Red",5,$40.75,$45.23
+8/29/2022,CBS,3404,Tomatillos,66,$32.75,$36.35
+8/29/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+8/29/2022,PLT,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/29/2022,MFP,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/29/2022,MFP,3458,"Peppers, Habanero",10,$40.50,$44.96
+8/29/2022,CAL,3201,"Tomatoes, Roma",15,$40.50,$44.96
+8/29/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/29/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/29/2022,LFF,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/29/2022,KHF,3759,"Onions, Bulb",10,$46.25,$51.34
+8/29/2022,PBY,3201,"Tomatoes, Roma",18,$40.50,$44.96
+8/29/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+8/29/2022,KAL,3132,"Carrots, Rainbow",22,$36.75,$40.79
+8/29/2022,PLT,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/29/2022,MLG,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+8/29/2022,PLT,3458,"Peppers, Habanero",10,$40.50,$44.96
+8/29/2022,CLP,3668,"Eggplant, Japanese",10,$34.25,$38.02
+8/29/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/29/2022,YMF,3132,"Carrots, Rainbow",11,$36.75,$40.79
+8/29/2022,AGF,3404,Tomatillos,46,$32.75,$36.35
+8/29/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+8/29/2022,MFP,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+8/29/2022,BXF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/29/2022,MHA,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+8/29/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+8/29/2022,KSL,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+8/29/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+8/29/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+8/29/2022,KHF,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+9/5/2022,RSV,3755,"Carrots, Orange",22,$36.75,$40.79
+9/5/2022,CLP,3717,"Eggplant, Globe",10,$37.00,$41.07
+9/5/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+9/5/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+9/5/2022,KHF,3759,"Onions, Bulb",10,$46.25,$51.34
+9/5/2022,LFF,3458,"Peppers, Habanero",25,$40.50,$44.96
+9/5/2022,MLG,3755,"Carrots, Orange",22,$36.75,$40.79
+9/5/2022,PZM,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/5/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+9/5/2022,CHO,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/5/2022,YMF,3755,"Carrots, Orange",11,$36.75,$40.79
+9/5/2022,CMA,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+9/5/2022,MHA,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/5/2022,AGF,3201,"Tomatoes, Roma",10,$40.50,$44.96
+9/5/2022,KAL,3755,"Carrots, Orange",22,$36.75,$40.79
+9/5/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+9/5/2022,CAL,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/5/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+9/5/2022,LOF,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+9/5/2022,KHF,3202,"Tomatoes, Slicing",30,$46.00,$51.06
+9/5/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+9/5/2022,DTF,3202,"Tomatoes, Slicing",36,$46.00,$51.06
+9/5/2022,CBS,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/5/2022,CMU,3755,"Carrots, Orange",22,$36.75,$40.79
+9/5/2022,SRF,3759,"Onions, Bulb",10,$46.25,$51.34
+9/5/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/5/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/5/2022,MMO,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/5/2022,MFP,3828,"Peppers, Green Bell",8,$40.75,$45.23
+9/5/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/5/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+9/5/2022,KHF,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/5/2022,MLG,3759,"Onions, Bulb",10,$46.25,$51.34
+9/5/2022,CLP,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+9/5/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+9/5/2022,KHF,3201,"Tomatoes, Roma",36,$40.50,$44.96
+9/5/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+9/5/2022,NTN,3813,"Greens, Kale-24 ct",10,$42.75,$47.45
+9/5/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/5/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/5/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+9/5/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,$36.50,$40.52
+9/5/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+9/5/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+9/5/2022,PBY,3717,"Eggplant, Globe",15,$37.00,$41.07
+9/5/2022,LEE,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/5/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+9/5/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/5/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+9/5/2022,LFF,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/5/2022,MMO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+9/5/2022,LDX,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/5/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+9/5/2022,D2D,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+9/5/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+9/5/2022,MFP,3759,"Onions, Bulb",10,$46.25,$51.34
+9/5/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+9/5/2022,D2D,3754,"Cabbage, Red",5,$40.75,$45.23
+9/5/2022,PZM,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/5/2022,JWI,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+9/5/2022,HOP,3717,"Eggplant, Globe",10,$37.00,$41.07
+9/5/2022,LFF,3828,"Peppers, Green Bell",20,$40.75,$45.23
+9/5/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/5/2022,TEB,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+9/5/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,$36.50,$40.52
+9/5/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,$36.50,$40.52
+9/5/2022,NTN,3755,"Carrots, Orange",22,$36.75,$40.79
+9/5/2022,CMU,3755,"Carrots, Orange",11,$36.75,$40.79
+9/5/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,$24.00,$26.64
+9/5/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+9/5/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/5/2022,PLT,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/5/2022,PBY,3201,"Tomatoes, Roma",10,$40.50,$44.96
+9/5/2022,BXF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/5/2022,MFP,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/5/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,$36.50,$40.52
+9/5/2022,PLT,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/5/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+9/5/2022,YMF,3717,"Eggplant, Globe",10,$37.00,$41.07
+9/5/2022,MLG,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+9/5/2022,LOF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/5/2022,KHF,3853,"Greens, Eggplant Leaves -12 ct",15,$36.50,$40.52
+9/5/2022,LDX,3458,"Peppers, Habanero",11,$40.50,$44.96
+9/5/2022,KSL,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+9/5/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,$36.50,$40.52
+9/5/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/5/2022,CBS,3201,"Tomatoes, Roma",10,$40.50,$44.96
+9/5/2022,CBO,3813,"Greens, Kale-24 ct",5,$42.75,$47.45
+9/5/2022,KSL,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/12/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/12/2022,LDX,3458,"Peppers, Habanero",11,$40.50,$44.96
+9/12/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/12/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/12/2022,MFP,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/12/2022,CBS,3201,"Tomatoes, Roma",24,$40.50,$44.96
+9/12/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/12/2022,MFP,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/12/2022,MMO,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/12/2022,RSV,3755,"Carrots, Orange",22,$36.75,$40.79
+9/12/2022,MFP,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/12/2022,YMF,3755,"Carrots, Orange",11,$36.75,$40.79
+9/12/2022,YMF,3132,"Carrots, Rainbow",11,$36.75,$40.79
+9/12/2022,SRF,3201,"Tomatoes, Roma",18,$40.50,$44.96
+9/12/2022,PLT,3668,"Eggplant, Japanese",10,$34.25,$38.02
+9/12/2022,CBS,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/12/2022,LEE,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/12/2022,CMU,3755,"Carrots, Orange",11,$36.75,$40.79
+9/12/2022,CMA,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+9/12/2022,PBY,3592,Broccoli,27,$37.00,$41.07
+9/12/2022,PLT,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/12/2022,D2D,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+9/12/2022,CTH,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+9/12/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/12/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,$35.25,$39.13
+9/12/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/12/2022,BXF,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+9/12/2022,LDX,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/12/2022,JWI,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+9/12/2022,MLG,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+9/12/2022,RSV,3755,"Carrots, Orange",10,$36.75,$40.79
+9/12/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,$40.50,$44.96
+9/12/2022,LVO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+9/12/2022,KHF,3759,"Onions, Bulb",10,$46.25,$51.34
+9/12/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,$24.00,$26.64
+9/12/2022,SRF,3759,"Onions, Bulb",10,$46.25,$51.34
+9/12/2022,PBY,3668,"Eggplant, Japanese",10,$34.25,$38.02
+9/12/2022,PBY,3201,"Tomatoes, Roma",9,$40.50,$44.96
+9/12/2022,CLP,3668,"Eggplant, Japanese",10,$34.25,$38.02
+9/12/2022,MFP,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/12/2022,DTF,3202,"Tomatoes, Slicing",36,$46.00,$51.06
+9/12/2022,LFF,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/12/2022,CAL,3759,"Onions, Bulb",20,$46.25,$51.34
+9/12/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/12/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/12/2022,KHF,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/12/2022,KSL,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+9/12/2022,KHF,3668,"Eggplant, Japanese",10,$34.25,$38.02
+9/12/2022,CAL,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/12/2022,CAL,3201,"Tomatoes, Roma",15,$40.50,$44.96
+9/12/2022,KSL,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+9/12/2022,YMF,3668,"Eggplant, Japanese",10,$34.25,$38.02
+9/12/2022,KAL,3132,"Carrots, Rainbow",22,$36.75,$40.79
+9/12/2022,AGF,3759,"Onions, Bulb",20,$46.25,$51.34
+9/12/2022,LOF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/12/2022,LFF,3458,"Peppers, Habanero",25,$40.50,$44.96
+9/12/2022,CBO,3138,"Greens, Collard-24 ct",5,$42.75,$47.45
+9/12/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+9/12/2022,CHO,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/12/2022,MHA,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/12/2022,CMU,3138,"Greens, Collard-24 ct",10,$42.75,$47.45
+9/12/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/12/2022,PLT,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/12/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/12/2022,MLG,3755,"Carrots, Orange",22,$36.75,$40.79
+9/12/2022,BXF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/12/2022,KSL,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/12/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,$24.00,$26.64
+9/12/2022,MLG,3759,"Onions, Bulb",10,$46.25,$51.34
+9/12/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/12/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,$35.25,$39.13
+9/12/2022,LFF,3828,"Peppers, Green Bell",20,$40.75,$45.23
+9/12/2022,CMU,3132,"Carrots, Rainbow",11,$36.75,$40.79
+9/12/2022,MFP,3759,"Onions, Bulb",10,$46.25,$51.34
+9/19/2022,PLT,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/19/2022,MMO,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/19/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/19/2022,KHF,3201,"Tomatoes, Roma",36,$40.50,$44.96
+9/19/2022,KSL,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+9/19/2022,LDX,3458,"Peppers, Habanero",11,$40.50,$44.96
+9/19/2022,MLG,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+9/19/2022,LDX,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/19/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,$40.50,$44.96
+9/19/2022,AGF,3759,"Onions, Bulb",20,$46.25,$51.34
+9/19/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/19/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/19/2022,KHF,3759,"Onions, Bulb",10,$46.25,$51.34
+9/19/2022,MFP,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/19/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/19/2022,MLG,3759,"Onions, Bulb",10,$46.25,$51.34
+9/19/2022,CBS,3201,"Tomatoes, Roma",10,$40.50,$44.96
+9/19/2022,DTF,3202,"Tomatoes, Slicing",36,$46.00,$51.06
+9/19/2022,KSL,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+9/19/2022,LFF,3458,"Peppers, Habanero",25,$40.50,$44.96
+9/19/2022,MFP,3759,"Onions, Bulb",10,$46.25,$51.34
+9/19/2022,CTH,3202,"Tomatoes, Slicing",15,$46.00,$51.06
+9/19/2022,SRF,3759,"Onions, Bulb",10,$46.25,$51.34
+9/19/2022,CBS,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/19/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+9/19/2022,PLT,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/19/2022,AGF,3189,"Squash, Winter, Delicata",30,$40.75,$45.23
+9/19/2022,LFF,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/19/2022,LFF,3828,"Peppers, Green Bell",20,$40.75,$45.23
+9/19/2022,PZM,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/19/2022,PZM,3153,"Peppers, Jalapeño",10,$30.00,$33.30
+9/19/2022,CHO,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/19/2022,CAL,3189,"Squash, Winter, Delicata",40,$40.75,$45.23
+9/19/2022,CAL,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/19/2022,KHF,3153,"Peppers, Jalapeño",12,$30.00,$33.30
+9/19/2022,CBS,3201,"Tomatoes, Roma",15,$40.50,$44.96
+9/19/2022,MHA,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/19/2022,AGF,3201,"Tomatoes, Roma",10,$40.50,$44.96
+9/19/2022,LOF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/19/2022,BXF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+9/19/2022,CAL,3759,"Onions, Bulb",20,$46.25,$51.34
+9/19/2022,PBY,3201,"Tomatoes, Roma",10,$40.50,$44.96
+9/19/2022,LEE,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/19/2022,AGF,3189,"Squash, Winter, Delicata",60,$40.75,$45.23
+9/19/2022,KSL,3828,"Peppers, Green Bell",10,$40.75,$45.23
+9/19/2022,PZM,3458,"Peppers, Habanero",10,$40.50,$44.96
+9/19/2022,CAL,3189,"Squash, Winter, Delicata",20,$40.75,$45.23
+9/26/2022,PZM,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,CAL,3189,"Squash, Winter, Delicata",65,$40.75,$45.23
+9/26/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,AGF,3189,"Squash, Winter, Delicata",60,$40.75,$45.23
+9/26/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/26/2022,PZM,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,MFP,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,PBY,3189,"Squash, Winter, Delicata",25,$40.75,$45.23
+9/26/2022,KHF,3201,"Tomatoes, Roma",18,$40.50,$44.96
+9/26/2022,TEB,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,PZM,3449,"Peppers, Poblano",10,$46.25,$51.34
+9/26/2022,TEB,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,NTN,3449,"Peppers, Poblano",20,$46.25,$51.34
+9/26/2022,PZM,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/26/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/26/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,MFP,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,$40.50,$44.96
+9/26/2022,CHO,3449,"Peppers, Poblano",10,$46.25,$51.34
+9/26/2022,CBS,3201,"Tomatoes, Roma",14,$40.50,$44.96
+9/26/2022,SRF,3201,"Tomatoes, Roma",30,$40.50,$44.96
+9/26/2022,MFP,3573,"Greens, Bok Choi",10,$46.25,$51.34
+9/26/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,$40.50,$44.96
+9/26/2022,AGF,3449,"Peppers, Poblano",10,$46.25,$51.34
+9/26/2022,PBY,3201,"Tomatoes, Roma",9,$40.50,$44.96
+10/3/2022,MMO,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+10/3/2022,MLG,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+10/3/2022,AGF,3189,"Squash, Winter, Delicata",90,$40.75,$45.23
+10/3/2022,KAL,3132,"Carrots, Rainbow",22,$36.75,$40.79
+10/3/2022,CLP,3613,"Beets, Bulk",11,$31.00,$34.41
+10/3/2022,NTN,3613,"Beets, Bulk",11,$31.00,$34.41
+10/3/2022,CMU,3132,"Carrots, Rainbow",11,$36.75,$40.79
+10/3/2022,JWI,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+10/3/2022,CHO,3278,"Radishes, bunched-24 ct",20,$43.50,$48.29
+10/3/2022,MFP,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+10/3/2022,RSV,3755,"Carrots, Orange",22,$36.75,$40.79
+10/3/2022,BXF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+10/3/2022,MLG,3759,"Onions, Bulb",10,$46.25,$51.34
+10/3/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/3/2022,CAL,3759,"Onions, Bulb",20,$46.25,$51.34
+10/3/2022,D2D,3278,"Radishes, bunched-24 ct",10,$43.50,$48.29
+10/3/2022,PLT,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+10/3/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/3/2022,MHA,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+10/3/2022,MFP,3759,"Onions, Bulb",10,$46.25,$51.34
+10/3/2022,KSL,3613,"Beets, Bulk",11,$31.00,$34.41
+10/3/2022,CAL,3189,"Squash, Winter, Delicata",60,$40.75,$45.23
+10/3/2022,YMF,3613,"Beets, Bulk",11,$31.00,$34.41
+10/3/2022,YMF,3132,"Carrots, Rainbow",11,$36.75,$40.79
+10/3/2022,LOF,3364,"Greens, Mustard-24 ct",5,$42.75,$47.45
+10/3/2022,KHF,3759,"Onions, Bulb",10,$46.25,$51.34
+10/3/2022,AGF,3759,"Onions, Bulb",20,$46.25,$51.34
+10/3/2022,SRF,3759,"Onions, Bulb",10,$46.25,$51.34
+10/3/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+10/3/2022,KSL,3364,"Greens, Mustard-24 ct",10,$42.75,$47.45
+10/10/2022,MLG,3759,"Onions, Bulb",10,$46.25,$51.34
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,CAL,3759,"Onions, Bulb",20,$46.25,$51.34
+10/10/2022,KSL,3613,"Beets, Bulk",11,$31.00,$34.41
+10/10/2022,MFP,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,SRF,3759,"Onions, Bulb",10,$46.25,$51.34
+10/10/2022,NTN,3613,"Beets, Bulk",11,$31.00,$34.41
+10/10/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/10/2022,YMF,3132,"Carrots, Rainbow",22,$36.75,$40.79
+10/10/2022,KHF,3759,"Onions, Bulb",10,$46.25,$51.34
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,MFP,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,YMF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/10/2022,YMF,3613,"Beets, Bulk",11,$31.00,$34.41
+10/10/2022,AGF,3759,"Onions, Bulb",20,$46.25,$51.34
+10/10/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/10/2022,MFP,3759,"Onions, Bulb",10,$46.25,$51.34
+10/10/2022,TEB,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,KAL,3132,"Carrots, Rainbow",22,$36.75,$40.79
+10/10/2022,HAF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/10/2022,TEB,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,CLP,3613,"Beets, Bulk",11,$31.00,$34.41
+10/10/2022,SRF,3759,"Onions, Bulb",20,$46.25,$51.34
+10/10/2022,YMF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/10/2022,MFP,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,RSV,3755,"Carrots, Orange",22,$36.75,$40.79
+10/10/2022,PZM,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,$46.25,$51.34
+10/10/2022,PZM,3573,"Greens, Bok Choi",18,$46.25,$51.34
+10/17/2022,CLP,3613,"Beets, Bulk",11,$31.00,$34.41
+10/17/2022,MLG,3755,"Carrots, Orange",22,$36.75,$40.79
+10/17/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/17/2022,YMF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/17/2022,YMF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/17/2022,CMU,3132,"Carrots, Rainbow",11,$36.75,$40.79
+10/17/2022,YMF,3755,"Carrots, Orange",11,$36.75,$40.79
+10/17/2022,KSL,3613,"Beets, Bulk",11,$31.00,$34.41
+10/17/2022,NTN,3613,"Beets, Bulk",11,$31.00,$34.41
+10/17/2022,YMF,3132,"Carrots, Rainbow",33,$36.75,$40.79
+10/17/2022,NTN,3132,"Carrots, Rainbow",22,$36.75,$40.79
+10/17/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/17/2022,NTN,3755,"Carrots, Orange",22,$36.75,$40.79
+10/17/2022,CMU,3755,"Carrots, Orange",11,$36.75,$40.79
+10/17/2022,YMF,3613,"Beets, Bulk",11,$31.00,$34.41
+10/17/2022,HAF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/24/2022,NTN,3132,"Carrots, Rainbow",11,$36.75,$40.79
+10/24/2022,YMF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/24/2022,YMF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/24/2022,HAF,3178,"Radishes, Purple Daikon",22,$39.00,$43.29
+10/24/2022,KSL,3613,"Beets, Bulk",11,$31.00,$34.41
+10/24/2022,CLP,3613,"Beets, Bulk",11,$31.00,$34.41
+10/24/2022,CMU,3132,"Carrots, Rainbow",11,$36.75,$40.79
+10/24/2022,YMF,3613,"Beets, Bulk",11,$31.00,$34.41
+10/24/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/24/2022,NTN,3613,"Beets, Bulk",11,$31.00,$34.41
+10/24/2022,RSV,3755,"Carrots, Orange",11,$36.75,$40.79
+10/24/2022,PBY,3613,"Beets, Bulk",11,$31.00,$34.41
+10/24/2022,YMF,3132,"Carrots, Rainbow",33,$36.75,$40.79
+10/31/2022,D2D,,"Radishes, Watermelon",22,$36.50,$40.52
+10/31/2022,D2D,,"Radishes, Watermelon",22,$36.50,$40.52
+10/31/2022,D2D,,"Radishes, Watermelon",22,$36.50,$40.52
+11/7/2022,MLG,3755,"Carrots, Orange",22,$36.75,$40.79
+11/7/2022,NTN,3755,"Carrots, Orange",22,$36.75,$40.79
+11/7/2022,CMU,3755,"Carrots, Orange",11,$36.75,$40.79
+11/7/2022,YMF,3755,"Carrots, Orange",11,$36.75,$40.79
