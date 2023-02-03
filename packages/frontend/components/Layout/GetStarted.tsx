@@ -6,9 +6,23 @@ const GetStarted = (): JSX.Element => (
             colorScheme={"brand"}
             /*IMPORT GOTO SOMEWHERE*/
             style={{
-                boxShadow: "3px 3px 0px #CEECEF",
+                position: "absolute",
+                width: "283px",
+                height: "90px",
+                left: "149px",
+                top: "544px",
+                background: "#58BAC8",
+                boxShadow: "6px 6px 0px #CEECEF",
                 borderRadius: "15px",
                 font: "Popins",
+                fontStyle: "normal",
+                fontWeight: "600",
+                fontSize: "24px",
+                lineHeight: "118%",
+                display: "flex",
+                alignItems: "center",
+                letterSpacing: "0.04em",
+                color: "#FFFFFF",
             }}
         >
             Get Started</Button>
