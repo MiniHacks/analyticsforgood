@@ -1,16 +1,16 @@
 import NavBar from "../components/Layout/NavBar";
 import type { NextPage } from "next";
 import { HStack, VStack, Box, Heading } from "@chakra-ui/react";
+import Background from "../public/background.png"
 import PageLayout from "../components/Layout/PageLayout";
 import GetStarted from "../components/Layout/GetStarted";
 import ExampleBox from "../components/Layout/ExampleBox";
 
 const Home: NextPage = () => {
   return (
-    <PageLayout title={"geese, by minihacks"}>
+    <PageLayout title={"aly"}>
       <Box px={[5, 10]}>
         <NavBar />
-      </Box>
       <HStack>
         <HStack>
           // dotted lines on the far left
@@ -31,6 +31,15 @@ const Home: NextPage = () => {
             />
           </svg>
           // dotted line in the middle
+            <Box
+                style={{
+                    fontFamily: "Poppins",
+                    fontStyle: "normal",
+                    fontWeight: "700",
+                    fontSize: "71px",
+                }}
+            >Unlock the power of your data
+            </Box>
           <svg
             width="337"
             height="69"
@@ -47,7 +56,8 @@ const Home: NextPage = () => {
               stroke-dasharray="8 16"
             />
           </svg>
-          // dotted line on the far right
+            <ExampleBox />
+            // dotted line on the far right
           <svg
             width="203"
             height="84"
@@ -66,8 +76,48 @@ const Home: NextPage = () => {
           </svg>
         </HStack>
       </HStack>
-      <ExampleBox />
       <GetStarted />
+          <Box
+              style={{
+                  position: "absolute",
+                  width: "680px",
+                  height: "64px",
+                  left: "120px",
+                  top: "450px",
+                  fontFamily: "Inter",
+                  fontStyle: "normal",
+                  fontWeight: "300",
+                  fontSize: "25px",
+                  lineHeight: "118%",
+                  display: "flex",
+                  alignItems: "center",
+                  letterSpacing: "0.015em",
+                  color: "#000000",
+              }}
+          >
+              We analyze and optimize your big data for maximum performance, scalability, and accuracy.
+          </Box>
+          <Box
+              style={{
+                  position: "absolute",
+                  width: "663px",
+                  height: "24px",
+                  left: "120px",
+                  top: "668px",
+                  fontFamily: "Inter",
+                  fontStyle: "normal",
+                  fontWeight: "500",
+                  fontSize: "18px",
+                  lineHeight: "118%",
+                  display: "flex",
+                  alignItems: "center",
+                  letterSpacing: "-0.015em",
+                  color: "#000000",
+              }}
+          >
+              Your data analysis assistant. View recent demos of aly.so’s dashboards.
+          </Box>
+      </Box>
     </PageLayout>
   );
 };

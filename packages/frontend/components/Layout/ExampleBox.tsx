@@ -3,10 +3,10 @@ import { Box, Image } from "@chakra-ui/react";
 const ExampleBox = (): JSX.Element => (
     <Box
         style={{
-        position: "absolute",
+
         width: "519px",
         height: "325px",
-        left: "902.28px",
+        right: "120px",
         top: "169px",
         borderColor: "brand.500",
         border: "5px solid #58BAC8",
