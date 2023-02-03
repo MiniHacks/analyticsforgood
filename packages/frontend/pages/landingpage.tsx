@@ -2,7 +2,8 @@ import NavBar from "../components/Layout/NavBar";
 import type { NextPage } from "next";
 import { HStack, VStack, Box, Heading } from "@chakra-ui/react";
 import PageLayout from "../components/Layout/PageLayout";
-import Background from "../public/background.png";
+import GetStarted from "../components/Layout/GetStarted";
+import ExampleBox from "../components/Layout/ExampleBox";
 
 const Home: NextPage = () => {
   return (
@@ -65,6 +66,8 @@ const Home: NextPage = () => {
           </svg>
         </HStack>
       </HStack>
+      <ExampleBox />
+      <GetStarted />
     </PageLayout>
   );
 };
