@@ -7,48 +7,40 @@ import {
     Text,
     Input,
 } from "@chakra-ui/react";
+import Logo from "./Logo";
 
 const NavBar = (): JSX.Element => {
     return (
         <Box
             color={"black"}
             py={7}
-            bg={"white"}
+            bg={"transparent"}
             top={"0"}
             zIndex={"100"}
         >
             <HStack px={"5%"} justifyContent={"space-between"}>
-                <Heading fontFamily={"'Baloo 2', sans-serif"} fontSize={"45px"} color={"brand.600"}>
-                    <a href={"#home"}>aly</a>
-                </Heading>
+                <Logo/>
                 <HStack>
                     <Button
                         variant={"solid"}
+                        fontWeight={"200"}
                         fontFamily={"Poppins"}
                         fontSize={"18px"}
                         colorScheme={"white"}
                         color={"brand.600"}
                     >
-                        <a href={"#home"}>Home</a>
+                        LOGIN
                     </Button>
                     <Button
                         variant={"solid"}
-                        fontFamily={"Poppins"}
-                        fontSize={"18px"}
-                        colorScheme={"white"}
-                        color={"brand.600"}
-                    >
-                        Login
-                    </Button>
-                    <Button
-                        variant={"ghost"}
+                        fontWeight={"200"}
                         fontFamily={"Poppins"}
                         fontSize={"18px"}
                         borderRadius={"25px"}
-                        backgroundColor={""}
+                        colorScheme={"white"}
                         color={"brand.600"}
                     >
-                        Get Started
+                        GET STARTED
                     </Button>
                 </HStack>
             </HStack>

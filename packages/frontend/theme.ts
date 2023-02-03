@@ -3,6 +3,7 @@ import { extendTheme } from "@chakra-ui/react";
 export default extendTheme({
   colors: {
     brand: {
+      50: "#e8ffff",
       100: "#EFFAFA",
       200: "#CEECEF",
       300: "#95DAE0",
@@ -12,6 +13,15 @@ export default extendTheme({
       700: "#1A434F",
       800: "#1A434F",
       900: "#1A434F",
+    },
+  },
+  fonts: {
+    heading: "Poppins",
+    body: "Inter",
+  },
+  components: {
+    Heading: {
+      baseStyle: {},
     },
   },
 });
