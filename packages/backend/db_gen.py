@@ -1,7 +1,9 @@
 from sqlalchemy import Column, Integer, ForeignKey, VARCHAR, DateTime, create_engine
 from sqlalchemy.orm import relationship, Session, declarative_base
+from sqlalchemy.engine import URL
 import pandas as pd
 from datetime import datetime
+import json
 
 Base = declarative_base()
 
@@ -43,6 +45,7 @@ def order_to_db(row):
     order = Order(date=datetime.strptime(row["Distribution Date"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Unit Cost"],price=row["Unit Price"],producer_id=producer.id)
     session.add(order)
     session.commit()
+    print(f"Added Order {order.id}")
 
 def plan_to_db(row):
     producer = session.query(Producer).filter(Producer.code == row["Producer Code"]).first()
@@ -53,8 +56,19 @@ def plan_to_db(row):
     plan = Planned(date=datetime.strptime(row["Delivery Week"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Cost"],producer_id=producer.id)
     session.add(plan)
     session.commit()
+    print(f"Added Plan {plan.id}")
 
-engine = create_engine("sqlite:///../../ProcessedData.db",echo=False,future=True)
+with open("config.json","r") as f:
+    data = json.load(f)
+    url = URL.create(
+        drivername="postgresql",
+        username=data.get("username"),
+        password=data.get("password"),
+        host=data.get("host"),
+        port="25060",
+        database=data.get("database")
+    )
+engine = create_engine(url)
 Base.metadata.create_all(engine)
 session = Session(engine)
 if __name__ == "__main__":
