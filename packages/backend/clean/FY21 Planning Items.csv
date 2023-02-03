@@ -1,0 +1,728 @@
+Delivery Week,Producer Code,Product ID,Product,Quantity,Cost
+9/6/2021,CVP,3401,"Beans, Green, Yellow or Purple",18,6250
+7/26/2021,HAF,3401,"Beans, Green, Yellow or Purple",5,6250
+9/6/2021,HAF,3401,"Beans, Green, Yellow or Purple",10,6250
+9/6/2021,CLP,3401,"Beans, Green, Yellow or Purple",5,6250
+7/26/2021,D2D,3401,"Beans, Green, Yellow or Purple",15,6250
+8/9/2021,D2D,3401,"Beans, Green, Yellow or Purple",15,6250
+9/6/2021,D2D,3401,"Beans, Green, Yellow or Purple",18,6250
+9/6/2021,D2D,3401,"Beans, Green, Yellow or Purple",15,6250
+7/26/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,6250
+8/9/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,6250
+9/6/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,6250
+7/26/2021,MLG,3401,"Beans, Green, Yellow or Purple",15,6250
+8/9/2021,MLG,3401,"Beans, Green, Yellow or Purple",15,6250
+9/6/2021,MLG,3401,"Beans, Green, Yellow or Purple",15,6250
+7/5/2021,YMF,3401,"Beans, Green, Yellow or Purple",18,6250
+8/9/2021,YMF,3401,"Beans, Green, Yellow or Purple",5,6250
+7/5/2021,YMF,3099,Beets w/greens,75,3600
+10/11/2021,YMF,3099,Beets w/greens,75,3600
+8/23/2021,HAF,3613,"Beets, Bulk",36,2631
+10/4/2021,LXF,3613,"Beets, Bulk",18,2631
+10/11/2021,LXF,3613,"Beets, Bulk",18,2631
+10/18/2021,LXF,3613,"Beets, Bulk",18,2631
+10/25/2021,LXF,3613,"Beets, Bulk",18,2631
+10/4/2021,CLP,3613,"Beets, Bulk",16,2631
+10/18/2021,CLP,3613,"Beets, Bulk",16,2631
+10/25/2021,CLP,3613,"Beets, Bulk",16,2631
+10/4/2021,MHG,3613,"Beets, Bulk",16,2631
+10/11/2021,MHG,3613,"Beets, Bulk",16,2631
+10/18/2021,MHG,3613,"Beets, Bulk",16,2631
+10/25/2021,MHG,3613,"Beets, Bulk",16,2631
+10/4/2021,PBY,3613,"Beets, Bulk",16,2631
+10/11/2021,PBY,3613,"Beets, Bulk",16,2631
+10/18/2021,PBY,3613,"Beets, Bulk",16,2631
+10/25/2021,PBY,3613,"Beets, Bulk",16,2631
+6/21/2021,PBY,3573,Bok Choi,30,4000
+6/21/2021,WKH,3573,Bok Choi,10,4000
+6/28/2021,WKH,3573,Bok Choi,45,4000
+9/27/2021,KSL,3592,Broccoli,20,3145
+10/11/2021,KSL,3592,Broccoli,20,3145
+9/27/2021,MLP,3592,Broccoli,20,3145
+10/11/2021,MLP,3592,Broccoli,20,3145
+9/27/2021,NTN,3592,Broccoli,30,3145
+10/11/2021,NTN,3592,Broccoli,30,3145
+9/13/2021,PBY,3592,Broccoli,42,3145
+9/27/2021,PBY,3592,Broccoli,42,3145
+9/27/2021,PBY,3592,Broccoli,30,3145
+10/4/2021,PBY,3592,Broccoli,42,3145
+10/11/2021,PBY,3592,Broccoli,30,3145
+10/18/2021,PBY,3592,Broccoli,42,3145
+9/27/2021,SGC,3592,Broccoli,10,3145
+10/11/2021,SGC,3592,Broccoli,10,3145
+9/27/2021,WKH,3592,Broccoli,10,3145
+10/11/2021,WKH,3592,Broccoli,10,3145
+9/27/2021,YMF,3592,Broccoli,30,3145
+10/11/2021,YMF,3592,Broccoli,30,3145
+10/4/2021,LXF,3079,Brussels Sprouts,40,4216
+10/4/2021,D2D,3079,Brussels Sprouts,10,4216
+10/4/2021,NTN,3079,Brussels Sprouts,10,4216
+10/4/2021,YMF,3079,Brussels Sprouts,30,4216
+7/19/2021,CHO,3754,Cabbage,10,3400
+11/1/2021,AFC,3754,Cabbage,5,3400
+11/8/2021,AFC,3754,Cabbage,15,3400
+11/15/2021,AFC,3754,Cabbage,5,3400
+11/22/2021,AFC,3754,Cabbage,5,3400
+11/1/2021,D2D,3754,Cabbage,15,3400
+11/8/2021,D2D,3754,Cabbage,15,3400
+11/15/2021,D2D,3754,Cabbage,15,3400
+11/22/2021,D2D,3754,Cabbage,15,3400
+11/1/2021,NTN,3754,Cabbage,15,3400
+11/8/2021,NTN,3754,Cabbage,15,3400
+11/15/2021,NTN,3754,Cabbage,15,3400
+11/22/2021,NTN,3754,Cabbage,15,3400
+10/18/2021,SGC,3754,Cabbage,10,3400
+10/18/2021,SGC,3754,Cabbage,10,3400
+11/1/2021,SGC,3754,Cabbage,15,3400
+11/8/2021,SGC,3754,Cabbage,5,3400
+11/15/2021,SGC,3754,Cabbage,15,3400
+11/22/2021,SGC,3754,Cabbage,15,3400
+7/19/2021,UNK,3754,Cabbage,10,3400
+8/30/2021,CVP,3755,"Carrots, Orange Bulk",30,3162
+9/13/2021,CVP,3755,"Carrots, Orange Bulk",30,3162
+10/4/2021,CVP,3755,"Carrots, Orange Bulk",30,3162
+10/11/2021,CVP,3755,"Carrots, Orange Bulk",30,3162
+10/18/2021,CVP,3755,"Carrots, Orange Bulk",30,3162
+10/25/2021,CVP,3755,"Carrots, Orange Bulk",30,3162
+9/13/2021,HAF,3755,"Carrots, Orange Bulk",12,3162
+10/4/2021,HAF,3755,"Carrots, Orange Bulk",12,3162
+10/11/2021,HAF,3755,"Carrots, Orange Bulk",12,3162
+10/18/2021,HAF,3755,"Carrots, Orange Bulk",12,3162
+10/25/2021,HAF,3755,"Carrots, Orange Bulk",12,3162
+8/30/2021,POG,3755,"Carrots, Orange Bulk",36,3162
+9/13/2021,LXF,3755,"Carrots, Orange Bulk",36,3162
+8/30/2021,D2D,3755,"Carrots, Orange Bulk",27,3162
+9/13/2021,D2D,3755,"Carrots, Orange Bulk",30,3162
+10/4/2021,D2D,3755,"Carrots, Orange Bulk",30,3162
+10/11/2021,D2D,3755,"Carrots, Orange Bulk",30,3162
+10/18/2021,D2D,3755,"Carrots, Orange Bulk",30,3162
+10/25/2021,D2D,3755,"Carrots, Orange Bulk",30,3162
+8/30/2021,NTN,3755,"Carrots, Orange Bulk",30,3162
+9/13/2021,NTN,3755,"Carrots, Orange Bulk",30,3162
+10/4/2021,NTN,3755,"Carrots, Orange Bulk",30,3162
+10/11/2021,NTN,3755,"Carrots, Orange Bulk",30,3162
+10/18/2021,NTN,3755,"Carrots, Orange Bulk",30,3162
+10/25/2021,NTN,3755,"Carrots, Orange Bulk",30,3162
+8/30/2021,RSV,3755,"Carrots, Orange Bulk",15,3162
+9/13/2021,RSV,3755,"Carrots, Orange Bulk",15,3162
+10/4/2021,RSV,3755,"Carrots, Orange Bulk",15,3162
+10/11/2021,RSV,3755,"Carrots, Orange Bulk",15,3162
+10/18/2021,RSV,3755,"Carrots, Orange Bulk",15,3162
+10/25/2021,RSV,3755,"Carrots, Orange Bulk",15,3162
+8/30/2021,YMF,3755,"Carrots, Orange Bulk",30,3162
+9/13/2021,YMF,3755,"Carrots, Orange Bulk",15,3162
+10/4/2021,YMF,3755,"Carrots, Orange Bulk",15,3162
+10/11/2021,YMF,3755,"Carrots, Orange Bulk",15,3162
+10/18/2021,YMF,3755,"Carrots, Orange Bulk",15,3162
+10/25/2021,YMF,3755,"Carrots, Orange Bulk",15,3162
+9/20/2021,LXF,3132,"Carrots, Rainbow Bulk",24,3162
+9/20/2021,LXF,3132,"Carrots, Rainbow Bulk",40,3162
+10/4/2021,LXF,3132,"Carrots, Rainbow Bulk",24,3162
+10/4/2021,LXF,3132,"Carrots, Rainbow Bulk",60,3162
+10/11/2021,LXF,3132,"Carrots, Rainbow Bulk",40,3162
+10/11/2021,LXF,3132,"Carrots, Rainbow Bulk",60,3162
+10/18/2021,LXF,3132,"Carrots, Rainbow Bulk",60,3162
+10/25/2021,LXF,3132,"Carrots, Rainbow Bulk",24,3162
+10/25/2021,LXF,3132,"Carrots, Rainbow Bulk",60,3162
+11/8/2021,LXF,3132,"Carrots, Rainbow Bulk",40,3162
+11/22/2021,LXF,3132,"Carrots, Rainbow Bulk",24,3162
+8/9/2021,WKH,3132,"Carrots, Rainbow Bulk",18,3162
+9/20/2021,WKH,3132,"Carrots, Rainbow Bulk",12,3162
+10/4/2021,WKH,3132,"Carrots, Rainbow Bulk",12,3162
+10/4/2021,WKH,3132,"Carrots, Rainbow Bulk",60,3162
+10/11/2021,WKH,3132,"Carrots, Rainbow Bulk",60,3162
+10/18/2021,WKH,3132,"Carrots, Rainbow Bulk",60,3162
+10/25/2021,WKH,3132,"Carrots, Rainbow Bulk",12,3162
+10/25/2021,WKH,3132,"Carrots, Rainbow Bulk",60,3162
+11/22/2021,WKH,3132,"Carrots, Rainbow Bulk",12,3162
+8/9/2021,YMF,3132,"Carrots, Rainbow Bulk",18,3162
+10/4/2021,YMF,3132,"Carrots, Rainbow Bulk",12,3162
+10/11/2021,YMF,3132,"Carrots, Rainbow Bulk",12,3162
+10/18/2021,YMF,3132,"Carrots, Rainbow Bulk",12,3162
+10/25/2021,YMF,3132,"Carrots, Rainbow Bulk",12,3162
+9/13/2021,DTF,3807,Cauliflower,50,2300
+9/27/2021,DTF,3807,Cauliflower,50,2300
+9/20/2021,NTN,3807,Cauliflower,23,2300
+10/4/2021,NTN,3807,Cauliflower,23,2300
+10/18/2021,NTN,3807,Cauliflower,23,2300
+9/13/2021,SGC,3807,Cauliflower,25,2300
+9/27/2021,SGC,3807,Cauliflower,25,2300
+9/13/2021,YMF,3807,Cauliflower,25,2300
+9/27/2021,YMF,3807,Cauliflower,25,2300
+6/28/2021,SEE,9999,Cilantro,19,3600
+7/26/2021,POG,9999,Cilantro,38,3600
+7/12/2021,HAF,3361,"Cucumbers, Slicing",38,2000
+7/12/2021,CHO,3361,"Cucumbers, Slicing",30,2000
+7/19/2021,CHO,3361,"Cucumbers, Slicing",30,2000
+7/26/2021,CHO,3361,"Cucumbers, Slicing",30,2000
+8/2/2021,CHO,3361,"Cucumbers, Slicing",30,2000
+8/9/2021,CHO,3361,"Cucumbers, Slicing",30,2000
+8/16/2021,CHO,3361,"Cucumbers, Slicing",30,2000
+7/12/2021,CBS,3361,"Cucumbers, Slicing",30,2000
+7/19/2021,CBS,3361,"Cucumbers, Slicing",30,2000
+7/26/2021,CBS,3361,"Cucumbers, Slicing",30,2000
+8/2/2021,CBS,3361,"Cucumbers, Slicing",30,2000
+8/9/2021,CBS,3361,"Cucumbers, Slicing",30,2000
+8/16/2021,CBS,3361,"Cucumbers, Slicing",30,2000
+7/5/2021,LXF,3361,"Cucumbers, Slicing",30,2000
+7/19/2021,LXF,3361,"Cucumbers, Slicing",30,2000
+8/2/2021,LXF,3361,"Cucumbers, Slicing",30,2000
+7/12/2021,CLP,3361,"Cucumbers, Slicing",6,2000
+7/19/2021,CLP,3361,"Cucumbers, Slicing",6,2000
+7/26/2021,CLP,3361,"Cucumbers, Slicing",6,2000
+8/2/2021,CLP,3361,"Cucumbers, Slicing",6,2000
+8/9/2021,CLP,3361,"Cucumbers, Slicing",6,2000
+8/16/2021,CLP,3361,"Cucumbers, Slicing",6,2000
+7/12/2021,MHG,3361,"Cucumbers, Slicing",30,2000
+7/19/2021,MHG,3361,"Cucumbers, Slicing",30,2000
+7/26/2021,MHG,3361,"Cucumbers, Slicing",30,2000
+8/2/2021,MHG,3361,"Cucumbers, Slicing",30,2000
+8/9/2021,MHG,3361,"Cucumbers, Slicing",30,2000
+8/16/2021,MHG,3361,"Cucumbers, Slicing",30,2000
+7/12/2021,SGC,3361,"Cucumbers, Slicing",6,2000
+7/19/2021,SGC,3361,"Cucumbers, Slicing",6,2000
+7/26/2021,SGC,3361,"Cucumbers, Slicing",6,2000
+8/2/2021,SGC,3361,"Cucumbers, Slicing",6,2000
+8/9/2021,SGC,3361,"Cucumbers, Slicing",6,2000
+8/16/2021,SGC,3361,"Cucumbers, Slicing",6,2000
+7/5/2021,WKH,3361,"Cucumbers, Slicing",15,2000
+7/12/2021,WKH,3361,"Cucumbers, Slicing",30,2000
+7/19/2021,WKH,3361,"Cucumbers, Slicing",15,2000
+7/19/2021,WKH,3361,"Cucumbers, Slicing",30,2000
+7/26/2021,WKH,3361,"Cucumbers, Slicing",30,2000
+8/2/2021,WKH,3361,"Cucumbers, Slicing",15,2000
+8/2/2021,WKH,3361,"Cucumbers, Slicing",30,2000
+8/9/2021,WKH,3361,"Cucumbers, Slicing",30,2000
+8/16/2021,WKH,3361,"Cucumbers, Slicing",30,2000
+8/9/2021,D2D,3758,"Eggplant, African (Bitter Ball)",33,2000
+8/16/2021,D2D,3758,"Eggplant, African (Bitter Ball)",33,2000
+8/23/2021,D2D,3758,"Eggplant, African (Bitter Ball)",33,2000
+8/9/2021,PLT,3758,"Eggplant, African (Bitter Ball)",33,2000
+8/16/2021,PLT,3758,"Eggplant, African (Bitter Ball)",33,2000
+8/23/2021,PLT,3758,"Eggplant, African (Bitter Ball)",33,2000
+8/23/2021,KLF,3717,"Eggplant, Globe",25,3162
+9/13/2021,KLF,3717,"Eggplant, Globe",25,3162
+8/16/2021,POG,3717,"Eggplant, Globe",36,3162
+8/2/2021,CLP,3717,"Eggplant, Globe",18,3162
+8/23/2021,CLP,3717,"Eggplant, Globe",50,3162
+9/13/2021,CLP,3717,"Eggplant, Globe",50,3162
+8/2/2021,YMF,3717,"Eggplant, Globe",18,3162
+8/23/2021,YMF,3717,"Eggplant, Globe",25,3162
+9/13/2021,YMF,3717,"Eggplant, Globe",25,3162
+7/5/2021,SEE,3326,Fennel,38,4200
+6/14/2021,SEE,3304,Garlic scapes,38,4800
+6/21/2021,POG,3669,"Greens, Chard",38,3600
+8/16/2021,POG,3669,"Greens, Chard",38,3600
+7/12/2021,HAF,3138,"Greens, Collard-24 ct",38,3600
+8/2/2021,HAF,3138,"Greens, Collard-24 ct",38,3600
+9/13/2021,HAF,3138,"Greens, Collard-24 ct",8,3600
+7/12/2021,AFC,3138,"Greens, Collard-24 ct",5,3600
+8/16/2021,AFC,3138,"Greens, Collard-24 ct",5,3600
+9/13/2021,AFC,3138,"Greens, Collard-24 ct",5,3600
+9/13/2021,KSL,3138,"Greens, Collard-24 ct",10,3600
+9/13/2021,MLP,3138,"Greens, Collard-24 ct",10,3600
+7/12/2021,D2D,3138,"Greens, Collard-24 ct",10,3600
+8/16/2021,D2D,3138,"Greens, Collard-24 ct",10,3600
+9/13/2021,D2D,3138,"Greens, Collard-24 ct",10,3600
+9/13/2021,PLT,3138,"Greens, Collard-24 ct",10,3600
+7/12/2021,MLG,3138,"Greens, Collard-24 ct",10,3600
+8/16/2021,MLG,3138,"Greens, Collard-24 ct",10,3600
+9/13/2021,MLG,3138,"Greens, Collard-24 ct",10,3600
+9/6/2021,HAF,3813,"Greens, Kale-24 ct",8,3600
+7/19/2021,CHO,3813,"Greens, Kale-24 ct",10,3600
+8/2/2021,CHO,3813,"Greens, Kale-24 ct",10,3600
+8/16/2021,CHO,3813,"Greens, Kale-24 ct",10,3600
+9/20/2021,CHO,3813,"Greens, Kale-24 ct",10,3600
+9/6/2021,AFC,3813,"Greens, Kale-24 ct",8,3600
+7/19/2021,CLP,3813,"Greens, Kale-24 ct",10,3600
+8/2/2021,CLP,3813,"Greens, Kale-24 ct",10,3600
+8/16/2021,CLP,3813,"Greens, Kale-24 ct",10,3600
+9/6/2021,CLP,3813,"Greens, Kale-24 ct",8,3600
+9/20/2021,CLP,3813,"Greens, Kale-24 ct",10,3600
+7/19/2021,D2D,3813,"Greens, Kale-24 ct",10,3600
+8/2/2021,D2D,3813,"Greens, Kale-24 ct",10,3600
+8/16/2021,D2D,3813,"Greens, Kale-24 ct",10,3600
+9/6/2021,D2D,3813,"Greens, Kale-24 ct",8,3600
+9/20/2021,D2D,3813,"Greens, Kale-24 ct",10,3600
+6/7/2021,NTN,3813,"Greens, Kale-24 ct",15,3600
+7/19/2021,NTN,3813,"Greens, Kale-24 ct",10,3600
+8/2/2021,NTN,3813,"Greens, Kale-24 ct",10,3600
+8/16/2021,NTN,3813,"Greens, Kale-24 ct",10,3600
+9/20/2021,NTN,3813,"Greens, Kale-24 ct",10,3600
+7/19/2021,PLT,3813,"Greens, Kale-24 ct",10,3600
+8/2/2021,PLT,3813,"Greens, Kale-24 ct",10,3600
+8/16/2021,PLT,3813,"Greens, Kale-24 ct",10,3600
+9/6/2021,PLT,3813,"Greens, Kale-24 ct",6,3600
+9/20/2021,PLT,3813,"Greens, Kale-24 ct",10,3600
+6/14/2021,YMF,3813,"Greens, Kale-24 ct",38,3600
+10/18/2021,YMF,3813,"Greens, Kale-24 ct",38,3600
+7/19/2021,HAF,3364,"Greens, Mustard-24 ct",38,3600
+8/23/2021,HAF,3364,"Greens, Mustard-24 ct",38,3600
+8/16/2021,CHO,3364,"Greens, Mustard-24 ct",5,3600
+9/6/2021,CHO,3364,"Greens, Mustard-24 ct",5,3600
+9/20/2021,CHO,3364,"Greens, Mustard-24 ct",5,3600
+8/16/2021,KLF,3364,"Greens, Mustard-24 ct",10,3600
+9/6/2021,KLF,3364,"Greens, Mustard-24 ct",10,3600
+9/20/2021,KLF,3364,"Greens, Mustard-24 ct",10,3600
+8/16/2021,PLT,3364,"Greens, Mustard-24 ct",10,3600
+9/6/2021,PLT,3364,"Greens, Mustard-24 ct",10,3600
+9/20/2021,PLT,3364,"Greens, Mustard-24 ct",10,3600
+11/15/2021,SEE,9998,"Greens, Spinach",75,4440
+11/29/2021,SEE,9998,"Greens, Spinach",75,4440
+8/16/2021,LXF,3539,Ground cherries,75,3360
+6/14/2021,POG,3775,Kohlrabi,36,3000
+7/5/2021,YMF,3775,Kohlrabi,18,3000
+10/11/2021,YMF,3775,Kohlrabi,18,3000
+6/14/2021,DTF,3806,"Lettuce, Head-24 ct",15,3600
+6/21/2021,DTF,3806,"Lettuce, Head-24 ct",15,3600
+6/28/2021,DTF,3806,"Lettuce, Head-24 ct",15,3600
+7/5/2021,DTF,3806,"Lettuce, Head-24 ct",15,3600
+6/21/2021,HAF,3806,"Lettuce, Head-24 ct",10,3600
+7/5/2021,HAF,3806,"Lettuce, Head-24 ct",10,3600
+6/21/2021,CHO,3806,"Lettuce, Head-24 ct",15,3600
+6/28/2021,CHO,3806,"Lettuce, Head-24 ct",15,3600
+7/5/2021,CHO,3806,"Lettuce, Head-24 ct",15,3600
+7/5/2021,CHO,3806,"Lettuce, Head-24 ct",15,3600
+6/7/2021,POG,3806,"Lettuce, Head-24 ct",38,3600
+6/28/2021,POG,3806,"Lettuce, Head-24 ct",38,3600
+6/14/2021,WKH,3806,"Lettuce, Head-24 ct",5,3600
+6/21/2021,WKH,3806,"Lettuce, Head-24 ct",13,3600
+6/21/2021,WKH,3806,"Lettuce, Head-24 ct",5,3600
+6/28/2021,WKH,3806,"Lettuce, Head-24 ct",15,3600
+7/5/2021,WKH,3806,"Lettuce, Head-24 ct",13,3600
+7/5/2021,WKH,3806,"Lettuce, Head-24 ct",5,3600
+6/7/2021,YMF,3806,"Lettuce, Head-24 ct",38,3600
+6/21/2021,YMF,3806,"Lettuce, Head-24 ct",15,3600
+6/21/2021,YMF,3806,"Lettuce, Head-24 ct",23,3600
+6/28/2021,YMF,3806,"Lettuce, Head-24 ct",5,3600
+7/5/2021,YMF,3806,"Lettuce, Head-24 ct",15,3600
+11/8/2021,SEE,3806,"Lettuce, Salanova",75,3600
+8/23/2021,SGC,3091,"Melon, Honeydew",38,2010
+8/23/2021,SGC,3091,"Melon, Honeydew",50,2010
+8/30/2021,SGC,3091,"Melon, Honeydew",50,2010
+9/6/2021,SGC,3089,"Melon, Watermelon",46,3800
+8/16/2021,AFC,3405,Okra,6,5100
+8/23/2021,AFC,3405,Okra,6,5100
+9/6/2021,MKV,3405,Okra,30,5100
+9/13/2021,MKV,3405,Okra,30,5100
+9/20/2021,MKV,3405,Okra,30,5100
+8/16/2021,PLT,3405,Okra,30,5100
+8/23/2021,PLT,3405,Okra,30,5100
+8/9/2021,KHF,3759,"Onions, Bulb",23,4000
+8/30/2021,KHF,3759,"Onions, Bulb",23,4000
+10/18/2021,LKW,3759,"Onions, Bulb",5,4000
+8/30/2021,LXF,3759,"Onions, Bulb",20,4000
+9/13/2021,LXF,3759,"Onions, Bulb",20,4000
+10/4/2021,LXF,3759,"Onions, Bulb",20,4000
+11/1/2021,LXF,3759,"Onions, Bulb",20,4000
+11/15/2021,LXF,3759,"Onions, Bulb",20,4000
+7/26/2021,MLP,3759,"Onions, Bulb",15,4000
+7/26/2021,MKV,3759,"Onions, Bulb",15,4000
+8/9/2021,MKV,3759,"Onions, Bulb",20,4000
+9/6/2021,MKV,3759,"Onions, Bulb",10,4000
+9/6/2021,MKV,3759,"Onions, Bulb",20,4000
+9/20/2021,MKV,3759,"Onions, Bulb",20,4000
+10/18/2021,MKV,3759,"Onions, Bulb",20,4000
+11/8/2021,MKV,3759,"Onions, Bulb",20,4000
+10/18/2021,NTN,3759,"Onions, Bulb",10,4000
+8/9/2021,PBY,3759,"Onions, Bulb",20,4000
+9/6/2021,PBY,3759,"Onions, Bulb",13,4000
+9/6/2021,PBY,3759,"Onions, Bulb",20,4000
+9/20/2021,PBY,3759,"Onions, Bulb",20,4000
+10/18/2021,PBY,3759,"Onions, Bulb",20,4000
+11/8/2021,PBY,3759,"Onions, Bulb",20,4000
+8/30/2021,MLG,3759,"Onions, Bulb",20,4000
+9/13/2021,MLG,3759,"Onions, Bulb",20,4000
+10/4/2021,MLG,3759,"Onions, Bulb",20,4000
+11/1/2021,MLG,3759,"Onions, Bulb",20,4000
+11/15/2021,MLG,3759,"Onions, Bulb",20,4000
+8/9/2021,SGC,3759,"Onions, Bulb",20,4000
+9/6/2021,SGC,3759,"Onions, Bulb",20,4000
+9/20/2021,SGC,3759,"Onions, Bulb",20,4000
+10/18/2021,SGC,3759,"Onions, Bulb",20,4000
+11/8/2021,SGC,3759,"Onions, Bulb",7,4000
+11/8/2021,SGC,3759,"Onions, Bulb",20,4000
+8/30/2021,SGC,3759,"Onions, Bulb",20,4000
+9/13/2021,SGC,3759,"Onions, Bulb",20,4000
+10/4/2021,SGC,3759,"Onions, Bulb",20,4000
+11/1/2021,SGC,3759,"Onions, Bulb",20,4000
+11/8/2021,SGC,3759,"Onions, Bulb",8,4000
+11/15/2021,SGC,3759,"Onions, Bulb",20,4000
+8/9/2021,SGC,3759,"Onions, Bulb",20,4000
+9/6/2021,SGC,3759,"Onions, Bulb",20,4000
+9/20/2021,SGC,3759,"Onions, Bulb",20,4000
+10/18/2021,SGC,3759,"Onions, Bulb",20,4000
+11/8/2021,SGC,3759,"Onions, Bulb",8,4000
+11/8/2021,SGC,3759,"Onions, Bulb",20,4000
+8/30/2021,SXF,3759,"Onions, Bulb",20,4000
+9/13/2021,SXF,3759,"Onions, Bulb",20,4000
+10/4/2021,SXF,3759,"Onions, Bulb",20,4000
+11/1/2021,SXF,3759,"Onions, Bulb",20,4000
+11/15/2021,SXF,3759,"Onions, Bulb",20,4000
+8/9/2021,WKH,3759,"Onions, Bulb",20,4000
+9/6/2021,WKH,3759,"Onions, Bulb",20,4000
+9/20/2021,WKH,3759,"Onions, Bulb",20,4000
+10/18/2021,WKH,3759,"Onions, Bulb",20,4000
+11/8/2021,WKH,3759,"Onions, Bulb",20,4000
+8/30/2021,YMF,3759,"Onions, Bulb",20,4000
+9/13/2021,YMF,3759,"Onions, Bulb",20,4000
+10/4/2021,YMF,3759,"Onions, Bulb",20,4000
+11/1/2021,YMF,3759,"Onions, Bulb",20,4000
+11/15/2021,YMF,3759,"Onions, Bulb",20,4000
+7/26/2021,UNK,3759,"Onions, Bulb",10,4000
+10/18/2021,UNK,3759,"Onions, Bulb",8,4000
+6/7/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/14/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/21/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/28/2021,CVP,3266,"Onions, Green or Scallions-24 ct",5,2880
+7/5/2021,CVP,3266,"Onions, Green or Scallions-24 ct",11,2880
+6/7/2021,HAF,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/14/2021,HAF,3266,"Onions, Green or Scallions-24 ct",6,2880
+6/21/2021,HAF,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/28/2021,HAF,3266,"Onions, Green or Scallions-24 ct",7,2880
+7/5/2021,HAF,3266,"Onions, Green or Scallions-24 ct",11,2880
+9/27/2021,HAF,3266,"Onions, Green or Scallions-24 ct",10,2880
+6/7/2021,CHO,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/21/2021,CHO,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/28/2021,CHO,3266,"Onions, Green or Scallions-24 ct",5,2880
+7/5/2021,CHO,3266,"Onions, Green or Scallions-24 ct",11,2880
+6/7/2021,NTN,3266,"Onions, Green or Scallions-24 ct",6,2880
+6/14/2021,NTN,3266,"Onions, Green or Scallions-24 ct",11,2880
+6/21/2021,NTN,3266,"Onions, Green or Scallions-24 ct",7,2880
+6/28/2021,NTN,3266,"Onions, Green or Scallions-24 ct",5,2880
+7/5/2021,NTN,3266,"Onions, Green or Scallions-24 ct",11,2880
+6/7/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/14/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/21/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,2880
+6/28/2021,SGC,3266,"Onions, Green or Scallions-24 ct",5,2880
+7/5/2021,SGC,3266,"Onions, Green or Scallions-24 ct",11,2880
+6/7/2021,YMF,3266,"Onions, Green or Scallions-24 ct",12,2880
+6/14/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,2880
+6/21/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,2880
+6/28/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,2880
+7/5/2021,YMF,3266,"Onions, Green or Scallions-24 ct",11,2880
+10/18/2021,YMF,3266,"Onions, Green or Scallions-24 ct",38,2880
+8/16/2021,CHO,3828,"Peppers, Green Bell",20,3500
+8/23/2021,CHO,3828,"Peppers, Green Bell",20,3500
+8/30/2021,CHO,3828,"Peppers, Green Bell",20,3500
+9/6/2021,CHO,3828,"Peppers, Green Bell",20,3500
+9/13/2021,CHO,3828,"Peppers, Green Bell",20,3500
+9/20/2021,CHO,3828,"Peppers, Green Bell",20,3500
+8/9/2021,LXF,3828,"Peppers, Green Bell",36,3500
+8/16/2021,CLP,3828,"Peppers, Green Bell",10,3500
+8/23/2021,CLP,3828,"Peppers, Green Bell",10,3500
+8/30/2021,CLP,3828,"Peppers, Green Bell",10,3500
+9/6/2021,CLP,3828,"Peppers, Green Bell",10,3500
+9/13/2021,CLP,3828,"Peppers, Green Bell",10,3500
+9/20/2021,CLP,3828,"Peppers, Green Bell",10,3500
+8/16/2021,NTN,3828,"Peppers, Green Bell",20,3500
+8/23/2021,NTN,3828,"Peppers, Green Bell",20,3500
+8/30/2021,NTN,3828,"Peppers, Green Bell",20,3500
+9/6/2021,NTN,3828,"Peppers, Green Bell",20,3500
+9/13/2021,NTN,3828,"Peppers, Green Bell",20,3500
+9/20/2021,NTN,3828,"Peppers, Green Bell",20,3500
+8/16/2021,MLG,3828,"Peppers, Green Bell",20,3500
+8/23/2021,MLG,3828,"Peppers, Green Bell",20,3500
+8/30/2021,MLG,3828,"Peppers, Green Bell",20,3500
+9/6/2021,MLG,3828,"Peppers, Green Bell",20,3500
+9/13/2021,MLG,3828,"Peppers, Green Bell",20,3500
+9/20/2021,MLG,3828,"Peppers, Green Bell",20,3500
+7/26/2021,SGC,3828,"Peppers, Green Bell",15,3500
+8/16/2021,SGC,3828,"Peppers, Green Bell",10,3500
+8/23/2021,SGC,3828,"Peppers, Green Bell",10,3500
+8/30/2021,SGC,3828,"Peppers, Green Bell",12,3500
+8/30/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/6/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/13/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500
+7/26/2021,SGC,3828,"Peppers, Green Bell",15,3500
+8/16/2021,SGC,3828,"Peppers, Green Bell",10,3500
+8/23/2021,SGC,3828,"Peppers, Green Bell",10,3500
+8/30/2021,SGC,3828,"Peppers, Green Bell",12,3500
+8/30/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/6/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/13/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500
+7/26/2021,SGC,3828,"Peppers, Green Bell",15,3500
+8/16/2021,SGC,3828,"Peppers, Green Bell",10,3500
+8/23/2021,SGC,3828,"Peppers, Green Bell",10,3500
+8/30/2021,SGC,3828,"Peppers, Green Bell",12,3500
+8/30/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/6/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/13/2021,SGC,3828,"Peppers, Green Bell",10,3500
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500
+8/23/2021,HAF,3458,"Peppers, Habanero",8,3500
+8/30/2021,HAF,3458,"Peppers, Habanero",8,3500
+9/6/2021,HAF,3458,"Peppers, Habanero",8,3500
+9/13/2021,HAF,3458,"Peppers, Habanero",8,3500
+8/23/2021,CHO,3458,"Peppers, Habanero",8,3500
+8/30/2021,CHO,3458,"Peppers, Habanero",8,3500
+9/6/2021,CHO,3458,"Peppers, Habanero",8,3500
+9/13/2021,CHO,3458,"Peppers, Habanero",8,3500
+8/23/2021,MKV,3458,"Peppers, Habanero",25,3500
+8/30/2021,MKV,3458,"Peppers, Habanero",25,3500
+9/6/2021,MKV,3458,"Peppers, Habanero",25,3500
+9/13/2021,MKV,3458,"Peppers, Habanero",25,3500
+8/23/2021,PLT,3458,"Peppers, Habanero",25,3500
+8/30/2021,PLT,3458,"Peppers, Habanero",25,3500
+9/6/2021,PLT,3458,"Peppers, Habanero",25,3500
+9/13/2021,PLT,3458,"Peppers, Habanero",25,3500
+7/26/2021,CBS,3153,"Peppers, Jalapeño",6,2550
+8/16/2021,CBS,3153,"Peppers, Jalapeño",20,2550
+8/23/2021,CBS,3153,"Peppers, Jalapeño",20,2550
+8/30/2021,CBS,3153,"Peppers, Jalapeño",6,2550
+8/30/2021,CBS,3153,"Peppers, Jalapeño",20,2550
+9/6/2021,CBS,3153,"Peppers, Jalapeño",20,2550
+9/13/2021,CBS,3153,"Peppers, Jalapeño",20,2550
+8/16/2021,MHG,3153,"Peppers, Jalapeño",8,2550
+8/23/2021,MHG,3153,"Peppers, Jalapeño",8,2550
+8/30/2021,MHG,3153,"Peppers, Jalapeño",8,2550
+9/6/2021,MHG,3153,"Peppers, Jalapeño",8,2550
+9/13/2021,MHG,3153,"Peppers, Jalapeño",8,2550
+8/16/2021,PLT,3153,"Peppers, Jalapeño",8,2550
+8/23/2021,PLT,3153,"Peppers, Jalapeño",8,2550
+8/30/2021,PLT,3153,"Peppers, Jalapeño",8,2550
+9/6/2021,PLT,3153,"Peppers, Jalapeño",8,2550
+9/13/2021,PLT,3153,"Peppers, Jalapeño",8,2550
+8/16/2021,SGC,3153,"Peppers, Jalapeño",10,2550
+8/23/2021,SGC,3153,"Peppers, Jalapeño",9,2550
+8/23/2021,SGC,3153,"Peppers, Jalapeño",10,2550
+8/30/2021,SGC,3153,"Peppers, Jalapeño",10,2550
+9/6/2021,SGC,3153,"Peppers, Jalapeño",10,2550
+9/13/2021,SGC,3153,"Peppers, Jalapeño",10,2550
+8/16/2021,SGC,3153,"Peppers, Jalapeño",20,2550
+8/23/2021,SGC,3153,"Peppers, Jalapeño",20,2550
+8/30/2021,SGC,3153,"Peppers, Jalapeño",20,2550
+9/6/2021,SGC,3153,"Peppers, Jalapeño",20,2550
+9/13/2021,SGC,3153,"Peppers, Jalapeño",20,2550
+8/16/2021,LXF,3449,"Peppers, Poblano",36,2500
+8/16/2021,CVP,3166,"Potatoes, Red",10,5000
+8/30/2021,CVP,3166,"Potatoes, Red",10,5000
+9/13/2021,CVP,3166,"Potatoes, Red",10,5000
+9/27/2021,CVP,3166,"Potatoes, Red",10,5000
+10/11/2021,CVP,3166,"Potatoes, Red",10,5000
+8/23/2021,KHF,3166,"Potatoes, Red",9,5000
+8/16/2021,LXF,3166,"Potatoes, Red",10,5000
+8/30/2021,LXF,3166,"Potatoes, Red",10,5000
+9/13/2021,LXF,3166,"Potatoes, Red",10,5000
+9/27/2021,LXF,3166,"Potatoes, Red",10,5000
+10/11/2021,LXF,3166,"Potatoes, Red",10,5000
+8/23/2021,MLP,3166,"Potatoes, Red",9,5000
+8/16/2021,MKV,3166,"Potatoes, Red",10,5000
+8/30/2021,MKV,3166,"Potatoes, Red",10,5000
+9/13/2021,MKV,3166,"Potatoes, Red",10,5000
+9/27/2021,MKV,3166,"Potatoes, Red",10,5000
+10/11/2021,MKV,3166,"Potatoes, Red",10,5000
+8/16/2021,PBY,3166,"Potatoes, Red",10,5000
+8/30/2021,PBY,3166,"Potatoes, Red",10,5000
+9/13/2021,PBY,3166,"Potatoes, Red",10,5000
+9/27/2021,PBY,3166,"Potatoes, Red",10,5000
+10/11/2021,PBY,3166,"Potatoes, Red",10,5000
+8/23/2021,CVP,3171,"Potatoes, Yellow",10,5000
+9/6/2021,CVP,3171,"Potatoes, Yellow",10,5000
+9/20/2021,CVP,3171,"Potatoes, Yellow",10,5000
+10/4/2021,CVP,3171,"Potatoes, Yellow",10,5000
+10/18/2021,CVP,3171,"Potatoes, Yellow",10,5000
+8/23/2021,LXF,3171,"Potatoes, Yellow",10,5000
+9/6/2021,LXF,3171,"Potatoes, Yellow",10,5000
+9/20/2021,LXF,3171,"Potatoes, Yellow",10,5000
+10/4/2021,LXF,3171,"Potatoes, Yellow",10,5000
+10/18/2021,LXF,3171,"Potatoes, Yellow",10,5000
+8/23/2021,MKV,3171,"Potatoes, Yellow",10,5000
+9/6/2021,MKV,3171,"Potatoes, Yellow",10,5000
+9/20/2021,MKV,3171,"Potatoes, Yellow",10,5000
+10/4/2021,MKV,3171,"Potatoes, Yellow",10,5000
+10/18/2021,MKV,3171,"Potatoes, Yellow",10,5000
+8/23/2021,NTN,3171,"Potatoes, Yellow",10,5000
+9/6/2021,NTN,3171,"Potatoes, Yellow",10,5000
+9/20/2021,NTN,3171,"Potatoes, Yellow",10,5000
+10/4/2021,NTN,3171,"Potatoes, Yellow",10,5000
+10/18/2021,NTN,3171,"Potatoes, Yellow",10,5000
+7/12/2021,HAF,3278,"Radishes, bunched-24 ct",10,3375
+6/14/2021,CHO,3278,"Radishes, bunched-24 ct",30,3375
+6/28/2021,CHO,3278,"Radishes, bunched-24 ct",30,3375
+6/21/2021,CBS,3278,"Radishes, bunched-24 ct",10,3375
+6/28/2021,CBS,3278,"Radishes, bunched-24 ct",15,3375
+7/5/2021,CBS,3278,"Radishes, bunched-24 ct",20,3375
+7/12/2021,CBS,3278,"Radishes, bunched-24 ct",20,3375
+7/19/2021,CBS,3278,"Radishes, bunched-24 ct",20,3375
+6/7/2021,KLF,3278,"Radishes, bunched-24 ct",8,3375
+6/14/2021,KLF,3278,"Radishes, bunched-24 ct",10,3375
+6/21/2021,KLF,3278,"Radishes, bunched-24 ct",10,3375
+6/28/2021,KLF,3278,"Radishes, bunched-24 ct",5,3375
+7/5/2021,KLF,3278,"Radishes, bunched-24 ct",8,3375
+7/12/2021,KLF,3278,"Radishes, bunched-24 ct",20,3375
+7/19/2021,KLF,3278,"Radishes, bunched-24 ct",20,3375
+6/21/2021,MHG,3278,"Radishes, bunched-24 ct",5,3375
+6/28/2021,MHG,3278,"Radishes, bunched-24 ct",7,3375
+7/5/2021,MHG,3278,"Radishes, bunched-24 ct",5,3375
+7/12/2021,MHG,3278,"Radishes, bunched-24 ct",5,3375
+7/19/2021,MHG,3278,"Radishes, bunched-24 ct",5,3375
+6/21/2021,D2D,3278,"Radishes, bunched-24 ct",5,3375
+6/28/2021,D2D,3278,"Radishes, bunched-24 ct",5,3375
+7/5/2021,D2D,3278,"Radishes, bunched-24 ct",5,3375
+7/12/2021,D2D,3278,"Radishes, bunched-24 ct",5,3375
+7/19/2021,D2D,3278,"Radishes, bunched-24 ct",5,3375
+6/28/2021,WKH,3278,"Radishes, bunched-24 ct",8,3375
+10/11/2021,MHG,3178,"Radishes, Daikon",25,3000
+10/18/2021,MHG,3178,"Radishes, Daikon",25,3000
+10/25/2021,MHG,3178,"Radishes, Daikon",25,3000
+11/1/2021,MHG,3178,"Radishes, Daikon",25,3000
+10/11/2021,YMF,3178,"Radishes, Daikon",25,3000
+10/18/2021,YMF,3178,"Radishes, Daikon",25,3000
+10/25/2021,YMF,3178,"Radishes, Daikon",25,3000
+11/1/2021,YMF,3178,"Radishes, Daikon",25,3000
+6/28/2021,YMF,3216,Rhubarb,36,6000
+7/12/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000
+7/19/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000
+7/26/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000
+8/2/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000
+8/9/2021,AFC,3184,"Squash, Summer, Zucchini",15,2000
+8/9/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000
+7/12/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000
+7/19/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000
+7/26/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000
+8/2/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000
+8/9/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000
+7/12/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000
+7/19/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000
+7/26/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000
+8/2/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000
+8/9/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000
+7/12/2021,D2D,3184,"Squash, Summer, Zucchini",30,2000
+7/19/2021,D2D,3184,"Squash, Summer, Zucchini",30,2000
+7/26/2021,D2D,3184,"Squash, Summer, Zucchini",30,2000
+8/2/2021,D2D,3184,"Squash, Summer, Zucchini",30,2000
+8/9/2021,D2D,3184,"Squash, Summer, Zucchini",15,2000
+8/9/2021,D2D,3184,"Squash, Summer, Zucchini",30,2000
+7/12/2021,SGC,3184,"Squash, Summer, Zucchini",6,2000
+7/19/2021,SGC,3184,"Squash, Summer, Zucchini",6,2000
+7/26/2021,SGC,3184,"Squash, Summer, Zucchini",6,2000
+8/2/2021,SGC,3184,"Squash, Summer, Zucchini",6,2000
+8/9/2021,SGC,3184,"Squash, Summer, Zucchini",6,2000
+7/12/2021,WKH,3184,"Squash, Summer, Zucchini",30,2000
+7/19/2021,WKH,3184,"Squash, Summer, Zucchini",15,2000
+7/19/2021,WKH,3184,"Squash, Summer, Zucchini",30,2000
+7/26/2021,WKH,3184,"Squash, Summer, Zucchini",30,2000
+8/2/2021,WKH,3184,"Squash, Summer, Zucchini",30,2000
+8/9/2021,WKH,3184,"Squash, Summer, Zucchini",15,2000
+8/9/2021,WKH,3184,"Squash, Summer, Zucchini",30,2000
+7/19/2021,YMF,3184,"Squash, Summer, Zucchini",30,2000
+8/23/2021,UNK,3184,"Squash, Summer, Zucchini",45,2000
+10/4/2021,SEE,3188,"Squash, Winter, Butternut",68,2465
+11/1/2021,SEE,3188,"Squash, Winter, Butternut",68,2465
+11/22/2021,SEE,3188,"Squash, Winter, Butternut",68,2465
+10/4/2021,CBS,3188,"Squash, Winter, Butternut",25,2465
+10/11/2021,CBS,3188,"Squash, Winter, Butternut",25,2465
+10/18/2021,CBS,3188,"Squash, Winter, Butternut",25,2465
+10/25/2021,CBS,3188,"Squash, Winter, Butternut",25,2465
+11/8/2021,CBS,3188,"Squash, Winter, Butternut",25,2465
+10/4/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/11/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+11/8/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/4/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/11/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+11/8/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/4/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/11/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+11/8/2021,SGC,3188,"Squash, Winter, Butternut",25,2465
+9/20/2021,SEE,3189,"Squash, Winter, Delicata",52,3500
+10/18/2021,SEE,3189,"Squash, Winter, Delicata",52,3500
+9/20/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+10/4/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+10/18/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+11/1/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+9/20/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+10/4/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+10/18/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+11/1/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+9/20/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+10/4/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+10/18/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+11/1/2021,SGC,3189,"Squash, Winter, Delicata",25,3500
+9/20/2021,YMF,3189,"Squash, Winter, Delicata",25,3500
+10/4/2021,YMF,3189,"Squash, Winter, Delicata",25,3500
+10/18/2021,YMF,3189,"Squash, Winter, Delicata",25,3500
+11/1/2021,YMF,3189,"Squash, Winter, Delicata",25,3500
+7/26/2021,CBS,3404,Tomatillos,90,2800
+8/2/2021,CBS,3404,Tomatillos,66,2800
+8/23/2021,CBS,3404,Tomatillos,66,2800
+8/30/2021,CBS,3404,Tomatillos,90,2800
+9/27/2021,CBS,3404,Tomatillos,66,2800
+8/30/2021,CVP,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+9/6/2021,CVP,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+9/13/2021,CVP,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+8/23/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,3000
+8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,3000
+8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,3000
+9/6/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,3000
+9/13/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,3000
+9/13/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,3000
+8/23/2021,AFC,3200,"Tomatoes, Grape, 12 ct Pint",10,3000
+8/30/2021,AFC,3200,"Tomatoes, Grape, 12 ct Pint",10,3000
+9/13/2021,AFC,3200,"Tomatoes, Grape, 12 ct Pint",10,3000
+8/23/2021,MHG,3200,"Tomatoes, Grape, 12 ct Pint",25,3000
+8/30/2021,MHG,3200,"Tomatoes, Grape, 12 ct Pint",25,3000
+9/13/2021,MHG,3200,"Tomatoes, Grape, 12 ct Pint",25,3000
+8/30/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+9/6/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+9/13/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+8/30/2021,WKH,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+9/6/2021,WKH,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+9/13/2021,WKH,3200,"Tomatoes, Grape, 12 ct Pint",16,3000
+8/23/2021,AFC,3201,"Tomatoes, Roma",6,3500
+8/30/2021,AFC,3201,"Tomatoes, Roma",6,3500
+9/6/2021,AFC,3201,"Tomatoes, Roma",6,3500
+9/13/2021,AFC,3201,"Tomatoes, Roma",6,3500
+9/20/2021,AFC,3201,"Tomatoes, Roma",6,3500
+9/27/2021,AFC,3201,"Tomatoes, Roma",6,3500
+8/23/2021,CBS,3201,"Tomatoes, Roma",20,3500
+8/23/2021,CBS,3201,"Tomatoes, Roma",20,3500
+8/30/2021,CBS,3201,"Tomatoes, Roma",20,3500
+8/30/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/6/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/6/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/13/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/13/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/20/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/20/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/27/2021,CBS,3201,"Tomatoes, Roma",20,3500
+9/27/2021,CBS,3201,"Tomatoes, Roma",20,3500
+8/23/2021,SGC,3201,"Tomatoes, Roma",20,3500
+8/30/2021,SGC,3201,"Tomatoes, Roma",20,3500
+9/6/2021,SGC,3201,"Tomatoes, Roma",20,3500
+9/13/2021,SGC,3201,"Tomatoes, Roma",20,3500
+9/20/2021,SGC,3201,"Tomatoes, Roma",20,3500
+9/27/2021,SGC,3201,"Tomatoes, Roma",20,3500
+7/12/2021,SEE,3202,"Tomatoes, Slicing",23,4000
+7/19/2021,SEE,3202,"Tomatoes, Slicing",23,4000
+7/26/2021,SEE,3202,"Tomatoes, Slicing",23,4000
+8/2/2021,SEE,3202,"Tomatoes, Slicing",23,4000
+8/16/2021,CHO,3202,"Tomatoes, Slicing",9,4000
+9/6/2021,CHO,3202,"Tomatoes, Slicing",6,4000
+9/20/2021,CHO,3202,"Tomatoes, Slicing",9,4000
+8/16/2021,KSL,3202,"Tomatoes, Slicing",12,4000
+9/6/2021,KSL,3202,"Tomatoes, Slicing",10,4000
+9/20/2021,KSL,3202,"Tomatoes, Slicing",12,4000
+8/23/2021,KHF,3202,"Tomatoes, Slicing",13,4000
+8/30/2021,KHF,3202,"Tomatoes, Slicing",13,4000
+9/6/2021,KHF,3202,"Tomatoes, Slicing",13,4000
+9/13/2021,KHF,3202,"Tomatoes, Slicing",13,4000
+9/20/2021,KHF,3202,"Tomatoes, Slicing",13,4000
+8/16/2021,MLP,3202,"Tomatoes, Slicing",12,4000
+9/6/2021,MLP,3202,"Tomatoes, Slicing",10,4000
+9/20/2021,MLP,3202,"Tomatoes, Slicing",12,4000
+8/16/2021,PBY,3202,"Tomatoes, Slicing",12,4000
+9/6/2021,PBY,3202,"Tomatoes, Slicing",10,4000
+9/20/2021,PBY,3202,"Tomatoes, Slicing",12,4000
+8/23/2021,DTF,3202,"Tomatoes, Slicing",53,4000
+8/30/2021,DTF,3202,"Tomatoes, Slicing",53,4000
+9/6/2021,DTF,3202,"Tomatoes, Slicing",53,4000
+9/13/2021,DTF,3202,"Tomatoes, Slicing",53,4000
+9/20/2021,DTF,3202,"Tomatoes, Slicing",53,4000

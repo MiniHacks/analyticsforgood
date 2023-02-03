@@ -1,0 +1,594 @@
+Distribution Date,Producer Code,Product ID,Product Name,Quantity,Unit Cost,Unit Price
+06/11/2021,POG,3806,"Greens, Lettuce, Head",19,$36.00,$39.96
+06/11/2021,STF,3806,"Greens, Lettuce, Head",38,$36.00,$39.96
+06/11/2021,POG,3819,"Greens, Salad Mix - 24 ct 0.75lb",19,$84.00,$93.24
+06/15/2021,WKH,3573,"Greens, Bok Choy",19,$40.00,$44.40
+06/15/2021,STF,3806,"Greens, Lettuce, Head",15,$36.00,$39.96
+06/15/2021,WKH,3806,"Greens, Lettuce, Head",5,$36.00,$39.96
+06/15/2021,YMF,3266,"Onions, Scallions",11,$28.80,$31.97
+06/15/2021,HAF,3266,"Onions, Scallions",6,$28.80,$31.97
+06/15/2021,NTN,3266,"Onions, Scallions",39,$28.80,$31.97
+06/15/2021,SGC,3266,"Onions, Scallions",5,$28.80,$31.97
+06/15/2021,CVP,3266,"Onions, Scallions",5,$28.80,$31.97
+06/15/2021,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",52,$33.75,$37.46
+06/15/2021,KLF,3278,"Radish, Red, Bulk, Bunched w/Tops",10,$33.75,$37.46
+06/18/2021,LXF,3304,Garlic Scapes,30,$48.00,$53.28
+06/18/2021,YMF,3813,"Greens, Kale",24,$36.00,$39.96
+06/18/2021,NTN,3813,"Greens, Kale",14,$36.00,$39.96
+06/18/2021,POG,3140,"Kohlrabi, White",36,$46.80,$51.48
+06/18/2021,D2D,3252,"Radish, French Breakfast",19,$36.00,$39.96
+06/18/2021,CHO,3278,"Radish, Red, Bulk, Bunched w/Tops",30,$33.75,$37.46
+06/22/2021,WKH,3573,"Greens, Bok Choy",10,$40.00,$44.40
+06/22/2021,YMF,3806,"Greens, Lettuce, Head",15,$36.00,$39.96
+06/22/2021,STF,3806,"Greens, Lettuce, Head",15,$36.00,$39.96
+06/22/2021,WKH,3806,"Greens, Lettuce, Head",5,$36.00,$39.96
+06/22/2021,CHO,3266,"Onions, Scallions",5,$28.80,$31.97
+06/22/2021,HAF,3266,"Onions, Scallions",5,$28.80,$31.97
+06/22/2021,SGC,3266,"Onions, Scallions",5,$28.80,$31.97
+06/22/2021,CVP,3266,"Onions, Scallions",5,$28.80,$31.97
+06/22/2021,D2D,3278,"Radish, Red, Bulk, Bunched w/Tops",5,$33.75,$37.46
+06/22/2021,CBS,3278,"Radish, Red, Bunched w/Tops",10,$33.75,$37.46
+06/22/2021,KLF,3278,"Radish, Red, Bunched w/Tops",10,$33.75,$37.46
+06/25/2021,POG,3669,"Greens, Chard",38,$36.00,$39.96
+06/25/2021,SEE,3813,"Greens, Kale, Green Curly, Organic",38,$24.00,$26.64
+06/25/2021,HAF,3806,"Greens, Lettuce, Head",10,$36.00,$39.96
+06/25/2021,HAF,3806,"Greens, Lettuce, Head",7,$36.00,$39.96
+06/25/2021,WKH,3806,"Greens, Lettuce, Head",13,$36.00,$39.96
+06/29/2021,YMF,3266,"Onions, Scallions",11,$28.80,$31.97
+06/29/2021,HAF,3266,"Onions, Scallions",7,$28.80,$31.97
+06/29/2021,NTN,3266,"Onions, Scallions",5,$28.80,$31.97
+06/29/2021,SGC,3266,"Onions, Scallions",5,$28.80,$31.97
+06/29/2021,CVP,3266,"Onions, Scallions",5,$28.80,$31.97
+06/29/2021,CBS,3278,"Radish, Red, Bunched w/Tops",10,$33.75,$37.46
+06/29/2021,D2D,3278,"Radish, Red, Bunched w/Tops",9,$33.75,$37.46
+06/29/2021,KLF,3278,"Radish, Red, Bunched w/Tops",5,$33.75,$37.46
+07/02/2021,NTN,3813,"Greens, Kale",30,$36.00,$39.96
+07/02/2021,LXF,3390,"Potatoes, New Red",28,$100.00,$111.00
+07/02/2021,SEE,3184,"Squash, Summer Green Zucchini, Organic",40,$25.00,$27.75
+07/06/2021,HAF,3266,"Onions, Scallions",11,$28.80,$31.97
+07/06/2021,NTN,3266,"Onions, Scallions",11,$28.80,$31.97
+07/06/2021,SGC,3266,"Onions, Scallions",11,$28.80,$31.97
+07/06/2021,CVP,3266,"Onions, Scallions",11,$28.80,$31.97
+07/06/2021,CBS,3278,"Radish, Red, Bunched w/Tops",5,$33.75,$37.46
+07/06/2021,KLF,3278,"Radish, Red, Bunched w/Tops",8,$33.75,$37.46
+07/06/2021,MLF,3278,"Radish, Red, Bunched w/Tops",5,$33.75,$37.46
+07/06/2021,MHG,3184,"Squash, Summer, Green Zucchini",11,$20.00,$22.20
+07/06/2021,SGC,3184,"Squash, Summer, Green Zucchini",20,$20.00,$22.20
+07/09/2021,SEE,3326,Fennel,30,$42.00,$46.62
+07/09/2021,HAF,3806,"Greens, Lettuce, Head",10,$36.00,$39.96
+07/09/2021,YMF,3775,Kohlrabi,15,$30.00,$33.30
+07/09/2021,YMF,3216,Rhubarb,27,$56.25,$62.44
+07/09/2021,LXF,3184,"Squash, Summer, Green Zucchini",15,$25.00,$27.75
+07/09/2021,WKH,3184,"Squash, Summer, Green Zucchini",20,$20.00,$22.20
+07/13/2021,MKV,3754,Cabbage,4,$34.00,$37.74
+07/13/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+07/13/2021,AFC,3138,"Greens, Collards",3,$36.00,$39.96
+07/13/2021,D2D,3138,"Greens, Collards",10,$36.00,$39.96
+07/13/2021,MLG,3138,"Greens, Collards",7,$36.00,$39.96
+07/13/2021,SGC,3806,"Greens, Lettuce, Head",8,$36.00,$39.96
+07/13/2021,D2D,3278,"Radish, Red, Bunched w/Tops",5,$33.75,$37.46
+07/13/2021,KLF,3278,"Radish, Red, Bunched w/Tops",24,$33.75,$37.46
+07/13/2021,WKH,3278,"Radish, Red, Bunched w/Tops",39,$33.75,$37.46
+07/13/2021,AFC,3184,"Squash, Summer, Zucchini",3,$20.00,$22.20
+07/13/2021,D2D,3184,"Squash, Summer, Zucchini",9,$20.00,$22.20
+07/13/2021,LXF,3184,"Squash, Summer, Zucchini",55,$20.00,$22.20
+07/13/2021,SGC,3184,"Squash, Summer, Zucchini",20,$20.00,$22.20
+07/16/2021,SEE,3579,"Celery, Organic",24,$66.66,$73.99
+07/16/2021,HAF,3361,"Cucumbers, Slicing",13,$20.00,$22.20
+07/16/2021,SGC,3361,"Cucumbers, Slicing",9,$20.00,$22.20
+07/16/2021,SEE,3361,"Cucumbers, Slicing, Organic",16,$25.00,$27.75
+07/16/2021,HAF,3138,"Greens, Collards",37,$36.00,$39.96
+07/16/2021,HAF,3138,"Greens, Collards",1,$36.00,$39.96
+07/16/2021,CHO,3278,"Radish, Red, Bunched w/Tops",7,$33.75,$37.46
+07/16/2021,HAF,3278,"Radish, Red, Bunched w/Tops",3,$33.75,$37.46
+07/16/2021,CHO,3184,"Squash, Summer Yellow & Green",10,$24.00,$26.64
+07/16/2021,HAF,3184,"Squash, Summer, Zucchini, Yellow",20,$35.00,$38.85
+07/20/2021,MKV,3401,"Beans, Green",7,$62.50,$69.38
+07/20/2021,STF,3401,"Beans, Green",7,$62.50,$69.38
+07/20/2021,YMF,3401,"Beans, Green",18,$62.50,$69.38
+07/20/2021,MLG,3401,"Beans, Green",15,$62.50,$69.38
+07/20/2021,PBY,3401,"Beans, Green",13,$62.50,$69.38
+07/20/2021,YMF,3592,Broccoli,20,$31.45,$34.91
+07/20/2021,PBY,3592,Broccoli,12,$31.45,$34.91
+07/20/2021,D2D,3754,Cabbage,7,$34.00,$37.74
+07/20/2021,CBS,3361,"Cucumbers, Slicing",7,$20.00,$22.20
+07/20/2021,CLP,3361,"Cucumbers, Slicing",12,$20.00,$22.20
+07/20/2021,PBY,3361,"Cucumbers, Slicing",13,$20.00,$22.20
+07/20/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+07/20/2021,WKH,3361,"Cucumbers, Slicing",16,$20.00,$22.20
+07/20/2021,PBY,3573,"Greens, Bok Choy",10,$40.00,$44.40
+07/20/2021,STF,3573,"Greens, Bok Choy",20,$40.00,$44.40
+07/20/2021,CLP,3813,"Greens, Kale",10,$36.00,$39.96
+07/20/2021,D2D,3813,"Greens, Kale",14,$36.00,$39.96
+07/20/2021,NTN,3813,"Greens, Kale",30,$36.00,$39.96
+07/20/2021,PLT,3813,"Greens, Kale",10,$36.00,$39.96
+07/20/2021,MKV,3775,Kohlrabi,16,$30.00,$33.30
+07/20/2021,CBS,3278,"Radish, Red, Bunched w/Tops",4,$33.75,$37.46
+07/20/2021,D2D,3278,"Radish, Red, Bunched w/Tops",2,$33.75,$37.46
+07/20/2021,KLF,3278,"Radish, Red, Bunched w/Tops",26,$33.75,$37.46
+07/20/2021,AFC,3184,"Squash, Summer, Green Zucchini",3,$20.00,$22.20
+07/20/2021,SGC,3184,"Squash, Summer, Green Zucchini",26,$20.00,$22.20
+07/20/2021,D2D,3184,"Squash, Summer, Zucchini",9,$20.00,$22.20
+07/20/2021,LXF,3184,"Squash, Summer, Zucchini",50,$20.00,$22.20
+07/20/2021,WKH,3184,"Squash, Summer, Zucchini",17,$20.00,$22.20
+07/23/2021,CHO,3401,"Beans, Green",31,$62.50,$69.38
+07/23/2021,MKV,3756,Cucumbers,16,$20.00,$22.20
+07/23/2021,WKH,3361,"Cucumbers, Slicing",15,$20.00,$22.20
+07/23/2021,POG,3184,"Squash, Summer Yellow & Green",30,$25.00,$27.75
+07/23/2021,YMF,3184,"Squash, Summer, Green Zucchini",10,$20.00,$22.20
+07/23/2021,SEE,3202,"Tomatoes, Slicers",40,$34.00,$37.74
+07/27/2021,CHO,3401,"Beans, Green",30,$62.50,$69.38
+07/27/2021,D2D,3401,"Beans, Green",25,$62.50,$69.38
+07/27/2021,YMF,3401,"Beans, Green",20,$62.50,$69.38
+07/27/2021,HAF,3401,"Beans, Green",5,$62.50,$69.38
+07/27/2021,PBY,3401,"Beans, Green",20,$62.50,$69.38
+07/27/2021,YMF,3099,"Beets Red, Greentop",21,$36.00,$39.96
+07/27/2021,PBY,3362,"Cucumbers, Pickling",32,$20.00,$22.20
+07/27/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+07/27/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+07/27/2021,CHO,3669,"Greens, Chard",34,$36.00,$39.96
+07/27/2021,WKH,3806,"Greens, Lettuce, Head",21,$36.00,$39.96
+07/27/2021,CHO,3278,"Radish, Red, Bunched w/Tops",60,$33.75,$37.46
+07/27/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00,$22.20
+07/27/2021,CHO,3184,"Squash, Summer, Zucchini",66,$20.00,$22.20
+07/27/2021,D2D,3184,"Squash, Summer, Zucchini",10,$20.00,$22.20
+07/27/2021,LXF,3184,"Squash, Summer, Zucchini",66,$20.00,$22.20
+07/27/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00,$22.20
+07/27/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+07/27/2021,CBS,3404,Tomatillos,66,$28.00,$31.08
+07/30/2021,CBS,3153,"Peppers, Jalapeno",9,$25.50,$28.31
+07/30/2021,NTN,3184,"Squash, Summer, Zucchini",10,$20.00,$22.20
+07/30/2021,PBY,3184,"Squash, Summer, Zucchini",21,$20.00,$22.20
+07/30/2021,SGC,3184,"Squash, Summer, Zucchini",30,$20.00,$22.20
+07/30/2021,CBS,3404,Tomatillos,89,$28.00,$32.75
+07/30/2021,SEE,3202,"Tomatoes, Slicers",17,$34.00,$44.40
+07/30/2021,WKH,3202,"Tomatoes, Slicers",12,$40.00,$44.40
+08/03/2021,CHO,3401,"Beans, Green",20,$62.50,$69.38
+08/03/2021,SGC,3754,Cabbage,7,$34.00,$37.74
+08/03/2021,CBS,3361,"Cucumbers, Slicing",12,$20.00,$22.20
+08/03/2021,CBS,3361,"Cucumbers, Slicing",8,$20.00,$22.20
+08/03/2021,CHO,3361,"Cucumbers, Slicing",15,$20.00,$22.20
+08/03/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+08/03/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+08/03/2021,WKH,3361,"Cucumbers, Slicing",10,$20.00,$22.20
+08/03/2021,CHO,3669,"Greens, Chard",20,$36.00,$39.96
+08/03/2021,CLP,3813,"Greens, Kale",10,$36.00,$39.96
+08/03/2021,D2D,3813,"Greens, Kale",10,$36.00,$39.96
+08/03/2021,NTN,3813,"Greens, Kale",10,$36.00,$39.96
+08/03/2021,PLT,3813,"Greens, Kale",10,$36.00,$39.96
+08/03/2021,CBS,3153,"Peppers, Jalapeno",14,$25.50,$28.31
+08/03/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00,$22.20
+08/03/2021,CHO,3184,"Squash, Summer, Zucchini",30,$20.00,$22.20
+08/03/2021,D2D,3184,"Squash, Summer, Zucchini",12,$20.00,$22.20
+08/03/2021,LXF,3184,"Squash, Summer, Zucchini",30,$20.00,$22.20
+08/03/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00,$22.20
+08/03/2021,WKH,3184,"Squash, Summer, Zucchini",27,$20.00,$22.20
+08/03/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+08/03/2021,CBS,3404,Tomatillos,66,$28.00,$31.08
+08/06/2021,LXF,3362,"Cucumbers, Pickling",30,$20.00,$22.20
+08/06/2021,YMF,3361,"Cucumbers, Slicing",7,$20.00,$22.20
+08/06/2021,WKH,3361,"Cucumbers, Slicing",4,$20.00,$22.20
+08/06/2021,HAF,3138,"Greens, Collards",38,$36.00,$39.96
+08/06/2021,SEE,3242,"Greens, Lettuce, Romaine, Green, Organic",34,$30.00,$38.63
+08/06/2021,MKV,3759,Onions,15,$40.00,$44.40
+08/06/2021,MKV,3759,Onions,5,$40.00,$44.40
+08/06/2021,SEE,3828,"Peppers, Bell, Green, Organic",30,$30.25,$33.58
+08/06/2021,SEE,3828,"Peppers, Bell, Green, Organic",7,$30.25,$33.58
+08/06/2021,SEE,3202,"Tomatoes, Slicers, Organic",26,$32.25,$35.80
+08/10/2021,D2D,3401,"Beans, Green",15,$62.50,$69.38
+08/10/2021,YMF,3401,"Beans, Green",5,$62.50,$69.38
+08/10/2021,MLG,3401,"Beans, Green",15,$62.50,$69.38
+08/10/2021,PBY,3401,"Beans, Green",15,$62.50,$69.38
+08/10/2021,CBS,3361,"Cucumbers, Slicing",15,$20.00,$22.20
+08/10/2021,CHO,3361,"Cucumbers, Slicing",45,$20.00,$22.20
+08/10/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+08/10/2021,SGC,3361,"Cucumbers, Slicing",21,$20.00,$22.20
+08/10/2021,MLG,3758,"Eggplant, African (Bitter ball)",33,$20.00,$22.20
+08/10/2021,PLT,3758,"Eggplant, African (Bitter ball)",33,$20.00,$22.20
+08/10/2021,MKV,3759,Onions,20,$40.00,$44.40
+08/10/2021,PBY,3759,Onions,20,$40.00,$44.40
+08/10/2021,SGC,3759,Onions,20,$40.00,$44.40
+08/10/2021,CBS,3153,"Peppers, Jalapeno",66,$25.50,$28.31
+08/10/2021,MHG,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+08/10/2021,SGC,3153,"Peppers, Jalapeno",10,$25.50,$28.31
+08/10/2021,AFC,3184,"Squash, Summer, Zucchini",6,$20.00,$22.20
+08/10/2021,CHO,3184,"Squash, Summer, Zucchini",20,$20.00,$22.20
+08/10/2021,D2D,3184,"Squash, Summer, Zucchini",10,$20.00,$22.20
+08/10/2021,LXF,3184,"Squash, Summer, Zucchini",30,$20.00,$22.20
+08/10/2021,MHG,3184,"Squash, Summer, Zucchini",30,$20.00,$22.20
+08/10/2021,SGC,3184,"Squash, Summer, Zucchini",6,$20.00,$22.20
+08/10/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+08/13/2021,KHF,3759,Onions,23,$40.00,$44.40
+08/13/2021,LXF,3828,"Peppers, Bell, Green",45,$28.00,$31.08
+08/13/2021,AFC,3184,"Squash, Summer, Zucchini",7,$20.00,$22.20
+08/13/2021,CHO,3184,"Squash, Summer, Zucchini",25,$20.00,$22.20
+08/13/2021,WKH,3184,"Squash, Summer, Zucchini",12,$20.00,$22.20
+08/13/2021,SEE,3202,"Tomatoes, Slicers, Organic",40,$34.00,$37.74
+08/17/2021,CBS,3361,"Cucumbers, Slicing",8,$20.00,$22.20
+08/17/2021,CLP,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+08/17/2021,SGC,3361,"Cucumbers, Slicing",6,$20.00,$22.20
+08/17/2021,MLG,3757,Eggplant,15,$31.62,$35.10
+08/17/2021,PLT,3758,"Eggplant, African (Bitter ball)",33,$20.00,$22.20
+08/17/2021,AFC,3138,"Greens, Collards",5,$36.00,$39.96
+08/17/2021,D2D,3138,"Greens, Collards",9,$36.00,$39.96
+08/17/2021,MLG,3138,"Greens, Collards",10,$36.00,$39.96
+08/17/2021,CLP,3813,"Greens, Kale",10,$36.00,$39.96
+08/17/2021,D2D,3813,"Greens, Kale",10,$36.00,$39.96
+08/17/2021,NTN,3813,"Greens, Kale",10,$36.00,$39.96
+08/17/2021,PLT,3813,"Greens, Kale",10,$36.00,$39.96
+08/17/2021,KLF,3364,"Greens, Mustard",10,$36.00,$39.96
+08/17/2021,PLT,3364,"Greens, Mustard",10,$36.00,$39.96
+08/17/2021,SGC,3091,Melon Honeydew Organic,30,$26.25,$29.14
+08/17/2021,SGC,3089,Melon Watermelon Red Seeded Organic,6,$420.00,$466.20
+08/17/2021,MKV,3405,Okra,28,$51.00,$56.61
+08/17/2021,MKV,3405,Okra,8,$51.00,$56.61
+08/17/2021,PLT,3405,Okra,30,$51.00,$56.61
+08/17/2021,CLP,3828,"Peppers, Bell",10,$35.00,$38.85
+08/17/2021,NTN,3828,"Peppers, Bell",20,$35.00,$38.85
+08/17/2021,MLG,3828,"Peppers, Bell",20,$35.00,$38.85
+08/17/2021,SGC,3828,"Peppers, Bell",4,$35.00,$38.85
+08/17/2021,CBS,3153,"Peppers, Jalapeno",20,$25.50,$28.31
+08/17/2021,MHG,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+08/17/2021,PLT,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+08/17/2021,SGC,3153,"Peppers, Jalapeno",20,$25.50,$28.31
+08/17/2021,LXF,3166,"Potatoes, Red A",10,$50.00,$55.50
+08/17/2021,MKV,3166,"Potatoes, Red A",10,$50.00,$55.50
+08/17/2021,CVP,3166,"Potatoes, Red A",10,$50.00,$55.50
+08/17/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+08/17/2021,MLP,3202,"Tomatoes, Slicers",9,$40.00,$44.40
+08/17/2021,KSL,3202,"Tomatoes, Slicers",13,$40.00,$44.40
+08/20/2021,POG,3669,"Greens, Chard",36,$36.00,$39.96
+08/20/2021,POG,3669,"Greens, Chard",2,$36.00,$39.96
+08/20/2021,LXF,3539,Ground Cherries,1,$33.60,$37.30
+08/20/2021,LXF,3539,Ground Cherries,61,$33.60,$37.30
+08/20/2021,SEE,3828,"Peppers, Bell, Green, Organic",33,$30.25,$33.58
+08/20/2021,CHO,3202,"Tomatoes, Slicers",15,$40.00,$44.40
+08/20/2021,YMF,3202,"Tomatoes, Slicers",1,$40.00,$44.40
+08/20/2021,YMF,3202,"Tomatoes, Slicers",19,$40.00,$44.40
+08/20/2021,PBY,3202,"Tomatoes, Slicers",12,$40.00,$44.40
+08/24/2021,PBY,3592,Broccoli,30,$31.45,$34.91
+08/24/2021,PLT,3758,"Eggplant, African (Bitter ball)",66,$20.00,$22.20
+08/24/2021,CLP,3717,"Eggplant, Globe",50,$31.62,$35.10
+08/24/2021,YMF,3717,"Eggplant, Globe",25,$31.62,$35.10
+08/24/2021,KLF,3717,"Eggplant, Globe",25,$31.62,$35.10
+08/24/2021,SGC,3089,Melon Watermelon Red Seeded Organic,3,$420.00,$466.20
+08/24/2021,PLT,3405,Okra,33,$51.00,$56.61
+08/24/2021,CLP,3828,"Peppers, Bell",10,$35.00,$38.85
+08/24/2021,KHF,3828,"Peppers, Bell",39,$35.00,$38.85
+08/24/2021,NTN,3828,"Peppers, Bell",20,$35.00,$38.85
+08/24/2021,MLG,3828,"Peppers, Bell",20,$35.00,$38.85
+08/24/2021,SGC,3828,"Peppers, Bell",21,$35.00,$38.85
+08/24/2021,KHF,3458,"Peppers, Habanero",5,$35.00,$38.85
+08/24/2021,MKV,3458,"Peppers, Habanero",25,$35.00,$38.85
+08/24/2021,PLT,3458,"Peppers, Habanero",25,$35.00,$38.85
+08/24/2021,CBS,3153,"Peppers, Jalapeno",20,$25.50,$28.31
+08/24/2021,MHG,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+08/24/2021,PLT,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+08/24/2021,SGC,3153,"Peppers, Jalapeno",30,$25.50,$28.31
+08/24/2021,LXF,3166,"Potatoes, Red A",30,$50.00,$55.50
+08/24/2021,MKV,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+08/24/2021,NTN,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+08/24/2021,CVP,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+08/24/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+08/24/2021,CHO,3200,"Tomatoes, Grape",22,$35.00,$38.85
+08/24/2021,D2D,3200,"Tomatoes, Grape",11,$35.00,$38.85
+08/24/2021,KHF,3200,"Tomatoes, Grape",11,$35.00,$38.85
+08/24/2021,MHG,3200,"Tomatoes, Grape",25,$35.00,$38.85
+08/24/2021,AFC,3201,"Tomatoes, Roma",6,$35.00,$38.85
+08/24/2021,CBS,3201,"Tomatoes, Roma",20,$35.00,$38.85
+08/24/2021,KHF,3201,"Tomatoes, Roma",20,$35.00,$38.85
+08/24/2021,SGC,3201,"Tomatoes, Roma",20,$35.00,$38.85
+08/24/2021,DTF,3202,"Tomatoes, Slicers",53,$40.00,$44.40
+08/24/2021,KHF,3202,"Tomatoes, Slicers",13,$40.00,$44.40
+08/27/2021,HAF,3613,"Beets Red, bulk",36,$26.31,$29.20
+08/27/2021,POG,3717,"Eggplant, Globe",40,$31.62,$35.10
+08/27/2021,HAF,3700,"Greens, Spinach, Chinese (water spinach)",38,$24.00,$26.64
+08/27/2021,SGC,3153,"Peppers, Jalapeno",9,$25.50,$28.31
+08/27/2021,LXF,3449,"Peppers, Poblano",45,$40.00,$44.40
+08/27/2021,MLP,3166,"Potatoes, Red A",9,$50.00,$55.50
+08/27/2021,CHO,3200,"Tomatoes, Grape",30,$30.00,$33.30
+08/27/2021,MHG,3200,"Tomatoes, Grape",25,$35.00,$33.30
+08/31/2021,PBY,3592,Broccoli,18,$31.45,$34.91
+08/31/2021,YMF,3755,Carrots,30,$31.62,$35.10
+08/31/2021,NTN,3755,Carrots,30,$31.62,$35.10
+08/31/2021,RSV,3755,Carrots,15,$31.62,$35.10
+08/31/2021,CVP,3755,Carrots,29,$31.62,$35.10
+08/31/2021,MKV,3405,Okra,30,$51.00,$56.61
+08/31/2021,LXF,3759,Onions,20,$40.00,$44.40
+08/31/2021,MLG,3759,Onions,20,$40.00,$44.40
+08/31/2021,SGC,3759,Onions,11,$40.00,$44.40
+08/31/2021,SXF,3759,Onions,20,$40.00,$44.40
+08/31/2021,CHO,3828,"Peppers, Bell",6,$35.00,$38.85
+08/31/2021,CLP,3828,"Peppers, Bell",10,$35.00,$38.85
+08/31/2021,NTN,3828,"Peppers, Bell",20,$35.00,$38.85
+08/31/2021,MLG,3828,"Peppers, Bell",20,$35.00,$38.85
+08/31/2021,SGC,3828,"Peppers, Bell",30,$35.00,$38.85
+08/31/2021,HAF,3458,"Peppers, Habanero",8,$35.00,$38.85
+08/31/2021,PLT,3458,"Peppers, Habanero",25,$35.00,$38.85
+08/31/2021,CBS,3153,"Peppers, Jalapeno",20,$25.50,$28.31
+08/31/2021,MHG,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+08/31/2021,PLT,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+08/31/2021,SGC,3153,"Peppers, Jalapeno",30,$25.50,$28.31
+08/31/2021,LXF,3166,"Potatoes, Red A",10,$50.00,$55.50
+08/31/2021,MKV,3166,"Potatoes, Red A",10,$50.00,$55.50
+08/31/2021,CVP,3166,"Potatoes, Red A",10,$50.00,$55.50
+08/31/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+08/31/2021,CHO,3200,"Tomatoes, Grape",18,$30.00,$38.85
+08/31/2021,D2D,3200,"Tomatoes, Grape",16,$35.00,$38.85
+08/31/2021,WKH,3200,"Tomatoes, Grape",16,$35.00,$38.85
+08/31/2021,AFC,3201,"Tomatoes, Roma",6,$35.00,$38.85
+08/31/2021,CBS,3201,"Tomatoes, Roma",20,$35.00,$38.85
+08/31/2021,KHF,3201,"Tomatoes, Roma",20,$35.00,$38.85
+08/31/2021,SGC,3201,"Tomatoes, Roma",20,$35.00,$38.85
+08/31/2021,DTF,3202,"Tomatoes, Slicers",53,$40.00,$44.40
+08/31/2021,KHF,3202,"Tomatoes, Slicers",13,$40.00,$44.40
+09/03/2021,LXF,3828,"Peppers, Bell",36,$35.00,$38.85
+09/03/2021,SEE,3828,"Peppers, Bell, Green, Organic",33,$30.25,$33.58
+09/03/2021,CHO,3184,"Squash, Summer, Zucchini",10,$20.00,$22.20
+09/03/2021,YMF,3184,"Squash, Summer, Zucchini",7,$20.00,$22.20
+09/03/2021,SGC,3134,"Sweet Corn, Organic",67,$27.00,$29.97
+09/03/2021,CHO,3200,"Tomatoes, Grape",20,$30.00,$38.85
+09/03/2021,MHG,3200,"Tomatoes, Grape",16,$35.00,$38.85
+09/03/2021,MLP,3202,"Tomatoes, Slicers",10,$40.00,$44.40
+09/03/2021,PBY,3202,"Tomatoes, Slicers",10,$40.00,$44.40
+09/07/2021,CLP,3401,"Beans, Green",5,$62.50,$69.38
+09/07/2021,D2D,3401,"Beans, Green",15,$62.50,$69.38
+09/07/2021,MLG,3401,"Beans, Green",15,$62.50,$69.38
+09/07/2021,PBY,3401,"Beans, Green",15,$62.50,$69.38
+09/07/2021,KLF,3364,"Greens, Mustard",10,$36.00,$39.96
+09/07/2021,MKV,3405,Okra,36,$51.00,$56.61
+09/07/2021,MKV,3759,Onions,20,$40.00,$44.40
+09/07/2021,PBY,3759,Onions,18,$40.00,$44.40
+09/07/2021,SGC,3759,Onions,26,$40.00,$44.40
+09/07/2021,WKH,3759,Onions,20,$40.00,$44.40
+09/07/2021,CHO,3828,"Peppers, Bell",4,$35.00,$38.85
+09/07/2021,CLP,3828,"Peppers, Bell",10,$35.00,$38.85
+09/07/2021,NTN,3828,"Peppers, Bell",20,$35.00,$38.85
+09/07/2021,MLG,3828,"Peppers, Bell",20,$35.00,$38.85
+09/07/2021,SGC,3828,"Peppers, Bell",25,$35.00,$38.85
+09/07/2021,CHO,3458,"Peppers, Habanero",8,$35.00,$38.85
+09/07/2021,MKV,3458,"Peppers, Habanero",25,$35.00,$38.85
+09/07/2021,PLT,3458,"Peppers, Habanero",25,$35.00,$38.85
+09/07/2021,CBS,3153,"Peppers, Jalapeno",20,$25.50,$28.31
+09/07/2021,MHG,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+09/07/2021,PLT,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+09/07/2021,SGC,3153,"Peppers, Jalapeno",26,$25.50,$28.31
+09/07/2021,LXF,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+09/07/2021,MKV,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+09/07/2021,NTN,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+09/07/2021,SGC,3135,Sweet Corn,226,$27.00,$29.97
+09/07/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+09/07/2021,CHO,3200,"Tomatoes, Grape",18,$35.00,$38.85
+09/07/2021,WKH,3200,"Tomatoes, Grape",16,$35.00,$38.85
+09/07/2021,AFC,3201,"Tomatoes, Roma",6,$35.00,$38.85
+09/07/2021,CBS,3201,"Tomatoes, Roma",20,$35.00,$38.85
+09/07/2021,KHF,3201,"Tomatoes, Roma",20,$35.00,$38.85
+09/07/2021,SGC,3201,"Tomatoes, Roma",20,$35.00,$38.85
+09/07/2021,DTF,3202,"Tomatoes, Slicers",71,$40.00,$44.40
+09/07/2021,KHF,3202,"Tomatoes, Slicers",13,$40.00,$44.40
+09/07/2021,PBY,3202,"Tomatoes, Slicers",10,$40.00,$44.40
+09/07/2021,KSL,3202,"Tomatoes, Slicers",10,$40.00,$44.40
+09/10/2021,YMF,3401,"Beans, Green",20,$62.50,$69.38
+09/10/2021,HAF,3401,"Beans, Green",10,$62.50,$69.38
+09/10/2021,AFC,3813,"Greens, Kale",8,$36.00,$39.96
+09/10/2021,CLP,3813,"Greens, Kale",8,$36.00,$39.96
+09/10/2021,HAF,3813,"Greens, Kale",8,$36.00,$39.96
+09/10/2021,NTN,3813,"Greens, Kale",8,$36.00,$39.96
+09/10/2021,PLT,3813,"Greens, Kale",6,$36.00,$39.96
+09/10/2021,SGC,3135,Sweet Corn,67,$27.00,$29.97
+09/10/2021,CHO,3202,"Tomatoes, Slicers",6,$40.00,$44.40
+09/10/2021,MLP,3202,"Tomatoes, Slicers",10,$40.00,$44.40
+09/10/2021,PBY,3202,"Tomatoes, Slicers",10,$40.00,$44.40
+09/10/2021,KSL,3202,"Tomatoes, Slicers",10,$40.00,$44.40
+09/10/2021,SEE,3202,"Tomatoes, Slicers, Organic",29,$34.00,$37.74
+09/14/2021,YMF,3755,Carrots,15,$31.62,$35.10
+09/14/2021,HAF,3755,Carrots,12,$31.62,$35.10
+09/14/2021,NTN,3755,Carrots,30,$31.62,$35.10
+09/14/2021,RSV,3755,Carrots,15,$31.62,$35.10
+09/14/2021,CVP,3755,Carrots,30,$31.62,$35.10
+09/14/2021,SGC,3807,Cauliflower,8,$23.00,$25.53
+09/14/2021,CLP,3717,"Eggplant, Globe",50,$31.62,$35.10
+09/14/2021,YMF,3717,"Eggplant, Globe",25,$31.62,$35.10
+09/14/2021,KLF,3717,"Eggplant, Globe",25,$31.62,$35.10
+09/14/2021,AFC,3138,"Greens, Collards",5,$36.00,$39.96
+09/14/2021,D2D,3138,"Greens, Collards",10,$36.00,$39.96
+09/14/2021,MLG,3138,"Greens, Collards",10,$36.00,$39.96
+09/14/2021,NTN,3813,"Greens, Kale",2,$36.00,$39.96
+09/14/2021,MKV,3405,Okra,19,$51.00,$56.61
+09/14/2021,YMF,3759,Onions,20,$40.00,$44.40
+09/14/2021,LXF,3759,Onions,20,$40.00,$44.40
+09/14/2021,MLG,3759,Onions,20,$40.00,$44.40
+09/14/2021,CHO,3828,"Peppers, Bell",20,$35.00,$38.85
+09/14/2021,CLP,3828,"Peppers, Bell",10,$35.00,$38.85
+09/14/2021,YMF,3828,"Peppers, Bell",3,$35.00,$38.85
+09/14/2021,NTN,3828,"Peppers, Bell",20,$35.00,$38.85
+09/14/2021,MLG,3828,"Peppers, Bell",20,$35.00,$38.85
+09/14/2021,SGC,3828,"Peppers, Bell",21,$35.00,$38.85
+09/14/2021,CHO,3458,"Peppers, Habanero",8,$35.00,$38.85
+09/14/2021,HAF,3458,"Peppers, Habanero",8,$35.00,$38.85
+09/14/2021,MKV,3458,"Peppers, Habanero",25,$35.00,$38.85
+09/14/2021,PLT,3458,"Peppers, Habanero",25,$35.00,$38.85
+09/14/2021,CBS,3153,"Peppers, Jalapeno",20,$25.50,$28.31
+09/14/2021,MHG,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+09/14/2021,PLT,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+09/14/2021,SGC,3153,"Peppers, Jalapeno",24,$25.50,$28.31
+09/14/2021,LXF,3166,"Potatoes, Red A",10,$50.00,$55.50
+09/14/2021,MKV,3166,"Potatoes, Red A",10,$50.00,$55.50
+09/14/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+09/14/2021,CHO,3200,"Tomatoes, Grape",18,$35.00,$38.85
+09/14/2021,CHO,3200,"Tomatoes, Grape",8,$35.00,$38.85
+09/14/2021,WKH,3200,"Tomatoes, Grape",16,$35.00,$38.85
+09/14/2021,AFC,3201,"Tomatoes, Roma",6,$35.00,$38.85
+09/14/2021,CBS,3201,"Tomatoes, Roma",20,$35.00,$38.85
+09/14/2021,SGC,3201,"Tomatoes, Roma",20,$35.00,$38.85
+09/14/2021,DTF,3202,"Tomatoes, Slicers",53,$40.00,$44.40
+09/14/2021,KHF,3202,"Tomatoes, Slicers",13,$40.00,$44.40
+09/17/2021,LXF,3755,Carrots,38,$31.62,$35.10
+09/17/2021,HAF,3138,"Greens, Collards",8,$36.00,$39.96
+09/17/2021,MLP,3138,"Greens, Collards",10,$36.00,$39.96
+09/17/2021,KSL,3138,"Greens, Collards",10,$36.00,$39.96
+09/17/2021,SEE,3828,"Peppers, Bell, Green, Organic",32,$35.00,$38.85
+09/17/2021,KHF,3201,"Tomatoes, Roma",32,$35.00,$38.85
+09/17/2021,PBY,3201,"Tomatoes, Roma",32,$35.00,$38.85
+09/21/2021,AFC,3138,"Greens, Collards",10,$36.00,$39.96
+09/21/2021,CLP,3813,"Greens, Kale",10,$36.00,$39.96
+09/21/2021,D2D,3813,"Greens, Kale",10,$36.00,$39.96
+09/21/2021,NTN,3813,"Greens, Kale",10,$36.00,$39.96
+09/21/2021,PLT,3813,"Greens, Kale",10,$36.00,$39.96
+09/21/2021,KLF,3364,"Greens, Mustard",10,$36.00,$39.96
+09/21/2021,MKV,3759,Onions,10,$40.00,$44.40
+09/21/2021,SGC,3759,Onions,40,$40.00,$44.40
+09/21/2021,WKH,3759,Onions,20,$40.00,$44.40
+09/21/2021,CLP,3828,"Peppers, Bell",10,$35.00,$38.85
+09/21/2021,NTN,3828,"Peppers, Bell",20,$35.00,$38.85
+09/21/2021,MLG,3828,"Peppers, Bell",20,$35.00,$38.85
+09/21/2021,SGC,3828,"Peppers, Bell",15,$35.00,$38.85
+09/21/2021,MKV,3458,"Peppers, Habanero",25,$35.00,$38.85
+09/21/2021,MHG,3153,"Peppers, Jalapeno",8,$25.50,$28.31
+09/21/2021,LXF,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+09/21/2021,MKV,3171,"Potatoes, Yellow A",8,$50.00,$55.50
+09/21/2021,NTN,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+09/21/2021,YMF,3189,"Squash, Winter, Delicata",16,$35.00,$38.85
+09/21/2021,SGC,3189,"Squash, Winter, Delicata",56,$35.00,$38.85
+09/21/2021,SXF,3826,Sweet Potato Leaves,50,$30.00,$33.30
+09/21/2021,CBS,3201,"Tomatoes, Roma",20,$35.00,$38.85
+09/21/2021,KHF,3201,"Tomatoes, Roma",26,$35.00,$38.85
+09/21/2021,SGC,3201,"Tomatoes, Roma",13,$35.00,$38.85
+09/21/2021,DTF,3202,"Tomatoes, Slicers",53,$40.00,$44.40
+09/21/2021,KHF,3202,"Tomatoes, Slicers",20,$40.00,$44.40
+09/24/2021,MKV,3401,"Beans, Green",12,$62.50,$69.38
+09/24/2021,D2D,3401,"Beans, Green",3,$62.50,$69.38
+09/24/2021,NTN,3813,"Greens, Kale",36,$36.00,$39.96
+09/24/2021,SEE,3189,"Squash, Winter, Delicata, Organic",52,$30.00,$33.30
+09/24/2021,CHO,3202,"Tomatoes, Slicers",9,$40.00,$44.40
+09/24/2021,MLP,3202,"Tomatoes, Slicers",12,$40.00,$44.40
+09/24/2021,PBY,3202,"Tomatoes, Slicers",12,$40.00,$44.40
+09/24/2021,KSL,3202,"Tomatoes, Slicers",12,$40.00,$44.40
+09/28/2021,YMF,3592,Broccoli,0,$31.45,$34.91
+09/28/2021,NTN,3592,Broccoli,30,$31.45,$34.91
+09/28/2021,NTN,3592,Broccoli,0,$31.45,$34.91
+09/28/2021,PBY,3592,Broccoli,0,$31.45,$34.91
+09/28/2021,SGC,3592,Broccoli,0,$31.45,$34.91
+09/28/2021,YMF,3807,Cauliflower,0,$23.00,$25.53
+09/28/2021,SGC,3807,Cauliflower,5,$23.00,$25.53
+09/28/2021,SGC,3807,Cauliflower,0,$23.00,$25.53
+09/28/2021,STF,3807,Cauliflower,50,$23.00,$25.53
+09/28/2021,STF,3807,Cauliflower,0,$23.00,$25.53
+09/28/2021,AFC,3138,"Greens, Collards",8,$36.00,$39.96
+09/28/2021,AFC,3138,"Greens, Collards",0,$36.00,$39.96
+09/28/2021,LXF,3166,"Potatoes, Red A",10,$50.00,$55.50
+09/28/2021,LXF,3166,"Potatoes, Red A",0,$50.00,$55.50
+09/28/2021,MKV,3166,"Potatoes, Red A",0,$50.00,$55.50
+09/28/2021,CVP,3166,"Potatoes, Red A",0,$50.00,$55.50
+09/28/2021,CBS,3201,"Tomatoes, Roma",20,$35.00,$38.85
+09/28/2021,KHF,3201,"Tomatoes, Roma",26,$35.00,$38.85
+09/28/2021,SGC,3201,"Tomatoes, Roma",10,$35.00,$38.85
+09/28/2021,KHF,3202,"Tomatoes, Slicers",20,$40.00,$44.40
+10/01/2021,STF,3401,"Beans, Green",16,$62.50,$69.38
+10/01/2021,YMF,3592,Broccoli,15,$31.45,$34.91
+10/01/2021,MLP,3592,Broccoli,16,$31.45,$34.91
+10/01/2021,KSL,3592,Broccoli,18,$31.45,$34.91
+10/01/2021,WKH,3411,"Greens, Bok Choy, Baby",34,$54.00,$59.94
+10/01/2021,HAF,3266,"Onions, Scallions",34,$28.80,$31.97
+10/01/2021,SEE,3759,"Onions, Yellow, Organic",18,$40.00,$44.40
+10/01/2021,LXF,3828,"Peppers, Bell",16,$35.00,$38.85
+10/01/2021,MKV,3828,"Peppers, Bell, Green",27,$40.00,$44.40
+10/05/2021,CLP,3613,"Beets Red, bulk",16,$26.31,$29.20
+10/05/2021,LXF,3613,"Beets Red, bulk",18,$26.31,$29.20
+10/05/2021,PBY,3613,"Beets Red, bulk",16,$26.31,$29.20
+10/05/2021,YMF,3755,Carrots,15,$31.62,$35.10
+10/05/2021,NTN,3755,Carrots,30,$31.62,$35.10
+10/05/2021,RSV,3755,Carrots,15,$31.62,$35.10
+10/05/2021,CVP,3755,Carrots,35,$31.62,$35.10
+10/05/2021,YMF,3132,"Carrots, Rainbow",12,$31.62,$35.10
+10/05/2021,YMF,3759,Onions,20,$40.00,$44.40
+10/05/2021,LXF,3759,Onions,20,$40.00,$44.40
+10/05/2021,MLG,3759,Onions,20,$40.00,$44.40
+10/05/2021,SGC,3759,Onions,20,$40.00,$44.40
+10/05/2021,LXF,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+10/05/2021,NTN,3171,"Potatoes, Yellow A",10,$50.00,$55.50
+10/05/2021,D2D,3278,"Radish, Red, Bunched w/Tops",15,$33.75,$37.46
+10/05/2021,MHG,3278,"Radish, Red, Bunched w/Tops",12,$33.75,$37.46
+10/05/2021,CBS,3188,"Squash, Winter, Butternut",25,$24.65,$27.36
+10/05/2021,SGC,3188,"Squash, Winter, Butternut",75,$24.65,$27.36
+10/05/2021,YMF,3189,"Squash, Winter, Delicata",10,$35.00,$38.85
+10/05/2021,SGC,3189,"Squash, Winter, Delicata",75,$35.00,$38.85
+10/05/2021,CBS,3404,Tomatillos,20,$28.00,$31.08
+10/08/2021,YMF,3079,Brussels Sprouts,29,$42.16,$46.80
+10/08/2021,LXF,3079,Brussels Sprouts,40,$42.16,$46.80
+10/08/2021,NTN,3079,Brussels Sprouts,10,$42.16,$46.80
+10/08/2021,NTN,3754,Cabbage,57,$34.00,$37.74
+10/08/2021,KSL,3754,Cabbage,16,$34.00,$37.74
+10/08/2021,KSL,3754,Cabbage,1,$24.16,$26.82
+10/08/2021,NTN,3755,Carrots,16,$31.62,$35.10
+10/08/2021,YMF,3132,"Carrots, Rainbow",15,$31.62,$35.10
+10/08/2021,SEE,3188,"Squash, Winter, Butternut, Organic",68,$18.00,$19.98
+10/12/2021,LXF,3613,"Beets Red, bulk",18,$26.31,$29.20
+10/12/2021,NTN,3613,"Beets Red, bulk",32,$26.31,$29.20
+10/12/2021,PBY,3613,"Beets Red, bulk",16,$26.31,$29.20
+10/12/2021,YMF,3755,Carrots,15,$31.62,$35.10
+10/12/2021,NTN,3755,Carrots,30,$31.62,$35.10
+10/12/2021,RSV,3755,Carrots,30,$31.62,$35.10
+10/12/2021,CVP,3755,Carrots,30,$31.62,$35.10
+10/12/2021,YMF,3132,"Carrots, Rainbow",12,$31.62,$35.10
+10/12/2021,LXF,3132,"Carrots, Rainbow",60,$31.62,$35.10
+10/12/2021,MLG,3759,Onions,40,$40.00,$44.40
+10/12/2021,LXF,3828,"Peppers, Bell",35,$35.00,$38.85
+10/12/2021,MHG,3828,"Peppers, Bell",20,$35.00,$38.85
+10/12/2021,LXF,3166,"Potatoes, Red A",10,$50.00,$55.50
+10/12/2021,CVP,3166,"Potatoes, Red A",10,$50.00,$55.50
+10/12/2021,YMF,3178,"Radish, Purple Daikon",15,$30.00,$33.30
+10/12/2021,CBS,3188,"Squash, Winter, Butternut",38,$24.65,$27.36
+10/12/2021,SGC,3188,"Squash, Winter, Butternut",57,$24.65,$27.36
+10/15/2021,WKH,3598,"Greens, Lettuce, Romaine",33,$31.50,$34.97
+10/15/2021,SEE,3828,"Peppers, Bell, Green, Organic",32,$30.25,$33.58
+10/15/2021,POG,3190,"Squash, Winter, Spaghetti",63,$33.25,$36.91
+10/19/2021,CLP,3613,"Beets Red, bulk",16,$26.31,$29.20
+10/19/2021,PBY,3613,"Beets Red, bulk",16,$26.31,$29.20
+10/19/2021,SGC,3754,Cabbage,40,$34.00,$37.74
+10/19/2021,YMF,3755,Carrots,15,$31.62,$35.10
+10/19/2021,NTN,3755,Carrots,30,$31.62,$35.10
+10/19/2021,RSV,3755,Carrots,15,$31.62,$35.10
+10/19/2021,CVP,3755,Carrots,55,$31.62,$35.10
+10/19/2021,LXF,3132,"Carrots, Rainbow",60,$31.62,$35.10
+10/19/2021,WKH,3573,"Greens, Bok Choy",20,$40.00,$44.40
+10/19/2021,NTN,3759,Onions,5,$40.00,$44.40
+10/19/2021,SGC,3759,Onions,8,$40.00,$44.40
+10/19/2021,WKH,3759,Onions,13,$40.00,$44.40
+10/19/2021,LXF,3166,"Potatoes, Red A",10,$50.00,$55.50
+10/19/2021,NTN,3166,"Potatoes, Red A",10,$50.00,$55.50
+10/19/2021,YMF,3178,"Radish, Purple Daikon",26,$30.00,$33.30
+10/19/2021,SGC,3188,"Squash, Winter, Butternut",67,$24.65,$27.36
+10/19/2021,YMF,3189,"Squash, Winter, Delicata",22,$35.00,$38.85
+10/19/2021,SGC,3189,"Squash, Winter, Delicata",10,$35.00,$38.85
+10/22/2021,SGC,3768,"Cranberries, organic",63,$25.00,$27.75
+10/22/2021,YMF,3813,"Greens, Kale",38,$36.00,$39.96
+10/22/2021,SEE,3188,"Squash, Winter, Butternut, Organic",32,$18.00,$19.98
+10/22/2021,SEE,3189,"Squash, Winter, Delicata, Organic",24,$30.00,$33.30
+10/26/2021,CLP,3613,"Beets Red, bulk",16,$26.31,$29.20
+10/26/2021,YMF,3755,Carrots,13,$31.62,$35.10
+10/26/2021,NTN,3755,Carrots,30,$31.62,$35.10
+10/26/2021,RSV,3755,Carrots,15,$31.62,$35.10
+10/26/2021,WKH,3598,"Greens, Lettuce, Romaine",84,$31.50,$34.97
+10/26/2021,LXF,3828,"Peppers, Bell",50,$35.00,$38.85
+10/26/2021,PBY,3828,"Peppers, Bell, Green",50,$35.00,$38.85
+10/26/2021,LXF,3449,"Peppers, Poblano",30,$40.00,$44.40
+10/26/2021,YMF,3178,"Radish, Purple Daikon",29,$30.00,$33.30
+10/29/2021,SEE,3188,"Squash, Winter, Butternut, Organic",30,$18.00,$19.98
+11/02/2021,NTN,3754,Cabbage,15,$34.00,$37.74
+11/02/2021,WKH,3316,"Greens, Lettuce, Green Leaf",26,$36.00,$39.96
+11/02/2021,WKH,3300,"Greens, Lettuce, Salad Mix",26,$60.00,$66.60
+11/02/2021,LXF,3759,Onions,20,$40.00,$44.40
+11/02/2021,SGC,3188,"Squash, Winter, Butternut",25,$24.65,$27.36
+11/02/2021,SGC,3190,"Squash, Winter, Spaghetti",50,$24.65,$27.36
+11/05/2021,SEE,3105,"Cabbage, Green, Organic",30,$23.00,$25.53
+11/05/2021,POG,3544,"Squash, Winter, Acorn",85,$35.00,$38.85
+11/12/2021,SGC,3768,"Cranberries, organic",38,$25.00,$27.75
+11/12/2021,SEE,3141,"Onions, Red, Organic",9,$50.00,$55.50
+11/12/2021,SEE,3188,"Squash, Winter, Butternut, Organic",34,$24.00,$26.64
+11/16/2021,NTN,3754,Cabbage,30,$34.00,$37.74
+11/16/2021,D2D,3180,"Radish, Watermelon",13,$31.25,$34.69
+11/19/2021,OHF,3107,"Carrots, Foodservice/Jumbo, Organic",47,$24.90,$27.64
+11/19/2021,OHF,3107,"Carrots, Foodservice/Jumbo, Organic",7,$24.90,$27.64
+12/03/2021,OHF,3613,"Beets, Red, Organic",18,$23.75,$26.36
+12/03/2021,SEE,3105,"Cabbage, Green, Organic",450,$2.25,$2.50
