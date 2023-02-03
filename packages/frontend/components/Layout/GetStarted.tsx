@@ -1,23 +1,10 @@
-import { Button, Box } from "@chakra-ui/react";
-import {useState} from "react";
+import { Button } from "@chakra-ui/react";
 
 const GetStarted = () => {
-    const [hover, setHover] = useState(false);
-
-    const handleHover = () => {
-        setHover(true);
-    };
-
-    const handleLeave = () => {
-        setHover(false);
-    };
     return (
         <Button
-            onMouseEnter={handleHover}
-            onMouseLeave={handleLeave}
             colorScheme={"brand"}
             /*IMPORT GOTO SOMEWHERE*/
-
             style={{
                 position: "absolute",
                 width: "254.7px",
@@ -25,7 +12,7 @@ const GetStarted = () => {
                 left: "120px",
                 top: "544px",
                 background: "brand",
-                boxShadow: hover ? "2px 2px 0px #CEECEF" : "6px 8px 0px #CEECEF",
+                boxShadow: "6px 6px 0px #CEECEF",
                 borderRadius: "15px",
                 font: "Poppins",
                 fontStyle: "normal",
@@ -37,6 +24,12 @@ const GetStarted = () => {
                 letterSpacing: "0.04em",
                 color: "#FFFFFF",
             }}
+            _hover={{
+                boxShadow: "3px 3px 0px #CEECEF !important",
+                backgroundColor: "brand.600",
+                transform: "translate(3px, 4px)",
+            }}
+
         >
             Get Started</Button>
     )
