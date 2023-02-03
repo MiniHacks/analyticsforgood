@@ -13,7 +13,7 @@ const NavBar = (): JSX.Element => {
         <Box
             color={"black"}
             py={7}
-            bg={"white"}
+            bg={"transparent"}
             top={"0"}
             zIndex={"100"}
         >
@@ -24,31 +24,24 @@ const NavBar = (): JSX.Element => {
                 <HStack>
                     <Button
                         variant={"solid"}
+                        fontWeight={"200"}
                         fontFamily={"Poppins"}
                         fontSize={"18px"}
                         colorScheme={"white"}
                         color={"brand.600"}
                     >
-                        <a href={"#home"}>Home</a>
+                        LOGIN
                     </Button>
                     <Button
                         variant={"solid"}
-                        fontFamily={"Poppins"}
-                        fontSize={"18px"}
-                        colorScheme={"white"}
-                        color={"brand.600"}
-                    >
-                        Login
-                    </Button>
-                    <Button
-                        variant={"ghost"}
+                        fontWeight={"200"}
                         fontFamily={"Poppins"}
                         fontSize={"18px"}
                         borderRadius={"25px"}
-                        backgroundColor={""}
+                        colorScheme={"white"}
                         color={"brand.600"}
                     >
-                        Get Started
+                        GET STARTED
                     </Button>
                 </HStack>
             </HStack>
