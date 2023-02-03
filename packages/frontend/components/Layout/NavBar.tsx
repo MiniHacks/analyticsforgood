@@ -11,43 +11,42 @@ import {
 const NavBar = (): JSX.Element => {
     return (
         <Box
-            color={"#2C344C"}
+            color={"black"}
             py={7}
+            bg={"white"}
             top={"0"}
             zIndex={"100"}
-            fontFamily={"Poppins"}
         >
             <HStack px={"5%"} justifyContent={"space-between"}>
-                <Heading fontFamily={"Poppins"} fontSize={"45px"}>
+                <Heading fontFamily={"'Baloo 2', sans-serif"} fontSize={"45px"} color={"brand.600"}>
                     <a href={"#home"}>aly</a>
                 </Heading>
                 <HStack>
                     <Button
                         variant={"solid"}
-                        fontFamily={"Cabin"}
+                        fontFamily={"Poppins"}
                         fontSize={"18px"}
                         colorScheme={"white"}
-                        color={"#2C344C"}
+                        color={"brand.600"}
                     >
                         <a href={"#home"}>Home</a>
                     </Button>
                     <Button
                         variant={"solid"}
-                        fontFamily={"Cabin"}
+                        fontFamily={"Poppins"}
                         fontSize={"18px"}
                         colorScheme={"white"}
-                        color={"#2C344C"}
+                        color={"brand.600"}
                     >
                         Login
                     </Button>
                     <Button
                         variant={"ghost"}
-                        fontFamily={"Cabin"}
+                        fontFamily={"Poppins"}
                         fontSize={"18px"}
                         borderRadius={"25px"}
-                        backgroundColor={"#EECC6E"}
-                        color={"#2C344C"}
-                        colorScheme={"yellow"}
+                        backgroundColor={""}
+                        color={"brand.600"}
                     >
                         Get Started
                     </Button>
@@ -56,3 +55,5 @@ const NavBar = (): JSX.Element => {
         </Box>
     );
 };
+
+export default NavBar
