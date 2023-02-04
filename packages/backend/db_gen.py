@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, ForeignKey, VARCHAR, DateTime, create_engine, Boolean
+from sqlalchemy import Column, Integer, ForeignKey, VARCHAR, DateTime, create_engine, Boolean, Float
 from sqlalchemy.orm import relationship, Session, declarative_base
 from sqlalchemy.engine import URL
 import pandas as pd
@@ -13,15 +13,27 @@ class Producer(Base):
     code = Column(VARCHAR(3), unique=True)
     land_ownership = Column(Boolean, nullable=True, default=None)
     water_access = Column(Boolean, nullable=True, default=None)
+    OTIF = Column(Integer, default=0)
+    OT = Column(Integer, default=0)
+    FA = Column(Integer, default=0)
     orders = relationship('Order',backref="producer")
     dists = relationship('Planned',backref="producer")
+
+class Product(Base):
+    __tablename__ = "product"
+    id = Column(Integer,unique=True, primary_key=True, autoincrement=False)
+    OTIF = Column(Integer, default=0)
+    OT = Column(Integer, default=0)
+    FA = Column(Integer, default=0)
+    orders = relationship('Order',backref="product")
+    dists = relationship('Planned',backref="product")
 
 class Order(Base):
     # This is the predictions that were fulfilled by farmers
     __tablename__ = "order"
     id = Column(Integer, primary_key=True)
     date = Column(DateTime)
-    prod_id = Column(Integer)
+    prod_id = Column(Integer, ForeignKey('product.id',ondelete="CASCADE"))
     quantity = Column(Integer)
     cost = Column(Integer)
     price = Column(Integer)
@@ -32,7 +44,7 @@ class Planned(Base):
     __tablename__ = "planned"
     id = Column(Integer, primary_key=True)
     date = Column(DateTime)
-    prod_id = Column(Integer)
+    prod_id = Column(Integer, ForeignKey('product.id',ondelete="CASCADE"))
     cost = Column(Integer)
     quantity = Column(Integer)
     quantity_fulfilled = Column(Integer) # Added
@@ -41,22 +53,53 @@ class Planned(Base):
 
 def order_to_db(row):
     producer = session.query(Producer).filter(Producer.code == row["Producer Code"]).first()
+    product = session.query(Product).filter(Product.id == row["Product ID"]).first()
     if (producer == None):
         producer = Producer(code=row["Producer Code"],land_ownership=mapping.get("Owns Land").get(row["Producer Code"]), water_access=mapping.get("Access to Water").get(row["Producer Code"]))
         session.add(producer)
         session.flush()
-    order = Order(date=datetime.strptime(row["Distribution Date"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Unit Cost"],price=row["Unit Price"],producer_id=producer.id)
+    if (product == None):
+        product = Product(id=row["Product ID"])
+        session.add(product)
+        session.flush()
+    order = Order(date=datetime.strptime(row["Distribution Date"],"%m/%d/%Y"),prod_id=product.id,quantity=row["Quantity"],cost=row["Unit Cost"],price=row["Unit Price"],producer_id=producer.id)
     session.add(order)
     session.commit()
     print(f"Added Order {order.id}")
 
 def plan_to_db(row):
     producer = session.query(Producer).filter(Producer.code == row["Producer Code"]).first()
+    product = session.query(Product).filter(Product.id == row["Product ID"]).first()
     if (producer == None):
-        producer = Producer(code=row["Producer Code"],land_ownership=mapping.get("Owns Land").get(row["Producer Code"]), water_access=mapping.get("Access to Water").get(row["Producer Code"]))
-        session.add(producer)
-        session.flush()
-    plan = Planned(date=datetime.strptime(row["Delivery Week"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Cost"],quantity_fulfilled=row["Fulfilled"],producer_id=producer.id)
+        producer = Producer(
+            code=row["Producer Code"],
+            land_ownership=mapping.get("Owns Land").get(row["Producer Code"]), 
+            water_access=mapping.get("Access to Water").get(row["Producer Code"]),
+            OTIF = 1*(row["Quantity"] == row["Fulfilled"]),
+            OT = 1*(row["Fulfilled"] > 0),
+            FA = 1*(row["Quantity"] == row["Fulfilled"])
+        )
+    else:
+        producer.OTIF += 1*(row["Quantity"] == row["Fulfilled"])
+        producer.OT += 1*(row["Fulfilled"] > 0)
+        producer.FA += 1*(row["Quantity"] == row["Fulfilled"])
+    if (product == None):
+        product = Product(id=row["Product ID"],OTIF = 1*(row["Quantity"] == row["Fulfilled"]),OT = 1*(row["Fulfilled"] > 0),FA = 1*(row["Quantity"] == row["Fulfilled"]))
+    else:
+        product.OTIF += 1*(row["Quantity"] == row["Fulfilled"])
+        product.OT += 1*(row["Fulfilled"] > 0)
+        product.FA += 1*(row["Quantity"] == row["Fulfilled"])
+    session.add(product)
+    session.add(producer)
+    session.flush()
+    plan = Planned(
+        date=datetime.strptime(row["Delivery Week"],"%m/%d/%Y"),
+        prod_id=product.id,
+        quantity=row["Quantity"],
+        cost=row["Cost"],
+        quantity_fulfilled=row["Fulfilled"],
+        producer_id=producer.id
+    )
     session.add(plan)
     session.commit()
     print(f"Added Plan {plan.id}")
