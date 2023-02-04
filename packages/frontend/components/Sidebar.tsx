@@ -25,7 +25,8 @@ const Sidebar = (): JSX.Element => {
         border={"none !important"}
         boxShadow={"none !important"}
       >
-        <VStack alignItems={"start"}>
+        <VStack alignItems={"start"} justifyContent={"space-between"}
+        >
           <Button colorScheme={"brand"} variant={"ghost"}>
             <FaCarrot />
             &nbsp;Products
@@ -38,24 +39,27 @@ const Sidebar = (): JSX.Element => {
             <FaCalculator />
             &nbsp;Calculator
           </Button>
+            <VStack align={"left"}>
+                <Box py={405}>
+                    <Button
+                        variant={"ghost"}
+                        fontWeight={"700"}
+                        fontFamily={"Inter"}
+                        fontSize={"16xpx"}
+                        colorScheme={"brand"}
+                        color={"brand.600"}
+                        onClick={() => {
+                            signOut();
+                            window.location.href = "/";
+                        }}
+                    >
+                        <FiArrowUpLeft />
+                        &nbsp;Logout
+                    </Button>
+                </Box>
+            </VStack>
         </VStack>
-        <Box px={8} py={450}>
-          <Button
-            variant={"ghost"}
-            fontWeight={"700"}
-            fontFamily={"Inter"}
-            fontSize={"16xpx"}
-            colorScheme={"brand"}
-            color={"brand.600"}
-            onClick={() => {
-              signOut();
-              window.location.href = "/landingpage";
-            }}
-          >
-            <FiArrowUpLeft />
-            &nbsp;Logout
-          </Button>
-        </Box>
+
       </Card>
     </Box>
   );
