@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, ForeignKey, VARCHAR, DateTime, create_engine
+from sqlalchemy import Column, Integer, ForeignKey, VARCHAR, DateTime, create_engine, Boolean
 from sqlalchemy.orm import relationship, Session, declarative_base
 from sqlalchemy.engine import URL
 import pandas as pd
@@ -11,6 +11,8 @@ class Producer(Base):
     __tablename__ = "producer"
     id = Column(Integer, primary_key = True)
     code = Column(VARCHAR(3), unique=True)
+    land_ownership = Column(Boolean, nullable=True, default=None)
+    water_access = Column(Boolean, nullable=True, default=None)
     orders = relationship('Order',backref="producer")
     dists = relationship('Planned',backref="producer")
 
@@ -33,13 +35,14 @@ class Planned(Base):
     prod_id = Column(Integer)
     cost = Column(Integer)
     quantity = Column(Integer)
+    quantity_fulfilled = Column(Integer) # Added
     producer_id = Column(Integer, ForeignKey('producer.id',ondelete="CASCADE"))
     
 
 def order_to_db(row):
     producer = session.query(Producer).filter(Producer.code == row["Producer Code"]).first()
     if (producer == None):
-        producer = Producer(code=row["Producer Code"])
+        producer = Producer(code=row["Producer Code"],land_ownership=mapping.get("Owns Land").get(row["Producer Code"]), water_access=mapping.get("Access to Water").get(row["Producer Code"]))
         session.add(producer)
         session.flush()
     order = Order(date=datetime.strptime(row["Distribution Date"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Unit Cost"],price=row["Unit Price"],producer_id=producer.id)
@@ -50,10 +53,10 @@ def order_to_db(row):
 def plan_to_db(row):
     producer = session.query(Producer).filter(Producer.code == row["Producer Code"]).first()
     if (producer == None):
-        producer = Producer(code=row["Producer Code"])
+        producer = Producer(code=row["Producer Code"],land_ownership=mapping.get("Owns Land").get(row["Producer Code"]), water_access=mapping.get("Access to Water").get(row["Producer Code"]))
         session.add(producer)
         session.flush()
-    plan = Planned(date=datetime.strptime(row["Delivery Week"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Cost"],producer_id=producer.id)
+    plan = Planned(date=datetime.strptime(row["Delivery Week"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Cost"],quantity_fulfilled=row["Fulfilled"],producer_id=producer.id)
     session.add(plan)
     session.commit()
     print(f"Added Plan {plan.id}")
@@ -68,6 +71,10 @@ with open("config.json","r") as f:
         port="25060",
         database=data.get("database")
     )
+
+mapping = {'Owns Land': {'AGF': True, 'AFC': True, 'BXF': True, 'CAL': True, 'CBO': False, 'CBS': True, 'CMA': False, 'CTH': False, 'CMU': False, 'CHO': True, 'CLP': True, 'D2D': True, 'DTF': True, 'HAF': True, 'YMF': False, 'HOP': False, 'ONC': False, 'JWI': False, 'KAL': False, 'KHF': False, 'LDX': False, 'LVO': True, 'LFF': False, 
+'UNK': False, 'MFP': False, 'MMO': False, 'MHA': False, 'MHG': True, 'NTN': False, 'MLG': False, 'PZM': False, 'PBY': False, 'PLT': False, 'RSV': False, 'SRF': False, 'SEE': True, 'KSL': False, 'SXF': False, 'LOF': False, 'TEB': True, 'TXI': False, 'CVP': False}, 'Access to Water': {'AGF': True, 'AFC': True, 'BXF': False, 'CAL': True, 'CBO': False, 'CBS': True, 'CMA': False, 'CTH': False, 'CMU': False, 'CHO': False, 'CLP': False, 'D2D': True, 'DTF': False, 'HAF': False, 'YMF': True, 'HOP': True, 'ONC': False, 'JWI': False, 'KAL': False, 'KHF': False, 'LDX': True, 'LVO': True, 'LFF': True, 'UNK': False, 'MFP': False, 'MMO': False, 'MHA': False, 
+'MHG': True, 'NTN': False, 'MLG': False, 'PZM': True, 'PBY': False, 'PLT': False, 'RSV': False, 'SRF': True, 'SEE': True, 'KSL': False, 'SXF': False, 'LOF': False, 'TEB': False, 'TXI': False, 'CVP': False}}
 engine = create_engine(url)
 Base.metadata.create_all(engine)
 session = Session(engine)
@@ -76,7 +83,8 @@ if __name__ == "__main__":
     Base.metadata.create_all(engine)
     print("Wiped Date, Regenning")
     orders = ["clean/FY21 LFM Order Items.csv","clean/FY22_LFM_Order_Items_Updated.csv"]
-    plannings = ["clean/FY21 Planning Items.csv","clean/FY22_Planning_Items_Updated.csv"]
+    plannings = ["analysis/FY21 Planning Items.csv","analysis/FY22_Planning_Items_Updated.csv"]
+    ProducerInfo = pd.read_csv("clean/Land_Water Access.csv")
     for order in orders:
         df = pd.read_csv(order)
         df.apply(order_to_db,axis=1)
