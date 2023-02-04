@@ -1,6 +1,8 @@
 import React from "react";
 import { Box, Button, VStack } from "@chakra-ui/react";
 import { useSession, signOut } from "next-auth/react";
+import { FaCarrot, FaTractor, FaCalculator } from "react-icons/fa";
+import { FiArrowUpLeft } from "react-icons/fi";
 import Card from "./Card";
 import Logo from "./Logo";
 
@@ -25,13 +27,16 @@ const Sidebar = (): JSX.Element => {
       >
         <VStack alignItems={"start"}>
           <Button colorScheme={"brand"} variant={"ghost"}>
-            Products
+            <FaCarrot />
+            &nbsp;Products
           </Button>
           <Button colorScheme={"brand"} variant={"ghost"}>
-            Producers
+            <FaTractor />
+            &nbsp;Producers
           </Button>
           <Button colorScheme={"brand"} variant={"ghost"}>
-            Calculator
+            <FaCalculator />
+            &nbsp;Calculator
           </Button>
         </VStack>
         <Box px={8} py={450}>
@@ -47,7 +52,8 @@ const Sidebar = (): JSX.Element => {
               window.location.href = "/landingpage";
             }}
           >
-            Logout
+            <FiArrowUpLeft />
+            &nbsp;Logout
           </Button>
         </Box>
       </Card>
