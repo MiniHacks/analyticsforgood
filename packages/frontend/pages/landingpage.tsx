@@ -4,6 +4,9 @@ import { HStack, VStack, Box, chakra, Heading, Image } from "@chakra-ui/react";
 import PageLayout from "../components/Layout/PageLayout";
 import GetStarted from "../components/Layout/GetStarted";
 import ExampleBox from "../components/Layout/ExampleBox";
+import PageLayoutComponents from "../components/PageLayoutComponents";
+import PL2 from "../components/PL2";
+import Credits from "../components/CreditBox";
 import { useSession, signIn, signOut } from "next-auth/react";
 
 const Home: NextPage = () => {
@@ -142,6 +145,9 @@ const Home: NextPage = () => {
           </Box>
         </VStack>
       </Box>
+        <PageLayoutComponents />
+        <PL2 />
+        <Credits />
     </PageLayout>
   );
 };
