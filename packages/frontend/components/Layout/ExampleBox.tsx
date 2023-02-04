@@ -3,22 +3,20 @@ import { Box, Image } from "@chakra-ui/react";
 const ExampleBox = (): JSX.Element => (
     <Box
         style={{
+            background: "#C8EDCE",
             position: "absolute",
-            background: "white",
             top:"200px",
             left:"775px",
-            width: "519px",
-            height: "325px",
-            borderColor: "brand.600",
-            border: "5px solid #58C85C",
+            width: "600px",
             boxShadow: "6px 6px 0px #CEECEF",
             borderRadius: "15px",
-            transform: "rotate(8.72deg)",
+            transform: "rotate(6deg)",
+            zIndex: "1"
         }}
     >
-            {/*<Image>*/}
-            {/*    <source srcSet="https://i.imgur.com/4ZQZ1Zu.png" />*/}
-            {/*</Image>*/}
+        <Image borderRadius={"15px"} border={"5px solid #58C85C"}
+        src={"https://i.imgur.com/WsaJi7R.png"}>
+        </Image>
     </Box>
 )
 
