@@ -23,7 +23,7 @@ async function main(productId: number) {
     },
   });
 
-  return { orders: allOrders, plans: allPlans };
+  return { orders: allOrders.reverse(), plans: allPlans.reverse() };
 }
 
 export default async function handler(

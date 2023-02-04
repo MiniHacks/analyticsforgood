@@ -12,6 +12,8 @@ import {
   TabPanel,
   TabPanels,
   Tabs,
+  Tag,
+  Text,
   VStack,
 } from "@chakra-ui/react";
 
@@ -23,6 +25,10 @@ import Sidebar from "../../components/Sidebar";
 import ShadowCard from "../../components/ShadowCard";
 import TabularDisplay from "../../components/TabularDisplay";
 import TabularDisplayPlans from "../../components/TabularDisplayPlans";
+import { CROP_MAPPING } from "../../util/lib";
+import { useSearch } from "../../components/Search/useSearch";
+import SearchBar from "../../components/Search/SearchBar";
+import SearchResults from "../../components/Search/SearchResults";
 
 type ProductDisplayType = {
   pid: number;
@@ -34,6 +40,7 @@ const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
 
   useEffect(() => {
     setLoading(true);
+    if (!pid) return;
     fetch(`/api/products?pid=${pid}`)
       .then((res) => res.json())
       .then((d) => {
@@ -42,10 +49,16 @@ const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
       });
   }, [pid]);
 
+  const crop = CROP_MAPPING[pid];
+  const cropName = crop?.split(",").reverse().join(" ");
+  // @ts-ignore
   return (
-    <VStack ml={"200px"} mt={12} px={8} alignItems={"start"} width={"100%"}>
+    <VStack ml={"200px"} mt={24} px={8} alignItems={"start"} width={"100%"}>
       <HStack justifyContent={"space-between"} width={"100%"}>
-        <Heading fontSize={48}>Carrots</Heading>
+        <VStack alignItems={"start"} spacing={2} pb={4}>
+          <Heading fontSize={48}>{cropName}</Heading>
+          <Tag colorScheme={"teal"}>Product #{pid}</Tag>
+        </VStack>
         <Menu>
           <MenuButton
             as={Button}
@@ -73,25 +86,19 @@ const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
 
           <TabPanels>
             <TabPanel>
-              <TabularDisplayPlans
-                data={data?.plans}
-                loading={loading}
-                caption={"Planned carrots"}
-              />
+              {(data?.plans as string)?.length === 0 && (
+                <Text size={"md"}>No plans found</Text>
+              )}
+              {(data?.plans as string)?.length > 0 && (
+                <TabularDisplayPlans data={data?.plans} loading={loading} />
+              )}
             </TabPanel>
             <TabPanel>
-              <TabularDisplay
-                data={data?.orders}
-                loading={loading}
-                caption={"Orders of carrots"}
-              />
+              <TabularDisplay data={data?.orders} loading={loading} />
             </TabPanel>
           </TabPanels>
         </Tabs>
       </ShadowCard>
-      <HStack alignItems={"start"} pb={10}>
-        <ShadowCard p={6} pt={0} />
-      </HStack>
     </VStack>
   );
 };
@@ -100,6 +107,15 @@ const Dash = (): JSX.Element => {
   const router = useRouter();
   const { productId } = router.query;
   const pid = parseInt(productId as string, 10);
+  const {
+    search,
+    searchResults,
+    pageShown: [rawShowPage, setShowPage],
+    handleChange,
+  } = useSearch();
+
+  const showPage = rawShowPage || !search;
+
   return (
     <Box
       minHeight={"100vh"}
@@ -110,6 +126,24 @@ const Dash = (): JSX.Element => {
     >
       <Sidebar />
       <ProductDisplay pid={pid} />
+      <Box
+        position={"fixed"}
+        left={254}
+        top={0}
+        width={"calc(100vw - 254px)"}
+        backgroundColor={"brand.100"}
+      >
+        <Box pr={258} pt={8} width={"100%"}>
+          <SearchBar onChange={handleChange} />
+        </Box>
+        <Box backgroundColor={"brand.100"} width={"100%"}>
+          <SearchResults
+            search={search}
+            searchResults={searchResults}
+            pageShown={[showPage, setShowPage]}
+          />
+        </Box>
+      </Box>
     </Box>
   );
 };

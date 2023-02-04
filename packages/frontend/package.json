@@ -16,6 +16,7 @@
     "@prisma/client": "^4.9.0",
     "date-fns": "^2.29.3",
     "framer-motion": "^6",
+    "lodash": "^4.17.21",
     "next": "12.3.0",
     "next-auth": "^4.19.2",
     "react": "18.2.0",

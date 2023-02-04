@@ -21,7 +21,11 @@ export default extendTheme({
   },
   components: {
     Heading: {
-      baseStyle: {},
+      baseStyle: {
+        lineHeight: "1.2",
+        // paddingBottom: 0,
+        // marginBottom: -2,
+      },
     },
     Td: {
       baseStyle: {

@@ -22,8 +22,6 @@ type TabularDisplayProps = {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   data: any;
   loading: boolean;
-  caption: string;
-  showPrice?: boolean;
 };
 
 type FilledOrder = Order & {
@@ -42,20 +40,16 @@ const TableDataCell = ({ children, ...props }: TableCellProps) => (
 const TabularDisplay = ({
   data,
   loading,
-  showPrice = true,
-  caption,
 }: TabularDisplayProps): JSX.Element => {
   if (loading) return <Spinner />;
 
   const headingRow = (
     <Tr>
-      {HEADINGS.filter((_, index) => index !== 4 || showPrice).map(
-        (heading, index) => (
-          <Th key={heading} isNumeric={NUMERIC_COLUMNS.includes(index)}>
-            {heading}
-          </Th>
-        )
-      )}
+      {HEADINGS.map((heading, index) => (
+        <Th key={heading} isNumeric={NUMERIC_COLUMNS.includes(index)}>
+          {heading}
+        </Th>
+      ))}
     </Tr>
   );
 
@@ -83,9 +77,7 @@ const TabularDisplay = ({
         </TableDataCell>
         <TableDataCell isNumeric>{order.quantity}</TableDataCell>
         <TableDataCell isNumeric>{money(order.cost)}</TableDataCell>
-        {showPrice && (
-          <TableDataCell isNumeric>{money(order.price)}</TableDataCell>
-        )}
+        <TableDataCell isNumeric>{money(order.price)}</TableDataCell>
         <TableDataCell display={"flex"} justifyContent={"space-between"}>
           {order.producer.code} <ExternalLinkIcon color={"brand.500"} />
         </TableDataCell>

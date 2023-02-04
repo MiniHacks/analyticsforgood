@@ -5,7 +5,7 @@ import Logo from "./Logo";
 
 const Sidebar = (): JSX.Element => {
   return (
-    <Box py={4} position={"absolute"} top={0} left={0}>
+    <Box py={4} position={"fixed"} top={0} left={0}>
       <Box px={12} pb={2}>
         <Logo />
       </Box>

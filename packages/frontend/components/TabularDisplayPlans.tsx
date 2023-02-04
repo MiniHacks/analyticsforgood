@@ -1,7 +1,6 @@
 import {
   Spinner,
   Table,
-  TableCaption,
   TableCellProps,
   TableContainer,
   Tag,
@@ -16,21 +15,20 @@ import React from "react";
 import { planned as Planned, producer as Producer } from "@prisma/client";
 import { ExternalLinkIcon } from "@chakra-ui/icons";
 import { format } from "date-fns";
+import { useRouter } from "next/router";
 import { money } from "../util/lib";
 
 type TabularDisplayProps = {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   data: any;
   loading: boolean;
-  caption: string;
-  showPrice?: boolean;
 };
 
 type FilledPlan = Planned & {
   producer: Producer;
 };
 
-const HEADINGS = ["ID", "Date", "QTY", "QTY On Time", "Price", "Producer"];
+const HEADINGS = ["ID", "Date", "QTY", "Delivered", "Price", "Producer"];
 
 const NUMERIC_COLUMNS = [3, 4, 5];
 
@@ -42,9 +40,8 @@ const TableDataCell = ({ children, ...props }: TableCellProps) => (
 const TabularDisplayPlans = ({
   data,
   loading,
-  showPrice = true,
-  caption,
 }: TabularDisplayProps): JSX.Element => {
+  const router = useRouter();
   if (loading) return <Spinner />;
 
   const headingRow = (
@@ -70,6 +67,7 @@ const TabularDisplayPlans = ({
           backgroundColor: "brand.100",
           cursor: "pointer",
         }}
+        onClick={() => router.push(`/farm/${plan.producer.code}`)}
       >
         <TableDataCell color={"gray.400"}>{plan.id}</TableDataCell>
         <TableDataCell>
