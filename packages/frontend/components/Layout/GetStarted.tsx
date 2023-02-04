@@ -5,11 +5,9 @@ const GetStarted = () => {
         <Button
             colorScheme={"brand"}
             style={{
-                position: "absolute",
+                marginTop: "50px",
                 width: "254.7px",
                 height: "81px",
-                left: "120px",
-                top: "544px",
                 background: "brand",
                 boxShadow: "6px 6px 0px #CEECEF",
                 borderRadius: "15px",
