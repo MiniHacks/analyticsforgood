@@ -1,6 +1,9 @@
 import { Button, Link } from "@chakra-ui/react";
+import { useRouter } from "next/router";
+import { signIn } from "next-auth/react";
 
 const GetStarted = () => {
+  const router = useRouter();
   return (
     <Button
       colorScheme={"brand"}
@@ -21,13 +24,14 @@ const GetStarted = () => {
         letterSpacing: "0.04em",
         color: "#FFFFFF",
       }}
+      onClick={() => signIn("google", { callbackUrl: "/farm" })}
       _hover={{
         boxShadow: "3px 3px 0px #CEECEF !important",
         backgroundColor: "brand.600",
         transform: "translate(3px, 4px)",
       }}
     >
-      <Link href={"/dash"}>Get Started</Link>
+      Get Started
     </Button>
   );
 };

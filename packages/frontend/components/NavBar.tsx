@@ -11,7 +11,7 @@ const NavBar = (): JSX.Element => {
   console.log(status);
 
   async function handleGoogleSignIn() {
-    signIn("google", { callbackUrl: "/dash" });
+    signIn("google", { callbackUrl: "/farm" });
   }
   return (
     <Box color={"black"} py={7} bg={"transparent"} top={"0"} zIndex={"100"}>
@@ -56,6 +56,7 @@ const NavBar = (): JSX.Element => {
             _hover={{
               transform: "translate(3px, 4px)",
             }}
+            onClick={handleGoogleSignIn}
           >
             Get Started
           </Button>

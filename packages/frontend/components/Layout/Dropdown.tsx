@@ -1,12 +1,14 @@
 import React, { useState } from "react";
 import {
-  Box,
   Button,
   Checkbox,
   Heading,
+  Collapse,
   HStack,
+  Text,
   Input,
   VStack,
+  chakra,
 } from "@chakra-ui/react";
 import Select from "react-select";
 import ShadowCard from "../ShadowCard";
@@ -151,7 +153,7 @@ const farmMapping = [
 
 const Dropdown = () => {
   const [selectedCrops, setSelectedCrops] = useState([]);
-  const [selectedFarms, setSelectedFarms] = useState([]);
+  const [selectedFarms, setSelectedFarms] = useState("");
 
   const [precip, setPrecip] = useState(0);
   const [sunlight, setSunlight] = useState(0);
@@ -160,69 +162,112 @@ const Dropdown = () => {
   const [land, setLand] = useState(false);
   const [water, setWater] = useState(true);
 
+  const [results, setResults] = useState(-1);
+
   const handleSubmit = () => {
-    console.log({
+    const data = {
       selectedCrops: selectedCrops.map((c) => c.value),
-      selectedFarms: selectedFarms.map((f) => f.value),
+      selectedFarm: selectedFarms,
       precip,
       sunlight,
       snow,
       land,
       water,
-    });
+    };
+
+    fetch(
+      `https://aly.so/py/?prod_code=${data.selectedFarm.value}&prod_id=${
+        data.selectedCrops[0]
+      }&water=${data.water ? 1 : -1}&land=${
+        data.land ? 1 : -1
+      }&quantity=20&cost=3400`
+    )
+      .then((r) => r.json())
+      .then((r) => {
+        setResults(r.prediction / 20);
+      });
   };
 
+  const perc = results.toFixed(4);
+
   return (
-    <ShadowCard py={8}>
-      <VStack spacing={3} width={"400px"} alignItems={"stretch"} mx={8}>
-        <Heading mb={4}>Predict a future:</Heading>
-        <Input
-          placeholder={"Weather: Precipitation (in)"}
-          value={precip || ""}
-          onChange={(e) => setPrecip(e.target.value)}
-        />
-        <Input
-          placeholder={"Weather: Sunlight (minutes)"}
-          value={sunlight || ""}
-          onChange={(e) => setSunlight(e.target.value)}
-        />
-        <Input
-          placeholder={"Weather: Snow (in)"}
-          value={snow || ""}
-          onChange={(e) => setSnow(e.target.value)}
-        />
-        <Select
-          defaultValue={[]}
-          onChange={setSelectedCrops}
-          value={selectedCrops}
-          isMulti
-          name={"crops"}
-          options={cropMapping}
-          className={"basic-multi-select"}
-          classNamePrefix={"select"}
-          placeholder={"Choose your crops"}
-        />
-        <Select
-          defaultValue={""}
-          onChange={setSelectedFarms}
-          value={selectedFarms}
-          name={"farms"}
-          options={farmMapping}
-          className={"basic-multi-select"}
-          classNamePrefix={"select"}
-          placeholder={"Choose your farm"}
-        />
-        <HStack spacing={8}>
-          <Checkbox colorScheme={"brand"}>Owns Land</Checkbox>
-          <Checkbox colorScheme={"brand"} defaultChecked>
-            Access to Irrigation
-          </Checkbox>
-        </HStack>
-        <Button colorScheme={"brand"} onClick={handleSubmit}>
-          Submit
-        </Button>
-      </VStack>
-    </ShadowCard>
+    <HStack>
+      <ShadowCard py={8}>
+        <VStack spacing={3} width={"700px"} alignItems={"stretch"} mx={8}>
+          <Heading mb={4}>Predict a future:</Heading>
+          <Text>
+            Weather data is optional! Leaving those fields blank will use
+            2022&apos;s data.
+          </Text>
+          <Input
+            placeholder={"Weather: Precipitation (in)"}
+            value={precip || ""}
+            onChange={(e) => setPrecip(e.target.value)}
+          />
+          <Input
+            placeholder={"Weather: Sunlight (minutes)"}
+            value={sunlight || ""}
+            onChange={(e) => setSunlight(e.target.value)}
+          />
+          <Input
+            placeholder={"Weather: Snow (in)"}
+            value={snow || ""}
+            onChange={(e) => setSnow(e.target.value)}
+          />
+          <Select
+            defaultValue={[]}
+            onChange={setSelectedCrops}
+            value={selectedCrops}
+            isMulti
+            name={"crops"}
+            options={cropMapping}
+            className={"basic-multi-select"}
+            classNamePrefix={"select"}
+            placeholder={"Choose your crops"}
+          />
+          <Select
+            defaultValue={""}
+            onChange={setSelectedFarms}
+            value={selectedFarms}
+            name={"farms"}
+            options={farmMapping}
+            className={"basic-multi-select"}
+            classNamePrefix={"select"}
+            placeholder={"Choose your farm"}
+          />
+          <HStack spacing={8}>
+            <Checkbox colorScheme={"brand"}>Owns Land</Checkbox>
+            <Checkbox colorScheme={"brand"} defaultChecked>
+              Access to Irrigation
+            </Checkbox>
+          </HStack>
+          <Collapse in={results < 0}>
+            <Button colorScheme={"brand"} onClick={handleSubmit}>
+              Submit
+            </Button>
+          </Collapse>
+          <Collapse in={results >= 0}>
+            <VStack spacing={0} alignItems={"center"}>
+              <Heading fontSize={"72px"} color={"brand.700"}>
+                {(perc * 100).toFixed(2)}
+                <chakra.span fontSize={"36px"}>%</chakra.span>
+              </Heading>
+              <Text
+                color={"brand.600"}
+                style={{
+                  textTransform: "uppercase",
+                  fontWeight: 500,
+                  fontSize: "18px",
+                  letterSpacing: "-0.4px",
+                }}
+              >
+                On Time &amp; In Full
+              </Text>
+            </VStack>
+          </Collapse>
+        </VStack>
+      </ShadowCard>
+    </HStack>
   );
 };
 

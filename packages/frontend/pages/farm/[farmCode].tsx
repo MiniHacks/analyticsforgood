@@ -62,6 +62,7 @@ ChartJS.register(
 
 export const options = {
   responsive: true,
+  spanGaps: true,
   elements: {
     line: {
       tension: 0.2,
@@ -160,17 +161,21 @@ const ProductDisplay = ({ farmCode }: ProductDisplayType): JSX.Element => {
 
   useEffect(() => {
     if (!data?.orders) return;
-    const orderVals = new Array(dates.length).fill(0);
+    let orderVals = new Array(dates.length).fill(0);
     data.orders?.forEach((o: FilledOrder) => {
       const idx = dates.indexOf(new Date(o.date).toLocaleDateString());
       orderVals[idx] += o.quantity;
     });
 
-    const planVals = new Array(dates.length).fill(0);
+    orderVals = orderVals.map((o) => (o === 0 ? null : o));
+
+    let planVals = new Array(dates.length).fill(0);
     data.plans?.forEach((p: FilledPlan) => {
       const idx = dates.indexOf(new Date(p.date).toLocaleDateString());
       planVals[idx] += p.quantity;
     });
+
+    planVals = planVals.map((o) => (o <= 0 ? null : o));
 
     const fulfilledVals = new Array(dates.length).fill(0);
     data.plans?.forEach((p: FilledPlan) => {
@@ -201,6 +206,7 @@ const ProductDisplay = ({ farmCode }: ProductDisplayType): JSX.Element => {
 
   return (
     <VStack ml={"200px"} mt={24} px={8} alignItems={"start"} width={"100%"}>
+      <title>aly.so - farms</title>
       <HStack justifyContent={"space-between"} width={"100%"}>
         <VStack alignItems={"start"} spacing={2} pb={4}>
           <Heading fontSize={48}>{nato(farmCode)}</Heading>
@@ -234,11 +240,8 @@ const ProductDisplay = ({ farmCode }: ProductDisplayType): JSX.Element => {
             Actions
           </MenuButton>
           <MenuList>
-            <MenuItem>Download</MenuItem>
-            <MenuItem>Create a Copy</MenuItem>
-            <MenuItem>Mark as Draft</MenuItem>
-            <MenuItem>Delete</MenuItem>
-            <MenuItem>Attend a Workshop</MenuItem>
+            <MenuItem>Download as Excel</MenuItem>
+            <MenuItem>Upload CSV</MenuItem>
           </MenuList>
         </Menu>
       </HStack>
