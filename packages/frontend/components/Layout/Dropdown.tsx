@@ -1,6 +1,7 @@
 import React from 'react';
 import {Box, Button} from "@chakra-ui/react";
 import Select from 'react-select';
+import { useState } from 'react';
 
 const cropMapping =
     ([
@@ -84,6 +85,7 @@ const cropMapping =
 ]);
 
 const farmMapping = ([
+    { value: "None", label: "None"},
     { value: "POG", label: "POG"},
     { value: "STF", label: "STF"},
     { value: "WKH", label: "WKH"},
@@ -140,21 +142,43 @@ const farmMapping = ([
     { value: "KAL", label: "KAL"},
 ]);
 
-export default () => (
-    <Select
-        defaultValue={[cropMapping[0], cropMapping[1]]}
-        isMulti
-        name="crops"
-        options={cropMapping}
-        className="basic-multi-select"
-        classNamePrefix="select"
-    />
-    // <Select
-    //     defaultValue={[farmMapping[0], farmMapping[1]]}
-    //     isMulti
-    //     name="farms"
-    //     options={farmMapping}
-    //     className="basic-multi-select"
-    //     classNamePrefix="select"
-    // />
-);
+const Dropdown = () => {
+    const [selectedCrops, setSelectedCrops] = useState([]);
+    const [selectedFarms, setSelectedFarms] = useState([]);
+
+    const handleSubmit = () => {
+        console.log(selectedCrops);
+        console.log(selectedFarms);
+    };
+
+    return (
+    <Box>
+        <Select
+            defaultValue={[]}
+            onChange={setSelectedCrops}
+            value={selectedCrops}
+            isMulti
+            name="crops"
+            options={cropMapping}
+            className="basic-multi-select"
+            classNamePrefix="select"
+            placeholder={"Choose your crops"}
+        >
+        </Select>
+        <Select
+            defaultValue={[]}
+            onChange={setSelectedFarms}
+            value={selectedFarms}
+            name="farms"
+            options={farmMapping}
+            className="basic-multi-select"
+            classNamePrefix="select"
+            placeholder={"Choose your farm"}
+        >
+        </Select>
+        <Button onClick={handleSubmit}>Submit</Button>
+    </Box>
+    );
+};
+
+export default Dropdown;
