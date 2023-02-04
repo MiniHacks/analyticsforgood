@@ -2291,6 +2291,18 @@ __metadata:
   languageName: node
   linkType: hard
 
+"acronym@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "acronym@npm:1.0.0"
+  dependencies:
+    lodash.capitalize: ^4.1.1
+    lodash.defaults: ^4.0.1
+    lodash.lowercase: ^4.1.0
+    more-words: ^1.0.2
+  checksum: 4726960a9a939bb3a385fce7ff6a435d713f50805ac62f4bd1a2eeaae8c70788f64a3e9a548b22741388cb48e2a1223a691588db72a5dce24dd48fe6046572e0
+  languageName: node
+  linkType: hard
+
 "agent-base@npm:6, agent-base@npm:^6.0.2":
   version: 6.0.2
   resolution: "agent-base@npm:6.0.2"
@@ -4043,6 +4055,7 @@ __metadata:
     "@types/react-dom": 18.0.6
     "@typescript-eslint/eslint-plugin": ^5.37.0
     "@typescript-eslint/parser": ^5.37.0
+    acronym: ^1.0.0
     chart.js: ^4.2.0
     cross-env: ^7.0.3
     date-fns: ^2.29.3
@@ -4851,6 +4864,27 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lodash.capitalize@npm:^4.1.1":
+  version: 4.2.1
+  resolution: "lodash.capitalize@npm:4.2.1"
+  checksum: d9195f31d48c105206f1099946d8bbc8ab71435bc1c8708296992a31a992bb901baf120fdcadd773098ac96e62a79e6b023ee7d26a2deb0d6c6aada930e6ad0a
+  languageName: node
+  linkType: hard
+
+"lodash.defaults@npm:^4.0.1":
+  version: 4.2.0
+  resolution: "lodash.defaults@npm:4.2.0"
+  checksum: 84923258235592c8886e29de5491946ff8c2ae5c82a7ac5cddd2e3cb697e6fbdfbbb6efcca015795c86eec2bb953a5a2ee4016e3735a3f02720428a40efbb8f1
+  languageName: node
+  linkType: hard
+
+"lodash.lowercase@npm:^4.1.0":
+  version: 4.3.0
+  resolution: "lodash.lowercase@npm:4.3.0"
+  checksum: 463d7e50db29aea736563352f05adcff1f7c60574fe201f47ad98d2834f3dc64bee84a31702e1661d0f94913e89a46ded04befd425bbd3b95d23697689118f98
+  languageName: node
+  linkType: hard
+
 "lodash.merge@npm:^4.6.2":
   version: 4.6.2
   resolution: "lodash.merge@npm:4.6.2"
@@ -5094,6 +5128,13 @@ __metadata:
   bin:
     mkdirp: bin/cmd.js
   checksum: a96865108c6c3b1b8e1d5e9f11843de1e077e57737602de1b82030815f311be11f96f09cce59bd5b903d0b29834733e5313f9301e3ed6d6f6fba2eae0df4298f
+  languageName: node
+  linkType: hard
+
+"more-words@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "more-words@npm:1.0.2"
+  checksum: 1d2c127688b6ed321fdd4f1e372602d3c8007e6fee6a1b2159262293dd27828e8a52e9e594b9113344987291bce0983d2981ee9fd24de225b24661fc5296c9cb
   languageName: node
   linkType: hard
 

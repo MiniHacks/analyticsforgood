@@ -11,17 +11,19 @@ datasource db {
 }
 
 model producer {
-  id     Int       @id @default(autoincrement())
-  code   String    @unique
-  OTIF   Int
-  OT     Int
-  FA     Int
-  orders order[]
-  dists  planned[]
+  id             Int       @id @default(autoincrement())
+  code           String    @unique
+  OTIF           Int
+  OT             Int
+  FA             Int
+  land_ownership Boolean?
+  water_access   Boolean?
+  orders         order[]
+  dists          planned[]
 }
 
 model product {
-  id     Int       @id 
+  id     Int       @id
   OTIF   Int
   OT     Int
   FA     Int
@@ -38,19 +40,17 @@ model order {
   price       Int
   producer    producer @relation(fields: [producer_id], references: [id])
   producer_id Int
-  product     product @relation(fields: [product_id], references: [id])
-  product_id  Int
+  product     product  @relation(fields: [prod_id], references: [id])
 }
 
 model planned {
-  id          Int      @id @default(autoincrement())
-  date        DateTime
-  prod_id     Int
-  cost        Int
-  quantity    Int
+  id                 Int      @id @default(autoincrement())
+  date               DateTime
+  prod_id            Int
+  cost               Int
+  quantity           Int
   quantity_fulfilled Int
-  producer    producer @relation(fields: [producer_id], references: [id])
-  producer_id Int
-  product     product @relation(fields: [product_id], references: [id])
-  product_id  Int
+  producer           producer @relation(fields: [producer_id], references: [id])
+  producer_id        Int
+  product            product  @relation(fields: [prod_id], references: [id])
 }

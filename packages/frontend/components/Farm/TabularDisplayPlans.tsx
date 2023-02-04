@@ -1,7 +1,7 @@
 import {
+  Badge,
   Spinner,
   Table,
-  TableCaption,
   TableCellProps,
   TableContainer,
   Tag,
@@ -13,11 +13,11 @@ import {
   Tr,
 } from "@chakra-ui/react";
 import React from "react";
-import { order as Order, producer as Producer } from "@prisma/client";
+import { planned as Planned, producer as Producer } from "@prisma/client";
 import { ExternalLinkIcon } from "@chakra-ui/icons";
-import { format, formatDistance, formatRelative, subDays } from "date-fns";
+import { format } from "date-fns";
 import { useRouter } from "next/router";
-import { money } from "../util/lib";
+import { CROP_MAPPING, money } from "../../util/lib";
 
 type TabularDisplayProps = {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -25,11 +25,11 @@ type TabularDisplayProps = {
   loading: boolean;
 };
 
-export type FilledOrder = Order & {
+export type FilledPlan = Planned & {
   producer: Producer;
 };
 
-const HEADINGS = ["ID", "Date", "QTY", "Cost", "Price", "Producer"];
+const HEADINGS = ["ID", "Date", "QTY", "Delivered", "Price", "Product"];
 
 const NUMERIC_COLUMNS = [3, 4, 5];
 
@@ -38,12 +38,11 @@ const TableDataCell = ({ children, ...props }: TableCellProps) => (
     {children}
   </Td>
 );
-const TabularDisplay = ({
+const TabularDisplayPlans = ({
   data,
   loading,
 }: TabularDisplayProps): JSX.Element => {
   const router = useRouter();
-
   if (loading) return <Spinner />;
 
   const headingRow = (
@@ -57,10 +56,11 @@ const TabularDisplay = ({
   );
 
   // the type of row is the prisma order schema:
-  const rows = data.map((order: FilledOrder) => {
-    const year = format(new Date(order.date), "yyyy");
+  const rows = data.map((plan: FilledPlan) => {
+    const year = format(new Date(plan.date), "yyyy");
     const color = parseInt(year, 10) % 2 ? "blue" : "purple";
 
+    const filled = Math.min(plan.quantity_fulfilled, plan.quantity);
     return (
       <Tr
         fontSize={"sm"}
@@ -68,22 +68,25 @@ const TabularDisplay = ({
           backgroundColor: "brand.100",
           cursor: "pointer",
         }}
-        onClick={() => router.push(`/farm/${order.producer.code}`)}
+        onClick={() => router.push(`/prod/${plan.prod_id}`)}
       >
-        <TableDataCell color={"gray.400"}>{order.id}</TableDataCell>
+        <TableDataCell color={"gray.400"}>{plan.id}</TableDataCell>
         <TableDataCell>
           <Tag size={"sm"} colorScheme={color}>
             {year}
           </Tag>
           <Tag size={"sm"} colorScheme={"white"}>
-            {format(new Date(order.date), "MM/dd")}
+            {format(new Date(plan.date), "MM/dd")}
           </Tag>
         </TableDataCell>
-        <TableDataCell isNumeric>{order.quantity}</TableDataCell>
-        <TableDataCell isNumeric>{money(order.cost)}</TableDataCell>
-        <TableDataCell isNumeric>{money(order.price)}</TableDataCell>
+        <TableDataCell isNumeric>{plan.quantity}</TableDataCell>
+        <TableDataCell isNumeric>{filled}</TableDataCell>
+        <TableDataCell isNumeric>{money(plan.cost)}</TableDataCell>
         <TableDataCell display={"flex"} justifyContent={"space-between"}>
-          {order.producer.code} <ExternalLinkIcon color={"brand.500"} />
+          <span>
+            <Badge>{plan.prod_id}</Badge> {CROP_MAPPING[plan.prod_id]}
+          </span>
+          <ExternalLinkIcon color={"brand.500"} />
         </TableDataCell>
       </Tr>
     );
@@ -100,4 +103,4 @@ const TabularDisplay = ({
   );
 };
 
-export default TabularDisplay;
+export default TabularDisplayPlans;

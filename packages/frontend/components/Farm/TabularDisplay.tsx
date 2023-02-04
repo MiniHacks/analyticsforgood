@@ -1,4 +1,5 @@
 import {
+  Badge,
   Spinner,
   Table,
   TableCaption,
@@ -17,7 +18,7 @@ import { order as Order, producer as Producer } from "@prisma/client";
 import { ExternalLinkIcon } from "@chakra-ui/icons";
 import { format, formatDistance, formatRelative, subDays } from "date-fns";
 import { useRouter } from "next/router";
-import { money } from "../util/lib";
+import { CROP_MAPPING, money } from "../../util/lib";
 
 type TabularDisplayProps = {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -43,7 +44,6 @@ const TabularDisplay = ({
   loading,
 }: TabularDisplayProps): JSX.Element => {
   const router = useRouter();
-
   if (loading) return <Spinner />;
 
   const headingRow = (
@@ -68,7 +68,7 @@ const TabularDisplay = ({
           backgroundColor: "brand.100",
           cursor: "pointer",
         }}
-        onClick={() => router.push(`/farm/${order.producer.code}`)}
+        onClick={() => router.push(`/prod/${order.prod_id}`)}
       >
         <TableDataCell color={"gray.400"}>{order.id}</TableDataCell>
         <TableDataCell>
@@ -83,7 +83,10 @@ const TabularDisplay = ({
         <TableDataCell isNumeric>{money(order.cost)}</TableDataCell>
         <TableDataCell isNumeric>{money(order.price)}</TableDataCell>
         <TableDataCell display={"flex"} justifyContent={"space-between"}>
-          {order.producer.code} <ExternalLinkIcon color={"brand.500"} />
+          <span>
+            <Badge>{order.prod_id}</Badge> {CROP_MAPPING[order.prod_id]}
+          </span>
+          <ExternalLinkIcon color={"brand.500"} />
         </TableDataCell>
       </Tr>
     );

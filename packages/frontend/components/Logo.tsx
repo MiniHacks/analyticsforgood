@@ -6,7 +6,7 @@ const Logo = (): JSX.Element => (
     fontSize={"45px"}
     color={"brand.600"}
   >
-    <a href={"#home"}>
+    <a href={"/"}>
       <chakra.span color={"brand.600"}>aly</chakra.span>
       <chakra.span color={"brand.400"}>.so</chakra.span>
     </a>

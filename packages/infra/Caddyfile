@@ -1,11 +1,7 @@
-:8888
+:8899
 
-handle_path {$IO_PATH}* {
-    reverse_proxy 127.0.0.1:{$IO_PORT}
+handle_path /py/* {
+    reverse_proxy 127.0.0.1:8000
 }
 
-handle_path {$BACKEND_PATH}* {
-    reverse_proxy 127.0.0.1:{$BACKEND_PORT}
-}
-
-reverse_proxy 127.0.0.1:{$PORT}
+reverse_proxy 127.0.0.1:3000

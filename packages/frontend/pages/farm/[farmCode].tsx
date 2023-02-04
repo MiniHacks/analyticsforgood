@@ -35,13 +35,17 @@ import {
   Tooltip,
 } from "chart.js";
 import { Line } from "react-chartjs-2";
+import { FaHandHoldingWater } from "react-icons/fa";
+import { BiLandscape } from "react-icons/bi";
 import Sidebar from "../../components/Sidebar";
 import ShadowCard from "../../components/ShadowCard";
-import TabularDisplay, { FilledOrder } from "../../components/TabularDisplay";
+import TabularDisplay, {
+  FilledOrder,
+} from "../../components/Farm/TabularDisplay";
 import TabularDisplayPlans, {
   FilledPlan,
-} from "../../components/TabularDisplayPlans";
-import { CROP_MAPPING } from "../../util/lib";
+} from "../../components/Farm/TabularDisplayPlans";
+import { CROP_MAPPING, nato } from "../../util/lib";
 import { useSearch } from "../../components/Search/useSearch";
 import SearchBar from "../../components/Search/SearchBar";
 import SearchResults from "../../components/Search/SearchResults";
@@ -95,14 +99,15 @@ export const sampleData = {
 };
 
 type ProductDisplayType = {
-  pid: number;
+  farmCode: string;
 };
 
-const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
+const ProductDisplay = ({ farmCode }: ProductDisplayType): JSX.Element => {
   const [data, setData] = useState<{
     orders: FilledOrder[];
     plans: FilledPlan[];
-  }>({ orders: [], plans: [] });
+    producer: Record<string, string>;
+  }>({ orders: [], plans: [], producer: {} });
   const [loading, setLoading] = useState(true);
   const [onTimeInFull, setOnTimeInFull] = useState(0);
   const [onTime, setOnTime] = useState(0);
@@ -113,8 +118,8 @@ const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
 
   useEffect(() => {
     setLoading(true);
-    if (!pid) return;
-    fetch(`/api/products?pid=${pid}`)
+    if (!farmCode) return;
+    fetch(`/api/farm?farmCode=${farmCode}`)
       .then((res) => res.json())
       .then((d) => {
         setData(d);
@@ -151,7 +156,7 @@ const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
             .map((a) => new Date(a).toLocaleDateString())
         );
       });
-  }, [pid]);
+  }, [farmCode]);
 
   useEffect(() => {
     if (!data?.orders) return;
@@ -194,14 +199,30 @@ const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
     setChartJSData(chartData);
   }, [dates]);
 
-  const crop = CROP_MAPPING[pid];
-  const cropName = crop?.split(",").reverse().join(" ");
   return (
     <VStack ml={"200px"} mt={24} px={8} alignItems={"start"} width={"100%"}>
       <HStack justifyContent={"space-between"} width={"100%"}>
         <VStack alignItems={"start"} spacing={2} pb={4}>
-          <Heading fontSize={48}>{cropName}</Heading>
-          <Tag colorScheme={"teal"}>Product #{pid}</Tag>
+          <Heading fontSize={48}>{nato(farmCode)}</Heading>
+          <Collapse in={!loading}>
+            <HStack>
+              <Tag colorScheme={"gray"} size={"lg"}>
+                Provider Code: {farmCode}
+              </Tag>
+              {data.producer?.water_access && (
+                <Tag colorScheme={"blue"} size={"lg"}>
+                  <FaHandHoldingWater />
+                  <chakra.span ml={2}>Irrigation Access</chakra.span>
+                </Tag>
+              )}
+              {data.producer?.land_ownership && (
+                <Tag colorScheme={"orange"} size={"lg"}>
+                  <BiLandscape />
+                  <chakra.span ml={2}>Landowner</chakra.span>
+                </Tag>
+              )}
+            </HStack>
+          </Collapse>
         </VStack>
         <Menu>
           <MenuButton
@@ -332,8 +353,8 @@ const ProductDisplay = ({ pid }: ProductDisplayType): JSX.Element => {
 
 const Dash = (): JSX.Element => {
   const router = useRouter();
-  const { productId } = router.query;
-  const pid = parseInt(productId as string, 10);
+  const { farmCode } = router.query;
+
   const {
     search,
     searchResults,
@@ -352,7 +373,7 @@ const Dash = (): JSX.Element => {
       px={6}
     >
       <Sidebar />
-      <ProductDisplay pid={pid} />
+      <ProductDisplay farmCode={farmCode as string} />
       <Box
         position={"fixed"}
         left={254}

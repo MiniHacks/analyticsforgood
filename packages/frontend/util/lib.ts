@@ -7,6 +7,39 @@ export const money = (number: number) => {
 
 export const cma = (str: string) => str.split(",").reverse().join(" ");
 
+export const nato = (s: string): string => {
+  if (!s) return "";
+  const h: Record<string, string> = {
+    A: "Alpha",
+    B: "Bravo",
+    C: "Charlie",
+    D: "Delta",
+    E: "Echo",
+    F: "Foxtrot",
+    G: "Golf",
+    H: "Hotel",
+    I: "India",
+    J: "Juliett",
+    K: "Kilo",
+    L: "Lima",
+    M: "Mike",
+    N: "November",
+    O: "Oscar",
+    P: "Papa",
+    Q: "Quebec",
+    R: "Romeo",
+    S: "Sierra",
+    T: "Tango",
+    U: "Uniform",
+    V: "Victor",
+    W: "Whiskey",
+    X: "X-ray",
+    Y: "Yankee",
+    Z: "Zulu",
+  };
+  return [...s.toUpperCase().split("")].map((x) => h[x] ?? x).join(" ");
+};
+
 export const CROP_MAPPING: Record<string, string> = {
   "3079": "Brussels Sprouts",
   "3089": "Melon, Watermelon",
