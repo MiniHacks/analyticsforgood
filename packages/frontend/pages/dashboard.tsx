@@ -1,9 +1,9 @@
-import NumberGraphCard from "../components/Layout/NumberGraphCard";
 import type { NextPage } from "next";
-import { HStack, VStack, Box, Heading } from "@chakra-ui/react";
+import React from "react";
+import PageLayoutComponents from "../components/PageLayoutComponents";
 
 const Home: NextPage = () => {
-  return <NumberGraphCard />;
+  return <PageLayoutComponents />;
 };
 
 export default Home;
