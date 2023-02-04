@@ -15,14 +15,12 @@ const PageLayoutComponents = (): JSX.Element => {
           <VStack>
             <Heading fontSize={"50px"}>What We Do</Heading>
             <Text fontFamily={"Poppins"} fontWeight={"300"} px={"20%"}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
-              vitae tincidunt nibh. Sed tempus augue nulla, nec luctus arcu
-              dignissim ut. Praesent et urna convallis, auctor urna in, vehicula
-              lorem. Aenean vel massa id mauris finibus facilisis. Integer
-              scelerisque velit ut viverra varius. Duis vitae eros ac libero
-              finibus lobortis eu et orci. Duis lacinia non augue id porta.
-              Quisque in orci eget leo placerat pellentesque. Pellentesque
-              consequat sodales est nec facilisis.
+              Aly is a sophisticated dashboard designed to provide an intuitive
+              user experience. It features comprehensive Good Acre data and advanced
+              functionality, including farm/crop search, producer and product overviews,
+              and a predictive calculator utilizing random forest regression. The calculator
+              incorporates environmental data such as sunlight, precipitation, and snow to enhance
+              its accuracy in forecasting a producer's success in the coming months.
             </Text>
           </VStack>
           <Image src={"https://picsum.photos/500/300"} px={8} />

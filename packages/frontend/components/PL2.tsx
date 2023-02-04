@@ -16,14 +16,12 @@ const PL2 = (): JSX.Element => {
                     <VStack>
                         <Heading fontSize={"50px"}>How We Fit</Heading>
                         <Text fontFamily={"Poppins"} fontWeight={"300"} px={8}>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
-                            vitae tincidunt nibh. Sed tempus augue nulla, nec luctus arcu
-                            dignissim ut. Praesent et urna convallis, auctor urna in, vehicula
-                            lorem. Aenean vel massa id mauris finibus facilisis. Integer
-                            scelerisque velit ut viverra varius. Duis vitae eros ac libero
-                            finibus lobortis eu et orci. Duis lacinia non augue id porta.
-                            Quisque in orci eget leo placerat pellentesque. Pellentesque
-                            consequat sodales est nec facilisis.
+                            Aly is your ultimate planning partner, delivering exceptional support
+                            for a wide range of functions. With Aly by your side, you can approach
+                            negotiations with confidence, knowing you have a direct and reliable source
+                            to turn to. Whether you're working with customers or farmers, Aly ensures a
+                            smooth and efficient planning process, elevating your efforts to new heights.
+
                         </Text>
                     </VStack>
                 </HStack>
