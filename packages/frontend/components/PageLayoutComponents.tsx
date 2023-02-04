@@ -7,7 +7,7 @@ const PageLayoutComponents = (): JSX.Element => {
       <HStack
         w={"100%"}
         h={"600px"}
-        bg={"brand.200"}
+        bg={"brand.100"}
         justifyContent={"center"}
         alignItems={"center"}
       >

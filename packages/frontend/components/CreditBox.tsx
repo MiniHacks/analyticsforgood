@@ -7,7 +7,7 @@ const Credits = (): JSX.Element => {
       <HStack
         w={"100%"}
         h={"200px"}
-        bg={"brand.200"}
+        bg={"brand.100"}
         justifyContent={"center"}
         fontFamily={"Poppins"}
       >
