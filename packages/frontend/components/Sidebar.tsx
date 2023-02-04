@@ -49,7 +49,7 @@ const Sidebar = (): JSX.Element => {
             color={"brand.600"}
             onClick={() => {
               signOut();
-              window.location.href = "/landingpage";
+              window.location.href = "/";
             }}
           >
             <FiArrowUpLeft />
