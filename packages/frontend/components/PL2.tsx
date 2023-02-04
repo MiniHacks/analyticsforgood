@@ -7,7 +7,7 @@ const PL2 = (): JSX.Element => {
             <HStack
                 w={"100%"}
                 h={"600px"}
-                bg={"brand.200"}
+                bg={"white"}
                 justifyContent={"center"}
                 alignItems={"center"}
             >

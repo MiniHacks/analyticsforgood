@@ -8,7 +8,7 @@ const PageLayoutComponents = (): JSX.Element => {
         marginTop={"300px"}
         w={"100%"}
         h={"600px"}
-        bg={"white"}
+        bg={"brand.200"}
         justifyContent={"center"}
         alignItems={"center"}
       >
