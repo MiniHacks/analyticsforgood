@@ -11,10 +11,10 @@ const PL2 = (): JSX.Element => {
                 justifyContent={"center"}
                 alignItems={"center"}
             >
-                <HStack justifyContent={"space-between"} mr={"100px"} ml={"50px"}>
-                    <Image src={"https://picsum.photos/500/400"} px={"10%"} />
+                <HStack justifyContent={"space-between"} mr={"100px"} ml={"20px"}>
+                    <Image src={'GraphicAly.png'} px={"10%"} maxWidth={"850px"}/>
                     <VStack>
-                        <Heading fontSize={"50px"}>Cool Things</Heading>
+                        <Heading fontSize={"50px"}>How We Fit</Heading>
                         <Text fontFamily={"Poppins"} fontWeight={"300"} px={8}>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
                             vitae tincidunt nibh. Sed tempus augue nulla, nec luctus arcu
