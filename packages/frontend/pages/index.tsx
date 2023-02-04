@@ -88,12 +88,12 @@ const Home: NextPage = () => {
                             position="absolute"
                             top="350px"
                             left="1300px"
-                            width="203"
                             height="84"
                             viewBox="0 0 203 84"
                             fill="none"
                             xmlns="http://www.w3.org/2000/svg"
                             transform="rotate(25deg)"
+                            width="calc(100vw - 1324px)"
                         >
                             <path
                                 d="M2.00256 6.03331C18.6155 4.88923 35.2394 3.64734 51.8584 2.62151C77.3581 1.04752 98.4187 3.73784 119.559 8.93234C148.192 15.9678 172.572 26.7255 192.896 38.0326C218.894 52.4961 242.277 68.0914 269.789 81.9436"
