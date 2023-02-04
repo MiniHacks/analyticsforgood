@@ -1,0 +1,866 @@
+Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled,Water Access,Land Ownership
+10/10/2022,PBY,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/10/2022,CAL,3759,"Onions, Bulb",20,4625,5134,20,True,True
+10/10/2022,KSL,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/10/2022,MFP,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+10/10/2022,SRF,3759,"Onions, Bulb",10,4625,5134,10,True,False
+10/10/2022,NTN,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/10/2022,YMF,3178,"Radishes, Purple Daikon",22,3900,4329,22,True,False
+10/10/2022,YMF,3132,"Carrots, Rainbow",22,3675,4079,22,True,False
+10/10/2022,KHF,3759,"Onions, Bulb",10,4625,5134,0,False,False
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+10/10/2022,MFP,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+10/10/2022,PZM,3573,"Greens, Bok Choi",18,4625,5134,0,True,False
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+10/10/2022,PZM,3573,"Greens, Bok Choi",10,4625,5134,0,True,False
+10/10/2022,RSV,3755,"Carrots, Orange",22,3675,4079,22,False,False
+10/10/2022,MFP,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+10/10/2022,YMF,3178,"Radishes, Purple Daikon",22,3900,4329,22,True,False
+10/10/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+10/10/2022,CLP,3613,"Beets, Bulk",11,3100,3440,11,False,True
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+10/10/2022,TEB,3573,"Greens, Bok Choi",10,4625,5134,10,False,True
+10/10/2022,HAF,3178,"Radishes, Purple Daikon",22,3900,4329,0,False,True
+10/10/2022,KAL,3132,"Carrots, Rainbow",22,3675,4079,0,False,False
+10/10/2022,TEB,3573,"Greens, Bok Choi",10,4625,5134,10,False,True
+10/10/2022,MFP,3759,"Onions, Bulb",10,4625,5134,10,False,False
+10/10/2022,PBY,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/10/2022,AGF,3759,"Onions, Bulb",20,4625,5134,13,True,True
+10/10/2022,YMF,3613,"Beets, Bulk",11,3100,3440,11,True,False
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+10/10/2022,MLG,3759,"Onions, Bulb",10,4625,5134,10,False,False
+10/10/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+10/17/2022,NTN,3755,"Carrots, Orange",22,3675,4079,0,False,False
+10/17/2022,CLP,3613,"Beets, Bulk",11,3100,3440,11,False,True
+10/17/2022,MLG,3755,"Carrots, Orange",22,3675,4079,0,False,False
+10/17/2022,PBY,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/17/2022,YMF,3178,"Radishes, Purple Daikon",22,3900,4329,0,True,False
+10/17/2022,YMF,3178,"Radishes, Purple Daikon",22,3900,4329,0,True,False
+10/17/2022,CMU,3132,"Carrots, Rainbow",11,3675,4079,11,False,False
+10/17/2022,KSL,3613,"Beets, Bulk",11,3100,3440,0,False,False
+10/17/2022,NTN,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/17/2022,YMF,3132,"Carrots, Rainbow",33,3675,4079,22,True,False
+10/17/2022,NTN,3132,"Carrots, Rainbow",22,3675,4079,0,False,False
+10/17/2022,PBY,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/17/2022,CMU,3755,"Carrots, Orange",11,3675,4079,0,False,False
+10/17/2022,YMF,3613,"Beets, Bulk",11,3100,3440,11,True,False
+10/17/2022,HAF,3178,"Radishes, Purple Daikon",22,3900,4329,0,False,True
+10/17/2022,YMF,3755,"Carrots, Orange",11,3675,4079,0,True,False
+10/24/2022,PBY,3613,"Beets, Bulk",11,3100,3440,0,False,False
+10/24/2022,PBY,3613,"Beets, Bulk",11,3100,3440,0,False,False
+10/24/2022,NTN,3613,"Beets, Bulk",11,3100,3440,0,False,False
+10/24/2022,RSV,3755,"Carrots, Orange",11,3675,4079,0,False,False
+10/24/2022,NTN,3132,"Carrots, Rainbow",11,3675,4079,0,False,False
+10/24/2022,YMF,3178,"Radishes, Purple Daikon",22,3900,4329,0,True,False
+10/24/2022,YMF,3613,"Beets, Bulk",11,3100,3440,0,True,False
+10/24/2022,YMF,3178,"Radishes, Purple Daikon",22,3900,4329,0,True,False
+10/24/2022,KSL,3613,"Beets, Bulk",11,3100,3440,0,False,False
+10/24/2022,CLP,3613,"Beets, Bulk",11,3100,3440,0,False,True
+10/24/2022,CMU,3132,"Carrots, Rainbow",11,3675,4079,0,False,False
+10/24/2022,YMF,3132,"Carrots, Rainbow",33,3675,4079,0,True,False
+10/24/2022,HAF,3178,"Radishes, Purple Daikon",22,3900,4329,0,False,True
+10/3/2022,CMU,3132,"Carrots, Rainbow",11,3675,4079,11,False,False
+10/3/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,10,False,False
+10/3/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,0,False,True
+10/3/2022,NTN,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/3/2022,MLG,3759,"Onions, Bulb",10,4625,5134,0,False,False
+10/3/2022,KAL,3132,"Carrots, Rainbow",22,3675,4079,0,False,False
+10/3/2022,YMF,3132,"Carrots, Rainbow",11,3675,4079,0,True,False
+10/3/2022,AGF,3189,"Squash, Winter, Delicata",90,4075,4523,45,True,True
+10/3/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+10/3/2022,CLP,3613,"Beets, Bulk",11,3100,3440,11,False,True
+10/3/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+10/3/2022,SRF,3759,"Onions, Bulb",10,4625,5134,10,True,False
+10/3/2022,AGF,3759,"Onions, Bulb",20,4625,5134,0,True,True
+10/3/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,True
+10/3/2022,RSV,3755,"Carrots, Orange",22,3675,4079,0,False,False
+10/3/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+10/3/2022,CAL,3759,"Onions, Bulb",20,4625,5134,19,True,True
+10/3/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,0,True,True
+10/3/2022,KHF,3759,"Onions, Bulb",10,4625,5134,0,False,False
+10/3/2022,CAL,3189,"Squash, Winter, Delicata",60,4075,4523,60,True,True
+10/3/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+10/3/2022,MHA,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+10/3/2022,MFP,3759,"Onions, Bulb",10,4625,5134,0,False,False
+10/3/2022,KSL,3613,"Beets, Bulk",11,3100,3440,0,False,False
+10/3/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+10/3/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+10/3/2022,SRF,3759,"Onions, Bulb",20,4625,5134,10,True,False
+10/3/2022,PBY,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/3/2022,PBY,3613,"Beets, Bulk",11,3100,3440,11,False,False
+10/3/2022,YMF,3613,"Beets, Bulk",11,3100,3440,11,True,False
+10/31/2022,D2D,9997,"Radishes, Watermelon",22,3650,4052,0,True,True
+10/31/2022,D2D,9997,"Radishes, Watermelon",22,3650,4052,0,True,True
+10/31/2022,D2D,9997,"Radishes, Watermelon",22,3650,4052,0,True,True
+11/7/2022,YMF,3755,"Carrots, Orange",11,3675,4079,0,True,False
+11/7/2022,CMU,3755,"Carrots, Orange",11,3675,4079,0,False,False
+11/7/2022,NTN,3755,"Carrots, Orange",22,3675,4079,0,False,False
+11/7/2022,MLG,3755,"Carrots, Orange",22,3675,4079,0,False,False
+6/13/2022,JWI,3278,"Radishes, bunched-24 ct",15,4350,4829,0,False,False
+6/13/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,0,False,True
+6/13/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,False
+6/13/2022,CBS,3278,"Radishes, bunched-24 ct",15,4350,4829,0,True,True
+6/13/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/13/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,0,True,False
+6/13/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,10,False,False
+6/13/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/13/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,3375,3746,0,True,False
+6/13/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,4275,4745,5,False,False
+6/13/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,False
+6/13/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,0,False,True
+6/20/2022,CBO,3278,"Radishes, bunched-24 ct",5,4350,4829,5,False,False
+6/20/2022,JWI,3278,"Radishes, bunched-24 ct",5,4350,4829,0,False,False
+6/20/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,0,False,True
+6/20/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/20/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,3375,3746,10,True,False
+6/20/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,10,True,False
+6/20/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,10,False,False
+6/20/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,4275,4745,5,False,False
+6/20/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/20/2022,CMA,3278,"Radishes, bunched-24 ct",5,4350,4829,5,False,False
+6/20/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,False
+6/20/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,False
+6/20/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,0,False,True
+6/20/2022,CBS,3278,"Radishes, bunched-24 ct",15,4350,4829,0,True,True
+6/27/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,False
+6/27/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,False
+6/27/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,0,True,False
+6/27/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,4275,4745,0,False,False
+6/27/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,0,False,False
+6/27/2022,CBS,3278,"Radishes, bunched-24 ct",10,4350,4829,5,True,True
+6/27/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,3375,3746,10,True,False
+6/27/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,0,False,True
+6/27/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+6/27/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/27/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,10,True,True
+6/27/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,True
+6/27/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/6/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/6/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+6/6/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,0,True,False
+6/6/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+6/6/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,0,False,True
+6/6/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,0,False,False
+6/6/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,0,False,True
+6/6/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,0,False,False
+6/6/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,0,False,False
+6/6/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,4275,4745,0,False,False
+6/6/2022,CBS,3278,"Radishes, bunched-24 ct",20,4350,4829,0,True,True
+6/6/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,3375,3746,0,True,False
+7/11/2022,CHO,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+7/11/2022,MHG,3362,"Cucumbers, Pickling",11,2400,2664,0,True,True
+7/11/2022,LDX,3754,"Cabbage, Red",5,4075,4523,0,True,False
+7/11/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,8,True,True
+7/11/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,0,False,False
+7/11/2022,CMA,3754,"Cabbage, Red",5,4075,4523,0,False,False
+7/11/2022,KSL,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+7/11/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,10,True,True
+7/11/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,4275,4745,0,False,False
+7/11/2022,YMF,3362,"Cucumbers, Pickling",11,2400,2664,0,True,False
+7/11/2022,ONC,3754,"Cabbage, Red",5,4075,4523,0,False,False
+7/11/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,20,False,True
+7/11/2022,D2D,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,True,True
+7/11/2022,YMF,3754,"Cabbage, Red",5,4075,4523,0,True,False
+7/11/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0,False,True
+7/11/2022,HAF,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+7/11/2022,SXF,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+7/11/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+7/11/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,False,True
+7/11/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,10,True,False
+7/18/2022,LDX,3754,"Cabbage, Red",5,4075,4523,0,True,False
+7/18/2022,HOP,3362,"Cucumbers, Pickling",11,2400,2664,0,True,False
+7/18/2022,MLG,3809,"Beans, Green, Yellow or Purple",5,7100,7881,0,False,False
+7/18/2022,LOF,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+7/18/2022,CMA,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+7/18/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,7100,7881,0,False,False
+7/18/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,False,True
+7/18/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,0,True,True
+7/18/2022,JWI,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+7/18/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,7100,7881,4,False,False
+7/18/2022,MHA,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+7/18/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,20,False,True
+7/18/2022,CMA,3754,"Cabbage, Red",5,4075,4523,0,False,False
+7/18/2022,RSV,3809,"Beans, Green, Yellow or Purple",6,7100,7881,0,False,False
+7/18/2022,CLP,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+7/18/2022,NTN,3813,"Greens, Kale-24 ct",10,4275,4745,10,False,False
+7/18/2022,YMF,3754,"Cabbage, Red",5,4075,4523,0,True,False
+7/18/2022,D2D,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,True,True
+7/18/2022,TXI,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+7/18/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0,False,True
+7/18/2022,ONC,3754,"Cabbage, Red",5,4075,4523,0,False,False
+7/18/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+7/18/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,10,True,True
+7/18/2022,JWI,3809,"Beans, Green, Yellow or Purple",7,7100,7881,0,False,False
+7/18/2022,RSV,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+7/18/2022,D2D,3813,"Greens, Kale-24 ct",5,4275,4745,5,True,True
+7/25/2022,D2D,3182,"Squash, Summer, Patty Pan",18,2400,2664,17,True,True
+7/25/2022,MLG,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,False,False
+7/25/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,8,True,True
+7/25/2022,CMA,3138,"Greens, Collard-24 ct",5,4275,4745,5,False,False
+7/25/2022,SXF,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+7/25/2022,CMU,3138,"Greens, Collard-24 ct",10,4275,4745,10,False,False
+7/25/2022,LOF,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+7/25/2022,JWI,3138,"Greens, Collard-24 ct",5,4275,4745,5,False,False
+7/25/2022,CLP,3813,"Greens, Kale-24 ct",10,4275,4745,10,False,True
+7/25/2022,LVO,3138,"Greens, Collard-24 ct",5,4275,4745,1,True,True
+7/25/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,True
+7/25/2022,CHO,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+7/25/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,13,False,True
+7/25/2022,CBO,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+7/25/2022,YMF,3099,Beets w/greens,20,4325,4801,18,True,False
+7/25/2022,HOP,3099,Beets w/greens,20,4325,4801,0,True,False
+7/25/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0,False,True
+7/25/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,20,False,True
+7/25/2022,ONC,3809,"Beans, Green, Yellow or Purple",10,7100,7881,4,False,False
+7/25/2022,YMF,3362,"Cucumbers, Pickling",11,2400,2664,11,True,False
+7/25/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,7100,7881,15,False,False
+7/25/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,20,False,True
+7/25/2022,D2D,3138,"Greens, Collard-24 ct",10,4275,4745,10,True,True
+7/25/2022,YMF,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,True,False
+7/25/2022,MMO,3669,"Greens, Chard-24 ct",15,4275,4745,15,False,False
+7/25/2022,HAF,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+7/25/2022,CMA,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+7/25/2022,LVO,3669,"Greens, Chard-24 ct",5,4275,4745,0,True,True
+7/25/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+7/25/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+7/25/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,10,True,True
+7/25/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+7/25/2022,RSV,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,False,False
+7/25/2022,MHG,3362,"Cucumbers, Pickling",11,2400,2664,0,True,True
+7/25/2022,KSL,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+7/25/2022,TEB,3099,Beets w/greens,10,4325,4801,10,False,True
+7/25/2022,CBO,3669,"Greens, Chard-24 ct",5,4275,4745,5,False,False
+7/25/2022,ONC,3669,"Greens, Chard-24 ct",5,4275,4745,4,False,False
+7/25/2022,BXF,3669,"Greens, Chard-24 ct",15,4275,4745,0,False,True
+7/25/2022,LEE,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,,
+7/25/2022,BXF,3138,"Greens, Collard-24 ct",10,4275,4745,0,False,True
+7/25/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+7/25/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,False,False
+7/25/2022,D2D,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,True,True
+7/25/2022,CMA,3669,"Greens, Chard-24 ct",5,4275,4745,4,False,False
+7/25/2022,CBO,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+7/25/2022,CBO,3138,"Greens, Collard-24 ct",5,4275,4745,3,False,False
+7/25/2022,HAF,3809,"Beans, Green, Yellow or Purple",5,7100,7881,5,False,True
+7/25/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50,False,False
+7/25/2022,MMO,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+7/25/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+7/25/2022,CHO,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,False,True
+7/4/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,0,True,True
+7/4/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,0,False,True
+7/4/2022,TEB,3573,"Greens, Bok Choi",10,4625,5134,0,False,True
+7/4/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",5,4275,4745,0,False,False
+7/4/2022,CMU,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,10,False,False
+7/4/2022,KHF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,0,False,False
+7/4/2022,YMF,3806,"Greens, Lettuce, Head-24 ct green",10,4275,4745,6,True,False
+7/4/2022,CMA,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+7/4/2022,CVP,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,12,False,False
+7/4/2022,YMF,3266,"Onions, Green or Scallions-24 ct",10,3375,3746,10,True,False
+7/4/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+7/4/2022,MFP,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+7/4/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0,False,False
+7/4/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0,False,True
+7/4/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,0,False,False
+7/4/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,10,True,True
+7/4/2022,D2D,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,True,True
+7/4/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,False,True
+7/4/2022,TEB,3266,"Onions, Green or Scallions-24 ct",12,3375,3746,0,False,True
+7/4/2022,CBS,3278,"Radishes, bunched-24 ct",10,4350,4829,0,True,True
+7/4/2022,ONC,3266,"Onions, Green or Scallions-24 ct",5,3375,3746,0,False,False
+7/4/2022,TEB,3573,"Greens, Bok Choi",10,4625,5134,0,False,True
+8/1/2022,BXF,3669,"Greens, Chard-24 ct",15,4275,4745,0,False,True
+8/1/2022,CMA,3138,"Greens, Collard-24 ct",5,4275,4745,5,False,False
+8/1/2022,HAF,3809,"Beans, Green, Yellow or Purple",5,7100,7881,5,False,True
+8/1/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,7100,7881,15,False,False
+8/1/2022,CMU,3138,"Greens, Collard-24 ct",10,4275,4745,10,False,False
+8/1/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,True
+8/1/2022,CHO,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,False,True
+8/1/2022,JWI,3138,"Greens, Collard-24 ct",5,4275,4745,5,False,False
+8/1/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,8,True,True
+8/1/2022,SRF,3809,"Beans, Green, Yellow or Purple",15,7100,7881,0,True,False
+8/1/2022,CMA,3669,"Greens, Chard-24 ct",5,4275,4745,0,False,False
+8/1/2022,CMA,3754,"Cabbage, Red",5,4075,4523,0,False,False
+8/1/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50,False,False
+8/1/2022,CMA,3754,"Cabbage, Red",5,4075,4523,0,False,False
+8/1/2022,YMF,3754,"Cabbage, Red",5,4075,4523,0,True,False
+8/1/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,False,False
+8/1/2022,CBS,3404,Tomatillos,20,3275,3635,0,True,True
+8/1/2022,LVO,3669,"Greens, Chard-24 ct",5,4275,4745,0,True,True
+8/1/2022,MHA,3362,"Cucumbers, Pickling",11,2400,2664,6,False,False
+8/1/2022,CBS,3404,Tomatillos,66,3275,3635,0,True,True
+8/1/2022,CLP,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+8/1/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/1/2022,LOF,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+8/1/2022,RSV,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+8/1/2022,AGF,3404,Tomatillos,46,3275,3635,12,True,True
+8/1/2022,RSV,3809,"Beans, Green, Yellow or Purple",5,7100,7881,0,False,False
+8/1/2022,TXI,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+8/1/2022,LVO,3138,"Greens, Collard-24 ct",5,4275,4745,0,True,True
+8/1/2022,CBO,3138,"Greens, Collard-24 ct",5,4275,4745,0,False,False
+8/1/2022,D2D,3182,"Squash, Summer, Patty Pan",18,2400,2664,3,True,True
+8/1/2022,YMF,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,True,False
+8/1/2022,ONC,3669,"Greens, Chard-24 ct",5,4275,4745,0,False,False
+8/1/2022,D2D,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,True,True
+8/1/2022,LEE,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,,
+8/1/2022,BXF,3138,"Greens, Collard-24 ct",10,4275,4745,0,False,True
+8/1/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,15,False,True
+8/1/2022,MMO,3669,"Greens, Chard-24 ct",15,4275,4745,11,False,False
+8/1/2022,CBO,3669,"Greens, Chard-24 ct",5,4275,4745,5,False,False
+8/1/2022,ONC,3754,"Cabbage, Red",5,4075,4523,5,False,False
+8/1/2022,ONC,3754,"Cabbage, Red",5,4075,4523,5,False,False
+8/1/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,False
+8/1/2022,MLG,3809,"Beans, Green, Yellow or Purple",10,7100,7881,5,False,False
+8/1/2022,HOP,3362,"Cucumbers, Pickling",11,2400,2664,0,True,False
+8/1/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+8/1/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/1/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0,False,True
+8/1/2022,D2D,3138,"Greens, Collard-24 ct",10,4275,4745,10,True,True
+8/1/2022,LDX,3754,"Cabbage, Red",5,4075,4523,5,True,False
+8/15/2022,CMU,3138,"Greens, Collard-24 ct",10,4275,4745,10,False,False
+8/15/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50,False,False
+8/15/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+8/15/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,True
+8/15/2022,CLP,3717,"Eggplant, Globe",15,3700,4107,2,False,True
+8/15/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,8,True,True
+8/15/2022,CBS,3404,Tomatillos,66,3275,3635,66,True,True
+8/15/2022,CMA,3138,"Greens, Collard-24 ct",5,4275,4745,4,False,False
+8/15/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36,False,True
+8/15/2022,CTH,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+8/15/2022,CLP,3362,"Cucumbers, Pickling",11,2400,2664,7,False,True
+8/15/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+8/15/2022,PBY,3089,"Melon, Watermelon",10,3075,3413,0,False,False
+8/15/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,True
+8/15/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/15/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+8/15/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/15/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+8/15/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,18,False,True
+8/15/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,12,False,False
+8/15/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,True
+8/15/2022,JWI,3138,"Greens, Collard-24 ct",5,4275,4745,1,False,False
+8/15/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+8/15/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+8/15/2022,KSL,3828,"Peppers, Green Bell",15,4075,4523,0,False,False
+8/15/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,2,False,False
+8/15/2022,BXF,3138,"Greens, Collard-24 ct",10,4275,4745,6,False,True
+8/15/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/15/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,12,False,True
+8/15/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/15/2022,KHF,3153,"Peppers, Jalapeño",12,3000,3329,12,False,False
+8/15/2022,CBO,3138,"Greens, Collard-24 ct",5,4275,4745,5,False,False
+8/15/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,14,False,False
+8/15/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/15/2022,LFF,3828,"Peppers, Green Bell",25,4075,4523,22,True,False
+8/15/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+8/15/2022,MFP,3153,"Peppers, Jalapeño",10,3000,3329,10,False,False
+8/15/2022,D2D,3754,"Cabbage, Red",5,4075,4523,5,True,True
+8/15/2022,LEE,3828,"Peppers, Green Bell",5,4075,4523,0,,
+8/15/2022,TXI,3362,"Cucumbers, Pickling",11,2400,2664,10,False,False
+8/15/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,20,True,False
+8/15/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+8/15/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+8/15/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/15/2022,CBS,3404,Tomatillos,20,3275,3635,20,True,True
+8/15/2022,D2D,3138,"Greens, Collard-24 ct",10,4275,4745,10,True,True
+8/15/2022,MHA,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+8/15/2022,KSL,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+8/15/2022,MHA,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/15/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+8/15/2022,YMF,3668,"Eggplant, Japanese",10,3425,3802,10,True,False
+8/15/2022,AGF,3089,"Melon, Watermelon",15,3075,3413,0,True,True
+8/15/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/15/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/15/2022,HOP,3362,"Cucumbers, Pickling",11,2400,2664,0,True,False
+8/15/2022,AGF,3091,"Melon, Honeydew",50,3125,3469,0,True,True
+8/15/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,14,False,False
+8/15/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,False
+8/15/2022,KHF,3202,"Tomatoes, Slicing",36,4600,5106,36,False,False
+8/15/2022,DTF,3202,"Tomatoes, Slicing",15,4600,5106,15,False,True
+8/15/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,10,False,False
+8/15/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/15/2022,PBY,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+8/15/2022,LOF,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+8/15/2022,LVO,3138,"Greens, Collard-24 ct",5,4275,4745,0,True,True
+8/15/2022,PBY,3668,"Eggplant, Japanese",10,3425,3802,10,False,False
+8/15/2022,PLT,3668,"Eggplant, Japanese",10,3425,3802,10,False,False
+8/15/2022,AGF,3404,Tomatillos,46,3275,3635,46,True,True
+8/15/2022,PBY,3717,"Eggplant, Globe",15,3700,4107,15,False,False
+8/15/2022,KSL,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,False
+8/15/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0,False,True
+8/15/2022,AGF,3091,"Melon, Honeydew",50,3125,3469,0,True,True
+8/15/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,20,False,False
+8/15/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/15/2022,KHF,3668,"Eggplant, Japanese",10,3425,3802,10,False,False
+8/15/2022,CLP,3668,"Eggplant, Japanese",10,3425,3802,10,False,True
+8/15/2022,D2D,3182,"Squash, Summer, Patty Pan",18,2400,2664,15,True,True
+8/15/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,14,True,False
+8/15/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,True
+8/15/2022,HOP,3717,"Eggplant, Globe",10,3700,4107,10,True,False
+8/15/2022,AGF,3089,"Melon, Watermelon",15,3075,3413,0,True,True
+8/15/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+8/15/2022,CMU,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,False
+8/15/2022,LFF,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/15/2022,YMF,3717,"Eggplant, Globe",10,3700,4107,10,True,False
+8/15/2022,RSV,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+8/15/2022,PZM,3828,"Peppers, Green Bell",5,4075,4523,5,True,False
+8/15/2022,PBY,3089,"Melon, Watermelon",10,3075,3413,0,False,False
+8/22/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,14,True,False
+8/22/2022,MMO,3813,"Greens, Kale-24 ct",5,4275,4745,0,False,False
+8/22/2022,PBY,3201,"Tomatoes, Roma",10,4050,4496,0,False,False
+8/22/2022,AGF,3201,"Tomatoes, Roma",10,4050,4496,0,True,True
+8/22/2022,LFF,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/22/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,0,False,True
+8/22/2022,PLT,3458,"Peppers, Habanero",10,4050,4496,10,False,False
+8/22/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/22/2022,PBY,3089,"Melon, Watermelon",10,3075,3413,0,False,False
+8/22/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/22/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,True,True
+8/22/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+8/22/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/22/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/22/2022,CBO,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/22/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,False
+8/22/2022,D2D,3754,"Cabbage, Red",5,4075,4523,5,True,True
+8/22/2022,AGF,3089,"Melon, Watermelon",40,3075,3413,0,True,True
+8/22/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,14,False,False
+8/22/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,11,False,True
+8/22/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+8/22/2022,LFF,3828,"Peppers, Green Bell",25,4075,4523,25,True,False
+8/22/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50,False,False
+8/22/2022,CBS,3201,"Tomatoes, Roma",10,4050,4496,0,True,True
+8/22/2022,LEE,3828,"Peppers, Green Bell",10,4075,4523,10,,
+8/22/2022,AGF,3089,"Melon, Watermelon",40,3075,3413,0,True,True
+8/22/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/22/2022,CMA,3813,"Greens, Kale-24 ct",5,4275,4745,3,False,False
+8/22/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+8/22/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,True
+8/22/2022,CTH,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+8/22/2022,CBS,3404,Tomatillos,66,3275,3635,66,True,True
+8/22/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,14,False,False
+8/22/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,14,False,False
+8/22/2022,D2D,3813,"Greens, Kale-24 ct",5,4275,4745,5,True,True
+8/22/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36,False,True
+8/22/2022,PZM,3458,"Peppers, Habanero",10,4050,4496,0,True,False
+8/22/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,7,False,True
+8/22/2022,CHO,3458,"Peppers, Habanero",10,4050,4496,0,False,True
+8/22/2022,CBS,3404,Tomatillos,20,3275,3635,20,True,True
+8/22/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,True
+8/22/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+8/22/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+8/22/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+8/22/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/22/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,True
+8/22/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/22/2022,AGF,3404,Tomatillos,46,3275,3635,46,True,True
+8/22/2022,KSL,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,False
+8/22/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+8/22/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,True,True
+8/22/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,2400,2664,22,False,False
+8/22/2022,MFP,3828,"Peppers, Green Bell",5,4075,4523,5,False,False
+8/22/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+8/22/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+8/22/2022,CLP,3813,"Greens, Kale-24 ct",10,4275,4745,10,False,True
+8/22/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,0,True,False
+8/22/2022,KHF,3201,"Tomatoes, Roma",36,4050,4496,36,False,False
+8/22/2022,LFF,3458,"Peppers, Habanero",25,4050,4496,0,True,False
+8/22/2022,LFF,3828,"Peppers, Green Bell",25,4075,4523,0,True,False
+8/22/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+8/22/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+8/22/2022,LEE,3828,"Peppers, Green Bell",10,4075,4523,0,,
+8/22/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/22/2022,PZM,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/22/2022,PBY,3089,"Melon, Watermelon",10,3075,3413,0,False,False
+8/22/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/22/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0,False,False
+8/22/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+8/22/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,10,False,False
+8/22/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,True
+8/22/2022,NTN,3813,"Greens, Kale-24 ct",10,4275,4745,10,False,False
+8/22/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+8/22/2022,MFP,3828,"Peppers, Green Bell",5,4075,4523,5,False,False
+8/22/2022,KHF,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,10,False,False
+8/22/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,20,False,False
+8/22/2022,JWI,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/22/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,4050,4496,18,True,False
+8/22/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+8/22/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+8/22/2022,KHF,3153,"Peppers, Jalapeño",12,3000,3329,12,False,False
+8/22/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+8/22/2022,KSL,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+8/22/2022,LOF,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/22/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0,False,False
+8/22/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,9,True,True
+8/22/2022,LDX,3458,"Peppers, Habanero",11,4050,4496,0,True,False
+8/22/2022,MHA,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/29/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+8/29/2022,AGF,3404,Tomatillos,46,3275,3635,0,True,True
+8/29/2022,KAL,3132,"Carrots, Rainbow",22,3675,4079,0,False,False
+8/29/2022,PLT,3668,"Eggplant, Japanese",10,3425,3802,0,False,False
+8/29/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,10,False,False
+8/29/2022,PLT,3458,"Peppers, Habanero",10,4050,4496,10,False,False
+8/29/2022,CLP,3668,"Eggplant, Japanese",10,3425,3802,0,False,True
+8/29/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,False
+8/29/2022,YMF,3132,"Carrots, Rainbow",11,3675,4079,0,True,False
+8/29/2022,KSL,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+8/29/2022,MFP,3153,"Peppers, Jalapeño",10,3000,3329,10,False,False
+8/29/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,True
+8/29/2022,MHA,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/29/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+8/29/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/29/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/29/2022,KHF,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,False
+8/29/2022,PBY,3201,"Tomatoes, Roma",18,4050,4496,18,False,False
+8/29/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+8/29/2022,KHF,3759,"Onions, Bulb",10,4625,5134,0,False,False
+8/29/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+8/29/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/29/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+8/29/2022,LDX,3458,"Peppers, Habanero",11,4050,4496,0,True,False
+8/29/2022,LFF,3458,"Peppers, Habanero",25,4050,4496,0,True,False
+8/29/2022,KHF,3153,"Peppers, Jalapeño",12,3000,3329,12,False,False
+8/29/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+8/29/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+8/29/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,1,False,False
+8/29/2022,CBS,3404,Tomatillos,20,3275,3635,20,True,True
+8/29/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+8/29/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+8/29/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,3,False,False
+8/29/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,0,False,False
+8/29/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/29/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50,False,False
+8/29/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/29/2022,SRF,3759,"Onions, Bulb",10,4625,5134,10,True,False
+8/29/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+8/29/2022,PZM,3828,"Peppers, Green Bell",10,4075,4523,10,True,False
+8/29/2022,SRF,3201,"Tomatoes, Roma",18,4050,4496,18,True,False
+8/29/2022,LEE,3828,"Peppers, Green Bell",10,4075,4523,10,,
+8/29/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,0,True,False
+8/29/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,12,False,False
+8/29/2022,YMF,3668,"Eggplant, Japanese",10,3425,3802,0,True,False
+8/29/2022,LFF,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/29/2022,CTH,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+8/29/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,0,True,False
+8/29/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+8/29/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36,False,True
+8/29/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+8/29/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0,False,False
+8/29/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,12,False,False
+8/29/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/29/2022,CBS,3201,"Tomatoes, Roma",15,4050,4496,0,True,True
+8/29/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+8/29/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,10,True,False
+8/29/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+8/29/2022,KHF,3668,"Eggplant, Japanese",10,3425,3802,10,False,False
+8/29/2022,SRF,3759,"Onions, Bulb",20,4625,5134,0,True,False
+8/29/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+8/29/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,2400,2664,22,False,False
+8/29/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+8/29/2022,MLG,3759,"Onions, Bulb",10,4625,5134,10,False,False
+8/29/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,0,False,False
+8/29/2022,CHO,3458,"Peppers, Habanero",10,4050,4496,0,False,True
+8/29/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+8/29/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,0,False,True
+8/29/2022,MFP,3759,"Onions, Bulb",10,4625,5134,0,False,False
+8/29/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/29/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+8/29/2022,PBY,3668,"Eggplant, Japanese",10,3425,3802,10,False,False
+8/29/2022,TEB,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,12,False,True
+8/29/2022,CMU,3132,"Carrots, Rainbow",11,3675,4079,0,False,False
+8/29/2022,RSV,3755,"Carrots, Orange",22,3675,4079,22,False,False
+8/29/2022,CBS,3404,Tomatillos,66,3275,3635,66,True,True
+8/29/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,2,False,False
+8/29/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+8/29/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+8/29/2022,MFP,3458,"Peppers, Habanero",10,4050,4496,10,False,False
+8/29/2022,CAL,3201,"Tomatoes, Roma",15,4050,4496,15,True,True
+8/29/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+8/29/2022,D2D,3754,"Cabbage, Red",5,4075,4523,5,True,True
+8/8/2022,KSL,3362,"Cucumbers, Pickling",11,2400,2664,0,False,False
+8/8/2022,YMF,3754,"Cabbage, Red",5,4075,4523,0,True,False
+8/8/2022,RSV,3809,"Beans, Green, Yellow or Purple",6,7100,7881,0,False,False
+8/8/2022,HAF,3809,"Beans, Green, Yellow or Purple",5,7100,7881,5,False,True
+8/8/2022,ONC,3754,"Cabbage, Red",5,4075,4523,5,False,False
+8/8/2022,YMF,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,True,False
+8/8/2022,D2D,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,True,True
+8/8/2022,SXF,3362,"Cucumbers, Pickling",11,2400,2664,11,False,False
+8/8/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,0,False,True
+8/8/2022,CMA,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/8/2022,LEE,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,,
+8/8/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+8/8/2022,CBO,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/8/2022,NTN,3809,"Beans, Green, Yellow or Purple",15,7100,7881,15,False,False
+8/8/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,0,True,True
+8/8/2022,KHF,3759,"Onions, Bulb",10,4625,5134,0,False,False
+8/8/2022,D2D,3813,"Greens, Kale-24 ct",5,4275,4745,5,True,True
+8/8/2022,NTN,3813,"Greens, Kale-24 ct",10,4275,4745,0,False,False
+8/8/2022,CBS,3404,Tomatillos,66,3275,3635,0,True,True
+8/8/2022,HAF,3362,"Cucumbers, Pickling",11,2400,2664,6,False,True
+8/8/2022,LFF,3153,"Peppers, Jalapeño",10,3000,3329,5,True,False
+8/8/2022,MMO,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/8/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,0,True,True
+8/8/2022,SRF,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,True,False
+8/8/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,False
+8/8/2022,CHO,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,False,True
+8/8/2022,LOF,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/8/2022,CLP,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+8/8/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/8/2022,PZM,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+8/8/2022,CHO,3362,"Cucumbers, Pickling",11,2400,2664,0,False,True
+8/8/2022,CMA,3754,"Cabbage, Red",5,4075,4523,5,False,False
+8/8/2022,D2D,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,True,True
+8/8/2022,MFP,3759,"Onions, Bulb",10,4625,5134,0,False,False
+8/8/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,0,True,True
+8/8/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+8/8/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,False
+8/8/2022,JWI,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+8/8/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+8/8/2022,CLP,3813,"Greens, Kale-24 ct",10,4275,4745,10,False,True
+8/8/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,7100,7881,10,False,False
+8/8/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+8/8/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0,False,True
+8/8/2022,AGF,3404,Tomatillos,46,3275,3635,0,True,True
+8/8/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,False
+8/8/2022,KHF,3153,"Peppers, Jalapeño",12,3000,3329,0,False,False
+8/8/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+8/8/2022,MHG,3362,"Cucumbers, Pickling",11,2400,2664,11,True,True
+8/8/2022,SRF,3759,"Onions, Bulb",10,4625,5134,10,True,False
+8/8/2022,MLG,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0,False,False
+8/8/2022,LDX,3754,"Cabbage, Red",5,4075,4523,0,True,False
+8/8/2022,MLG,3759,"Onions, Bulb",10,4625,5134,10,False,False
+8/8/2022,CBS,3404,Tomatillos,20,3275,3635,0,True,True
+8/8/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,0,False,False
+9/12/2022,LFF,3458,"Peppers, Habanero",25,4050,4496,3,True,False
+9/12/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/12/2022,AGF,3759,"Onions, Bulb",20,4625,5134,20,True,True
+9/12/2022,KAL,3132,"Carrots, Rainbow",22,3675,4079,0,False,False
+9/12/2022,YMF,3668,"Eggplant, Japanese",10,3425,3802,10,True,False
+9/12/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+9/12/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,0,True,True
+9/12/2022,KHF,3668,"Eggplant, Japanese",10,3425,3802,0,False,False
+9/12/2022,KSL,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+9/12/2022,KHF,3153,"Peppers, Jalapeño",12,3000,3329,12,False,False
+9/12/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,True,True
+9/12/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+9/12/2022,CAL,3201,"Tomatoes, Roma",15,4050,4496,10,True,True
+9/12/2022,CBO,3138,"Greens, Collard-24 ct",5,4275,4745,5,False,False
+9/12/2022,MFP,3759,"Onions, Bulb",10,4625,5134,10,False,False
+9/12/2022,CHO,3458,"Peppers, Habanero",10,4050,4496,0,False,True
+9/12/2022,CAL,3759,"Onions, Bulb",20,4625,5134,0,True,True
+9/12/2022,CMU,3132,"Carrots, Rainbow",11,3675,4079,11,False,False
+9/12/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,20,True,False
+9/12/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,True
+9/12/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+9/12/2022,MLG,3759,"Onions, Bulb",10,4625,5134,10,False,False
+9/12/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+9/12/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0,False,False
+9/12/2022,MLG,3755,"Carrots, Orange",22,3675,4079,22,False,False
+9/12/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10,False,False
+9/12/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/12/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+9/12/2022,CMU,3138,"Greens, Collard-24 ct",10,4275,4745,5,False,False
+9/12/2022,MHA,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+9/12/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,True
+9/12/2022,LFF,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+9/12/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,2400,2664,22,False,False
+9/12/2022,MFP,3153,"Peppers, Jalapeño",10,3000,3329,10,False,False
+9/12/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+9/12/2022,PLT,3668,"Eggplant, Japanese",10,3425,3802,10,False,False
+9/12/2022,SRF,3201,"Tomatoes, Roma",18,4050,4496,18,True,False
+9/12/2022,YMF,3132,"Carrots, Rainbow",11,3675,4079,0,True,False
+9/12/2022,YMF,3755,"Carrots, Orange",11,3675,4079,11,True,False
+9/12/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/12/2022,RSV,3755,"Carrots, Orange",22,3675,4079,22,False,False
+9/12/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/12/2022,MFP,3828,"Peppers, Green Bell",10,4075,4523,10,False,False
+9/12/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,True
+9/12/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36,False,True
+9/12/2022,CBS,3201,"Tomatoes, Roma",24,4050,4496,0,True,True
+9/12/2022,MFP,3458,"Peppers, Habanero",10,4050,4496,10,False,False
+9/12/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,True,True
+9/12/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,False,True
+9/12/2022,LDX,3458,"Peppers, Habanero",11,4050,4496,11,True,False
+9/12/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,True,True
+9/12/2022,LEE,3828,"Peppers, Green Bell",10,4075,4523,10,,
+9/12/2022,CMU,3755,"Carrots, Orange",11,3675,4079,11,False,False
+9/12/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50,False,False
+9/12/2022,PBY,3592,Broccoli,27,3700,4107,16,False,False
+9/12/2022,CMA,3138,"Greens, Collard-24 ct",5,4275,4745,5,False,False
+9/12/2022,PBY,3201,"Tomatoes, Roma",9,4050,4496,9,False,False
+9/12/2022,PBY,3668,"Eggplant, Japanese",10,3425,3802,10,False,False
+9/12/2022,SRF,3759,"Onions, Bulb",10,4625,5134,10,True,False
+9/12/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+9/12/2022,KHF,3759,"Onions, Bulb",10,4625,5134,0,False,False
+9/12/2022,LVO,3138,"Greens, Collard-24 ct",5,4275,4745,0,True,True
+9/12/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,4050,4496,18,True,False
+9/12/2022,RSV,3755,"Carrots, Orange",10,3675,4079,10,False,False
+9/12/2022,CLP,3668,"Eggplant, Japanese",10,3425,3802,10,False,True
+9/12/2022,JWI,3138,"Greens, Collard-24 ct",5,4275,4745,0,False,False
+9/12/2022,PLT,3458,"Peppers, Habanero",10,4050,4496,10,False,False
+9/12/2022,D2D,3138,"Greens, Collard-24 ct",10,4275,4745,10,True,True
+9/12/2022,CTH,3202,"Tomatoes, Slicing",15,4600,5106,15,False,False
+9/12/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,10,False,False
+9/12/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+9/12/2022,BXF,3138,"Greens, Collard-24 ct",10,4275,4745,0,False,True
+9/12/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+9/12/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+9/19/2022,MHA,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+9/19/2022,PZM,3828,"Peppers, Green Bell",10,4075,4523,10,True,False
+9/19/2022,CHO,3458,"Peppers, Habanero",10,4050,4496,0,False,True
+9/19/2022,CAL,3189,"Squash, Winter, Delicata",40,4075,4523,40,True,True
+9/19/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+9/19/2022,KHF,3153,"Peppers, Jalapeño",12,3000,3329,12,False,False
+9/19/2022,CBS,3201,"Tomatoes, Roma",15,4050,4496,0,True,True
+9/19/2022,AGF,3201,"Tomatoes, Roma",10,4050,4496,10,True,True
+9/19/2022,LEE,3828,"Peppers, Green Bell",10,4075,4523,10,,
+9/19/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,True
+9/19/2022,CAL,3759,"Onions, Bulb",20,4625,5134,0,True,True
+9/19/2022,PBY,3201,"Tomatoes, Roma",10,4050,4496,10,False,False
+9/19/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,10,True,False
+9/19/2022,AGF,3189,"Squash, Winter, Delicata",60,4075,4523,60,True,True
+9/19/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0,False,False
+9/19/2022,PZM,3458,"Peppers, Habanero",10,4050,4496,10,True,False
+9/19/2022,CAL,3189,"Squash, Winter, Delicata",20,4075,4523,20,True,True
+9/19/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/19/2022,LFF,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+9/19/2022,PZM,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+9/19/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/19/2022,PLT,3458,"Peppers, Habanero",10,4050,4496,10,False,False
+9/19/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/19/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,True,True
+9/19/2022,KHF,3201,"Tomatoes, Roma",36,4050,4496,36,False,False
+9/19/2022,KSL,3202,"Tomatoes, Slicing",15,4600,5106,0,False,False
+9/19/2022,LDX,3458,"Peppers, Habanero",11,4050,4496,0,True,False
+9/19/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,10,False,False
+9/19/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+9/19/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,4050,4496,18,True,False
+9/19/2022,AGF,3189,"Squash, Winter, Delicata",30,4075,4523,30,True,True
+9/19/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,True,True
+9/19/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,8,True,True
+9/19/2022,KHF,3759,"Onions, Bulb",10,4625,5134,0,False,False
+9/19/2022,AGF,3759,"Onions, Bulb",20,4625,5134,0,True,True
+9/19/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,False,True
+9/19/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+9/19/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/19/2022,SRF,3759,"Onions, Bulb",10,4625,5134,10,True,False
+9/19/2022,CTH,3202,"Tomatoes, Slicing",15,4600,5106,15,False,False
+9/19/2022,MFP,3759,"Onions, Bulb",10,4625,5134,10,False,False
+9/19/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,12,True,True
+9/19/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+9/19/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36,False,True
+9/19/2022,CBS,3201,"Tomatoes, Roma",10,4050,4496,0,True,True
+9/19/2022,MLG,3759,"Onions, Bulb",10,4625,5134,10,False,False
+9/19/2022,LFF,3458,"Peppers, Habanero",25,4050,4496,5,True,False
+9/26/2022,YMF,3200,"Tomatoes, Grape, 12 ct Pint",18,4050,4496,16,True,False
+9/26/2022,PBY,3201,"Tomatoes, Roma",9,4050,4496,9,False,False
+9/26/2022,AGF,3449,"Peppers, Poblano",10,4625,5134,0,True,True
+9/26/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,0,True,True
+9/26/2022,MFP,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+9/26/2022,CBS,3201,"Tomatoes, Roma",14,4050,4496,0,True,True
+9/26/2022,CHO,3449,"Peppers, Poblano",10,4625,5134,0,False,True
+9/26/2022,MFP,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+9/26/2022,SRF,3201,"Tomatoes, Roma",30,4050,4496,30,True,False
+9/26/2022,CHO,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10,False,True
+9/26/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+9/26/2022,PZM,3573,"Greens, Bok Choi",10,4625,5134,0,True,False
+9/26/2022,CAL,3189,"Squash, Winter, Delicata",65,4075,4523,5,True,True
+9/26/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+9/26/2022,MHG,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,0,True,True
+9/26/2022,PZM,3573,"Greens, Bok Choi",10,4625,5134,0,True,False
+9/26/2022,MFP,3573,"Greens, Bok Choi",10,4625,5134,10,False,False
+9/26/2022,AGF,3189,"Squash, Winter, Delicata",60,4075,4523,0,True,True
+9/26/2022,KHF,3201,"Tomatoes, Roma",18,4050,4496,0,False,False
+9/26/2022,TEB,3573,"Greens, Bok Choi",10,4625,5134,10,False,True
+9/26/2022,PZM,3449,"Peppers, Poblano",10,4625,5134,10,True,False
+9/26/2022,TEB,3573,"Greens, Bok Choi",10,4625,5134,0,False,True
+9/26/2022,NTN,3449,"Peppers, Poblano",20,4625,5134,20,False,False
+9/26/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,0,True,True
+9/26/2022,PBY,3189,"Squash, Winter, Delicata",25,4075,4523,25,False,False
+9/26/2022,PZM,3573,"Greens, Bok Choi",10,4625,5134,0,True,False
+9/5/2022,TXI,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+9/5/2022,MFP,3828,"Peppers, Green Bell",8,4075,4523,0,False,False
+9/5/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,0,False,True
+9/5/2022,SXF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,0,False,False
+9/5/2022,SRF,3759,"Onions, Bulb",10,4625,5134,10,True,False
+9/5/2022,CMU,3755,"Carrots, Orange",22,3675,4079,11,False,False
+9/5/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+9/5/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,5,False,False
+9/5/2022,KHF,3153,"Peppers, Jalapeño",12,3000,3329,12,False,False
+9/5/2022,NTN,3813,"Greens, Kale-24 ct",10,4275,4745,10,False,False
+9/5/2022,CLP,3813,"Greens, Kale-24 ct",10,4275,4745,5,False,True
+9/5/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,False
+9/5/2022,KHF,3201,"Tomatoes, Roma",36,4050,4496,36,False,False
+9/5/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+9/5/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,11,True,True
+9/5/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,False
+9/5/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11,False,False
+9/5/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20,True,False
+9/5/2022,MLG,3759,"Onions, Bulb",10,4625,5134,0,False,False
+9/5/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,0,False,True
+9/5/2022,AGF,3201,"Tomatoes, Roma",10,4050,4496,7,True,True
+9/5/2022,KHF,3202,"Tomatoes, Slicing",30,4600,5106,30,False,False
+9/5/2022,RSV,3755,"Carrots, Orange",22,3675,4079,0,False,False
+9/5/2022,CLP,3717,"Eggplant, Globe",10,3700,4107,10,False,True
+9/5/2022,BXF,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+9/5/2022,SRF,3759,"Onions, Bulb",20,4625,5134,10,True,False
+9/5/2022,KHF,3759,"Onions, Bulb",10,4625,5134,0,False,False
+9/5/2022,LFF,3458,"Peppers, Habanero",25,4050,4496,0,True,False
+9/5/2022,MLG,3755,"Carrots, Orange",22,3675,4079,0,False,False
+9/5/2022,PZM,3458,"Peppers, Habanero",10,4050,4496,0,True,False
+9/5/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,14,False,False
+9/5/2022,CHO,3458,"Peppers, Habanero",10,4050,4496,0,False,True
+9/5/2022,YMF,3755,"Carrots, Orange",11,3675,4079,11,True,False
+9/5/2022,CMA,3813,"Greens, Kale-24 ct",5,4275,4745,0,False,False
+9/5/2022,MHA,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+9/5/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,0,False,False
+9/5/2022,KAL,3755,"Carrots, Orange",22,3675,4079,0,False,False
+9/5/2022,PLT,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,20,False,False
+9/5/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,0,True,True
+9/5/2022,YMF,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,14,True,False
+9/5/2022,LOF,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+9/5/2022,BXF,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+9/5/2022,CVP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+9/5/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+9/5/2022,PBY,3717,"Eggplant, Globe",15,3700,4107,15,False,False
+9/5/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+9/5/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,False
+9/5/2022,PLT,3458,"Peppers, Habanero",10,4050,4496,0,False,False
+9/5/2022,PBY,3201,"Tomatoes, Roma",10,4050,4496,1,False,False
+9/5/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,True
+9/5/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+9/5/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,14,False,False
+9/5/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+9/5/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50,False,False
+9/5/2022,YMF,3717,"Eggplant, Globe",10,3700,4107,10,True,False
+9/5/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
+9/5/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,0,False,False
+9/5/2022,KHF,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,False
+9/5/2022,LDX,3458,"Peppers, Habanero",11,4050,4496,0,True,False
+9/5/2022,TXI,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12,False,False
+9/5/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,False
+9/5/2022,CBS,3201,"Tomatoes, Roma",10,4050,4496,0,True,True
+9/5/2022,CBO,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+9/5/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0,False,False
+9/5/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,2400,2664,0,False,False
+9/5/2022,CHO,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+9/5/2022,CMU,3755,"Carrots, Orange",11,3675,4079,0,False,False
+9/5/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,20,True,False
+9/5/2022,LEE,3828,"Peppers, Green Bell",10,4075,4523,0,,
+9/5/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0,False,True
+9/5/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+9/5/2022,SRF,3759,"Onions, Bulb",20,4625,5134,0,True,False
+9/5/2022,LFF,3153,"Peppers, Jalapeño",10,3000,3329,10,True,False
+9/5/2022,MMO,3813,"Greens, Kale-24 ct",5,4275,4745,5,False,False
+9/5/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,6,False,False
+9/5/2022,D2D,3813,"Greens, Kale-24 ct",5,4275,4745,5,True,True
+9/5/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0,False,True
+9/5/2022,MFP,3759,"Onions, Bulb",10,4625,5134,10,False,False
+9/5/2022,CLP,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+9/5/2022,D2D,3754,"Cabbage, Red",5,4075,4523,5,True,True
+9/5/2022,PZM,3153,"Peppers, Jalapeño",10,3000,3329,0,True,False
+9/5/2022,JWI,3813,"Greens, Kale-24 ct",5,4275,4745,0,False,False
+9/5/2022,HOP,3717,"Eggplant, Globe",10,3700,4107,10,True,False
+9/5/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,0,True,False
+9/5/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0,False,True
+9/5/2022,TEB,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,10,False,True
+9/5/2022,CHO,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0,False,True
+9/5/2022,NTN,3755,"Carrots, Orange",22,3675,4079,22,False,False
+9/5/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0,False,False
