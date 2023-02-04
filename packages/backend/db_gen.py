@@ -33,6 +33,7 @@ class Planned(Base):
     prod_id = Column(Integer)
     cost = Column(Integer)
     quantity = Column(Integer)
+    quantity_fulfilled = Column(Integer) # Added
     producer_id = Column(Integer, ForeignKey('producer.id',ondelete="CASCADE"))
     
 
@@ -53,7 +54,7 @@ def plan_to_db(row):
         producer = Producer(code=row["Producer Code"])
         session.add(producer)
         session.flush()
-    plan = Planned(date=datetime.strptime(row["Delivery Week"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Cost"],producer_id=producer.id)
+    plan = Planned(date=datetime.strptime(row["Delivery Week"],"%m/%d/%Y"),prod_id=row["Product ID"],quantity=row["Quantity"],cost=row["Cost"],quantity_fulfilled=row["Fulfilled"],producer_id=producer.id)
     session.add(plan)
     session.commit()
     print(f"Added Plan {plan.id}")
@@ -76,7 +77,7 @@ if __name__ == "__main__":
     Base.metadata.create_all(engine)
     print("Wiped Date, Regenning")
     orders = ["clean/FY21 LFM Order Items.csv","clean/FY22_LFM_Order_Items_Updated.csv"]
-    plannings = ["clean/FY21 Planning Items.csv","clean/FY22_Planning_Items_Updated.csv"]
+    plannings = ["analysis/FY21 Planning Items.csv","analysis/FY22_Planning_Items_Updated.csv"]
     for order in orders:
         df = pd.read_csv(order)
         df.apply(order_to_db,axis=1)
