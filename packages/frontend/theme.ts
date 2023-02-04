@@ -23,5 +23,10 @@ export default extendTheme({
     Heading: {
       baseStyle: {},
     },
+    Td: {
+      baseStyle: {
+        padding: "0px !important",
+      },
+    },
   },
 });
