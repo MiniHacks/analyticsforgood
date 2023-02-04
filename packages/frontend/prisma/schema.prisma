@@ -16,6 +16,7 @@ model producer {
   OTIF           Int
   OT             Int
   FA             Int
+  total          Int
   land_ownership Boolean?
   water_access   Boolean?
   orders         order[]
@@ -27,6 +28,7 @@ model product {
   OTIF   Int
   OT     Int
   FA     Int
+  total  Int
   orders order[]
   dists  planned[]
 }

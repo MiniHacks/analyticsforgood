@@ -16,6 +16,7 @@ class Producer(Base):
     OTIF = Column(Integer, default=0)
     OT = Column(Integer, default=0)
     FA = Column(Integer, default=0)
+    total = Column(Integer, default=0)
     orders = relationship('Order',backref="producer")
     dists = relationship('Planned',backref="producer")
 
@@ -25,6 +26,7 @@ class Product(Base):
     OTIF = Column(Integer, default=0)
     OT = Column(Integer, default=0)
     FA = Column(Integer, default=0)
+    total = Column(Integer, default=0)
     orders = relationship('Order',backref="product")
     dists = relationship('Planned',backref="product")
 
@@ -77,18 +79,21 @@ def plan_to_db(row):
             water_access=mapping.get("Access to Water").get(row["Producer Code"]),
             OTIF = 1*(row["Quantity"] == row["Fulfilled"]),
             OT = 1*(row["Fulfilled"] > 0),
-            FA = 1*(row["Quantity"] == row["Fulfilled"])
+            FA = 1*(row["Quantity"] == row["Fulfilled"]),
+            total = 1
         )
     else:
         producer.OTIF += 1*(row["Quantity"] == row["Fulfilled"])
         producer.OT += 1*(row["Fulfilled"] > 0)
         producer.FA += 1*(row["Quantity"] == row["Fulfilled"])
+        producer.total += 1
     if (product == None):
-        product = Product(id=row["Product ID"],OTIF = 1*(row["Quantity"] == row["Fulfilled"]),OT = 1*(row["Fulfilled"] > 0),FA = 1*(row["Quantity"] == row["Fulfilled"]))
+        product = Product(id=row["Product ID"],OTIF = 1*(row["Quantity"] == row["Fulfilled"]),OT = 1*(row["Fulfilled"] > 0),FA = 1*(row["Quantity"] == row["Fulfilled"]),total = 1)
     else:
         product.OTIF += 1*(row["Quantity"] == row["Fulfilled"])
         product.OT += 1*(row["Fulfilled"] > 0)
         product.FA += 1*(row["Quantity"] == row["Fulfilled"])
+        product.total += 1
     session.add(product)
     session.add(producer)
     session.flush()
