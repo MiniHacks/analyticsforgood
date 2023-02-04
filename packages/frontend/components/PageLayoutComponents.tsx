@@ -12,7 +12,7 @@ const PageLayoutComponents = (): JSX.Element => {
         justifyContent={"center"}
         alignItems={"center"}
       >
-        <HStack justifyContent={"space-between"} mr={"100px"} ml={"50px"}>
+        <HStack justifyContent={"space-between"} mr={"100px"}>
           <VStack>
             <Heading fontSize={"50px"}>What We Do</Heading>
             <Text fontFamily={"Poppins"} fontWeight={"300"} px={"20%"}>
