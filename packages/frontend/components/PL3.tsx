@@ -13,7 +13,7 @@ const PL3 = (): JSX.Element => {
         alignItems={"center"}
       >
         <HStack justifyContent={"space-between"} mr={"100px"} ml={"20px"}>
-          <Image src={"GraphicAly.png"} px={"10%"} maxWidth={"850px"} />
+          <Image src={"https://i.imgur.com/KumyAse.png"} px={"10%"} maxWidth={"850px"} />
           <VStack>
             <Heading fontSize={"50px"}>Problem</Heading>
             <Text fontFamily={"Poppins"} fontWeight={"300"} px={8} py={3}>
