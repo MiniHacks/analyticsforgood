@@ -13,6 +13,18 @@ datasource db {
 model producer {
   id     Int       @id @default(autoincrement())
   code   String    @unique
+  OTIF   Int
+  OT     Int
+  FA     Int
+  orders order[]
+  dists  planned[]
+}
+
+model product {
+  id     Int       @id 
+  OTIF   Int
+  OT     Int
+  FA     Int
   orders order[]
   dists  planned[]
 }
@@ -26,6 +38,8 @@ model order {
   price       Int
   producer    producer @relation(fields: [producer_id], references: [id])
   producer_id Int
+  product     product @relation(fields: [product_id], references: [id])
+  product_id  Int
 }
 
 model planned {
@@ -37,4 +51,6 @@ model planned {
   quantity_fulfilled Int
   producer    producer @relation(fields: [producer_id], references: [id])
   producer_id Int
+  product     product @relation(fields: [product_id], references: [id])
+  product_id  Int
 }
