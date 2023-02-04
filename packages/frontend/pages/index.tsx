@@ -6,6 +6,7 @@ import GetStarted from "../components/Layout/GetStarted";
 import ExampleBox from "../components/Layout/ExampleBox";
 import PageLayoutComponents from "../components/PageLayoutComponents";
 import PL2 from "../components/PL2";
+import PL3 from "../components/PL3";
 import Credits from "../components/CreditBox";
 import { useSession, signIn, signOut } from "next-auth/react";
 
@@ -145,6 +146,7 @@ const Home: NextPage = () => {
                     </Box>
                 </VStack>
             </Box>
+            <PL3/>
             <PageLayoutComponents />
             <PL2 />
             <Credits />

@@ -19,8 +19,8 @@ const Credits = (): JSX.Element => {
             <Text fontFamily={"Inter"}>
               Hacked together by{" "}
               <Button
-                color={"brand.600"}
-                fontWeight={"200"}
+                color={"black"}
+                fontWeight={"600"}
                 variant={"link"}
                 as={"a"}
                 target={"_blank"}
@@ -31,8 +31,8 @@ const Credits = (): JSX.Element => {
               </Button>
               ,{"  "}
               <Button
-                color={"brand.600"}
-                fontWeight={"200"}
+                color={"black"}
+                fontWeight={"600"}
                 variant={"link"}
                 as={"a"}
                 target={"_blank"}
@@ -42,8 +42,8 @@ const Credits = (): JSX.Element => {
               </Button>
               ,{"  "}
               <Button
-                color={"brand.600"}
-                fontWeight={"200"}
+                color={"black"}
+                fontWeight={"600"}
                 variant={"link"}
                 as={"a"}
                 target={"_blank"}
@@ -53,8 +53,8 @@ const Credits = (): JSX.Element => {
               </Button>
               ,{"  "}
               <Button
-                color={"brand.600"}
-                fontWeight={"200"}
+                color={"black"}
+                fontWeight={"600"}
                 variant={"link"}
                 as={"a"}
                 target={"_blank"}
@@ -64,8 +64,8 @@ const Credits = (): JSX.Element => {
               </Button>
               , and {"  "}
               <Button
-                color={"brand.600"}
-                fontWeight={"200"}
+                color={"black"}
+                fontWeight={"600"}
                 variant={"link"}
                 as={"a"}
                 target={"_blank"}
@@ -79,8 +79,8 @@ const Credits = (): JSX.Element => {
             <Text fontFamily={"Inter"}>
               Star us on{"  "}
               <Button
-                color={"brand.600"}
-                fontWeight={"200"}
+                color={"black"}
+                fontWeight={"600"}
                 variant={"link"}
                 as={"a"}
                 target={"_blank"}
