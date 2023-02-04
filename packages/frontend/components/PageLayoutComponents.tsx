@@ -5,16 +5,16 @@ const PageLayoutComponents = (): JSX.Element => {
   return (
     <Box>
       <HStack
-        marginTop={"100px"}
+        marginTop={"300px"}
         w={"100%"}
         h={"600px"}
-        bg={"brand.200"}
+        bg={"white"}
         justifyContent={"center"}
         alignItems={"center"}
       >
         <HStack justifyContent={"space-between"} mr={"100px"} ml={"50px"}>
           <VStack>
-            <Heading fontSize={"50px"}>Lorem ipsum</Heading>
+            <Heading fontSize={"50px"}>What We Do</Heading>
             <Text fontFamily={"Poppins"} fontWeight={"300"} px={"20%"}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
               vitae tincidunt nibh. Sed tempus augue nulla, nec luctus arcu
