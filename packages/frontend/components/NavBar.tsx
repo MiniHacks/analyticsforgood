@@ -24,6 +24,11 @@ const NavBar = (): JSX.Element => {
                 colorScheme={"white"}
                 color={"brand.600"}
                 onClick={() => window.open("https://accounts.google.com/o/oauth2/auth", "_blank")}
+          _hover={{
+            boxShadow: "3px 3px 0px #CEECEF !important",
+            backgroundColor: "brand.200",
+            transform: "translate(3px, 4px)",
+          }}
               >
                 Login
               </Button>
@@ -46,9 +51,13 @@ const NavBar = (): JSX.Element => {
             fontWeight={"200"}
             fontFamily={"Poppins"}
             fontSize={"18px"}
-            borderRadius={"25px"}
             colorScheme={"white"}
             color={"brand.600"}
+            _hover={{
+              boxShadow: "3px 3px 0px #CEECEF !important",
+              backgroundColor: "brand.200",
+              transform: "translate(3px, 4px)",
+            }}
           >
             Get Started
           </Button>
