@@ -67,14 +67,14 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 10/18/2021,CVP,3171,"Potatoes, Yellow",10,5000,0
 10/18/2021,MHG,3178,"Radishes, Daikon",25,3000,0
 10/18/2021,PBY,3613,"Beets, Bulk",16,2631,16
-10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,2465,32
+10/18/2021,SGC,3188,"Squash, Winter, Butternut",25,2465,25
 10/18/2021,CLP,3613,"Beets, Bulk",16,2631,16
 10/18/2021,PBY,3592,Broccoli,42,3145,0
 10/18/2021,MHG,3613,"Beets, Bulk",16,2631,0
 10/18/2021,CBS,3188,"Squash, Winter, Butternut",25,2465,25
 10/18/2021,NTN,3171,"Potatoes, Yellow",10,5000,0
 10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,2465,25
-10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,2465,17
+10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,2465,24
 10/25/2021,LXF,3132,"Carrots, Rainbow Bulk",24,3162,0
 10/25/2021,LXF,3132,"Carrots, Rainbow Bulk",60,3162,0
 10/25/2021,HAF,3755,"Carrots, Orange Bulk",12,3162,0
@@ -93,7 +93,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 10/25/2021,YMF,3132,"Carrots, Rainbow Bulk",12,3162,0
 10/25/2021,MHG,3178,"Radishes, Daikon",25,3000,0
 10/25/2021,SGC,3188,"Squash, Winter, Butternut",25,2465,0
-10/25/2021,YMF,3178,"Radishes, Daikon",25,3000,26
+10/25/2021,YMF,3178,"Radishes, Daikon",25,3000,25
 10/4/2021,WKH,3132,"Carrots, Rainbow Bulk",12,3162,0
 10/4/2021,CBS,3188,"Squash, Winter, Butternut",25,2465,0
 10/4/2021,LXF,3759,"Onions, Bulb",20,4000,20
@@ -140,7 +140,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 11/1/2021,SGC,3759,"Onions, Bulb",20,4000,0
 11/1/2021,SXF,3759,"Onions, Bulb",20,4000,0
 11/1/2021,SEE,3188,"Squash, Winter, Butternut",68,2465,30
-11/1/2021,YMF,3178,"Radishes, Daikon",25,3000,4
+11/1/2021,YMF,3178,"Radishes, Daikon",25,3000,5
 11/1/2021,YMF,3759,"Onions, Bulb",20,4000,0
 11/1/2021,AFC,3754,Cabbage,5,3400,0
 11/1/2021,SGC,3754,Cabbage,15,3400,0
@@ -265,9 +265,9 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 7/12/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000,11
 7/12/2021,SGC,3361,"Cucumbers, Slicing",6,2000,6
 7/12/2021,MHG,3278,"Radishes, bunched-24 ct",5,3375,0
-7/12/2021,KLF,3278,"Radishes, bunched-24 ct",20,3375,28
+7/12/2021,KLF,3278,"Radishes, bunched-24 ct",20,3375,20
 7/12/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000,3
-7/12/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000,45
+7/12/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000,30
 7/12/2021,HAF,3138,"Greens, Collard-24 ct",38,3600,38
 7/12/2021,MLG,3138,"Greens, Collard-24 ct",10,3600,7
 7/19/2021,CBS,3361,"Cucumbers, Slicing",30,2000,7
@@ -276,7 +276,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 7/19/2021,WKH,3184,"Squash, Summer, Zucchini",15,2000,0
 7/19/2021,D2D,3278,"Radishes, bunched-24 ct",5,3375,2
 7/19/2021,CBS,3278,"Radishes, bunched-24 ct",20,3375,4
-7/19/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000,55
+7/19/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000,30
 7/19/2021,SGC,3184,"Squash, Summer, Zucchini",6,2000,6
 7/19/2021,SEE,3202,"Tomatoes, Slicing",23,4000,23
 7/19/2021,UNK,3754,Cabbage,10,3400,0
@@ -284,32 +284,32 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 7/19/2021,MHG,3361,"Cucumbers, Slicing",30,2000,0
 7/19/2021,CHO,3361,"Cucumbers, Slicing",30,2000,0
 7/19/2021,D2D,3184,"Squash, Summer, Zucchini",30,2000,9
-7/19/2021,KLF,3278,"Radishes, bunched-24 ct",20,3375,24
+7/19/2021,KLF,3278,"Radishes, bunched-24 ct",20,3375,20
 7/19/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000,3
 7/19/2021,CLP,3361,"Cucumbers, Slicing",6,2000,6
 7/19/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000,0
 7/19/2021,LXF,3361,"Cucumbers, Slicing",30,2000,0
 7/19/2021,CHO,3754,Cabbage,10,3400,0
 7/19/2021,SGC,3361,"Cucumbers, Slicing",6,2000,6
-7/19/2021,WKH,3361,"Cucumbers, Slicing",30,2000,31
+7/19/2021,WKH,3361,"Cucumbers, Slicing",30,2000,30
 7/19/2021,NTN,3813,"Greens, Kale-24 ct",10,3600,10
 7/19/2021,D2D,3813,"Greens, Kale-24 ct",10,3600,10
 7/19/2021,HAF,3364,"Greens, Mustard-24 ct",38,3600,0
 7/19/2021,CHO,3813,"Greens, Kale-24 ct",10,3600,0
-7/19/2021,WKH,3361,"Cucumbers, Slicing",15,2000,0
+7/19/2021,WKH,3361,"Cucumbers, Slicing",15,2000,1
 7/19/2021,CLP,3813,"Greens, Kale-24 ct",10,3600,10
 7/19/2021,PLT,3813,"Greens, Kale-24 ct",10,3600,10
 7/26/2021,UNK,3759,"Onions, Bulb",10,4000,0
 7/26/2021,WKH,3361,"Cucumbers, Slicing",30,2000,0
 7/26/2021,POG,9999,Cilantro,38,3600,0
 7/26/2021,D2D,3184,"Squash, Summer, Zucchini",30,2000,10
-7/26/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000,50
+7/26/2021,LXF,3184,"Squash, Summer, Zucchini",30,2000,30
 7/26/2021,CHO,3361,"Cucumbers, Slicing",30,2000,0
 7/26/2021,MLG,3401,"Beans, Green, Yellow or Purple",15,6250,15
 7/26/2021,MKV,3759,"Onions, Bulb",15,4000,0
 7/26/2021,MLP,3759,"Onions, Bulb",15,4000,0
 7/26/2021,CLP,3361,"Cucumbers, Slicing",6,2000,6
-7/26/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,6250,28
+7/26/2021,PBY,3401,"Beans, Green, Yellow or Purple",15,6250,15
 7/26/2021,AFC,3184,"Squash, Summer, Zucchini",6,2000,6
 7/26/2021,MHG,3184,"Squash, Summer, Zucchini",30,2000,0
 7/26/2021,SGC,3828,"Peppers, Green Bell",15,3500,0
@@ -320,11 +320,11 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 7/26/2021,WKH,3184,"Squash, Summer, Zucchini",30,2000,0
 7/26/2021,SGC,3361,"Cucumbers, Slicing",6,2000,6
 7/26/2021,CBS,3153,"Peppers, Jalapeño",6,2550,6
-7/26/2021,CBS,3404,Tomatillos,90,2800,155
+7/26/2021,CBS,3404,Tomatillos,90,2800,90
 7/26/2021,D2D,3401,"Beans, Green, Yellow or Purple",15,6250,15
 7/26/2021,SGC,3828,"Peppers, Green Bell",15,3500,0
 7/26/2021,SGC,3184,"Squash, Summer, Zucchini",6,2000,6
-7/26/2021,SEE,3202,"Tomatoes, Slicing",23,4000,34
+7/26/2021,SEE,3202,"Tomatoes, Slicing",23,4000,23
 7/5/2021,WKH,3806,"Lettuce, Head-24 ct",5,3600,0
 7/5/2021,YMF,3401,"Beans, Green, Yellow or Purple",18,6250,0
 7/5/2021,D2D,3278,"Radishes, bunched-24 ct",5,3375,4
@@ -367,8 +367,8 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 8/16/2021,CVP,3166,"Potatoes, Red",10,5000,10
 8/16/2021,LXF,3449,"Peppers, Poblano",36,2500,0
 8/16/2021,NTN,3828,"Peppers, Green Bell",20,3500,20
-8/16/2021,SGC,3153,"Peppers, Jalapeño",20,2550,30
-8/16/2021,SGC,3153,"Peppers, Jalapeño",10,2550,0
+8/16/2021,SGC,3153,"Peppers, Jalapeño",20,2550,20
+8/16/2021,SGC,3153,"Peppers, Jalapeño",10,2550,10
 8/16/2021,MLG,3828,"Peppers, Green Bell",20,3500,20
 8/16/2021,PLT,3153,"Peppers, Jalapeño",8,2550,8
 8/16/2021,SGC,3828,"Peppers, Green Bell",10,3500,4
@@ -475,9 +475,9 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 8/30/2021,CHO,3828,"Peppers, Green Bell",20,3500,6
 8/30/2021,PBY,3166,"Potatoes, Red",10,5000,0
 8/30/2021,CBS,3201,"Tomatoes, Roma",20,3500,0
-8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,3000,20
+8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,3000,18
 8/30/2021,KHF,3202,"Tomatoes, Slicing",13,4000,13
-8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,3000,30
+8/30/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,3000,20
 8/30/2021,YMF,3755,"Carrots, Orange Bulk",30,3162,30
 8/30/2021,SGC,3759,"Onions, Bulb",20,4000,11
 8/30/2021,AFC,3201,"Tomatoes, Roma",6,3500,6
@@ -492,9 +492,9 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 8/30/2021,KHF,3759,"Onions, Bulb",23,4000,0
 8/30/2021,SGC,3828,"Peppers, Green Bell",12,3500,12
 8/30/2021,CBS,3153,"Peppers, Jalapeño",6,2550,6
-8/30/2021,CBS,3153,"Peppers, Jalapeño",20,2550,34
+8/30/2021,CBS,3153,"Peppers, Jalapeño",20,2550,20
 8/30/2021,CHO,3458,"Peppers, Habanero",8,3500,0
-8/30/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000,27
+8/30/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000,16
 8/30/2021,MHG,3200,"Tomatoes, Grape, 12 ct Pint",25,3000,25
 8/30/2021,PLT,3458,"Peppers, Habanero",25,3500,25
 8/30/2021,MKV,3458,"Peppers, Habanero",25,3500,0
@@ -550,7 +550,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/13/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",18,3000,18
 9/13/2021,CVP,3200,"Tomatoes, Grape, 12 ct Pint",16,3000,0
 9/13/2021,SGC,3759,"Onions, Bulb",20,4000,20
-9/13/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,3000,26
+9/13/2021,CHO,3200,"Tomatoes, Grape, 12 ct Pint",20,3000,20
 9/13/2021,MLG,3759,"Onions, Bulb",20,4000,20
 9/13/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000,0
 9/13/2021,MKV,3405,Okra,30,5100,30
@@ -564,7 +564,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/13/2021,CVP,3166,"Potatoes, Red",10,5000,0
 9/13/2021,CLP,3828,"Peppers, Green Bell",10,3500,10
 9/13/2021,SGC,3153,"Peppers, Jalapeño",20,2550,20
-9/13/2021,SGC,3153,"Peppers, Jalapeño",10,2550,16
+9/13/2021,SGC,3153,"Peppers, Jalapeño",10,2550,10
 9/13/2021,LXF,3755,"Carrots, Orange Bulk",36,3162,36
 9/13/2021,NTN,3828,"Peppers, Green Bell",20,3500,20
 9/13/2021,PLT,3153,"Peppers, Jalapeño",8,2550,8
@@ -579,9 +579,9 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/13/2021,NTN,3755,"Carrots, Orange Bulk",30,3162,30
 9/13/2021,HAF,3458,"Peppers, Habanero",8,3500,8
 9/13/2021,YMF,3755,"Carrots, Orange Bulk",15,3162,15
-9/13/2021,SGC,3828,"Peppers, Green Bell",10,3500,15
+9/13/2021,SGC,3828,"Peppers, Green Bell",10,3500,10
 9/13/2021,RSV,3755,"Carrots, Orange Bulk",15,3162,15
-9/13/2021,CHO,3828,"Peppers, Green Bell",20,3500,24
+9/13/2021,CHO,3828,"Peppers, Green Bell",20,3500,20
 9/13/2021,MKV,3166,"Potatoes, Red",10,5000,10
 9/13/2021,LXF,3166,"Potatoes, Red",10,5000,10
 9/13/2021,PBY,3166,"Potatoes, Red",10,5000,0
@@ -622,11 +622,11 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500,10
 9/20/2021,NTN,3828,"Peppers, Green Bell",20,3500,20
 9/20/2021,CLP,3828,"Peppers, Green Bell",10,3500,10
-9/20/2021,CHO,3828,"Peppers, Green Bell",20,3500,0
+9/20/2021,CHO,3828,"Peppers, Green Bell",20,3500,4
 9/20/2021,D2D,3813,"Greens, Kale-24 ct",10,3600,10
 9/20/2021,WKH,3759,"Onions, Bulb",20,4000,20
 9/20/2021,LXF,3132,"Carrots, Rainbow Bulk",24,3162,0
-9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500,11
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500,10
 9/20/2021,SGC,3759,"Onions, Bulb",20,4000,20
 9/20/2021,SGC,3759,"Onions, Bulb",20,4000,20
 9/20/2021,WKH,3132,"Carrots, Rainbow Bulk",12,3162,0
@@ -636,11 +636,11 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/20/2021,PLT,3364,"Greens, Mustard-24 ct",10,3600,0
 9/20/2021,MKV,3405,Okra,30,5100,19
 9/20/2021,LXF,3132,"Carrots, Rainbow Bulk",40,3162,0
-9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500,5
+9/20/2021,SGC,3828,"Peppers, Green Bell",10,3500,10
 9/20/2021,NTN,3171,"Potatoes, Yellow",10,5000,10
 9/20/2021,CHO,3813,"Greens, Kale-24 ct",10,3600,0
 9/20/2021,MKV,3171,"Potatoes, Yellow",10,5000,8
-9/20/2021,NTN,3813,"Greens, Kale-24 ct",10,3600,12
+9/20/2021,NTN,3813,"Greens, Kale-24 ct",10,3600,10
 9/20/2021,PLT,3813,"Greens, Kale-24 ct",10,3600,10
 9/20/2021,KLF,3364,"Greens, Mustard-24 ct",10,3600,10
 9/20/2021,LXF,3171,"Potatoes, Yellow",10,5000,10
@@ -652,7 +652,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/27/2021,AFC,3201,"Tomatoes, Roma",6,3500,0
 9/27/2021,MLP,3592,Broccoli,20,3145,16
 9/27/2021,LXF,3166,"Potatoes, Red",10,5000,10
-9/27/2021,SGC,3201,"Tomatoes, Roma",20,3500,23
+9/27/2021,SGC,3201,"Tomatoes, Roma",20,3500,20
 9/27/2021,SGC,3807,Cauliflower,25,2300,5
 9/27/2021,DTF,3807,Cauliflower,50,2300,0
 9/27/2021,CVP,3166,"Potatoes, Red",10,5000,0
@@ -686,7 +686,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/6/2021,DTF,3202,"Tomatoes, Slicing",53,4000,18
 9/6/2021,HAF,3813,"Greens, Kale-24 ct",8,3600,8
 9/6/2021,CBS,3201,"Tomatoes, Roma",20,3500,0
-9/6/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000,0
+9/6/2021,D2D,3200,"Tomatoes, Grape, 12 ct Pint",16,3000,11
 9/6/2021,D2D,3813,"Greens, Kale-24 ct",8,3600,0
 9/6/2021,MLG,3828,"Peppers, Green Bell",20,3500,0
 9/6/2021,SGC,3828,"Peppers, Green Bell",10,3500,0
@@ -704,7 +704,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Fulfilled
 9/6/2021,CVP,3171,"Potatoes, Yellow",10,5000,0
 9/6/2021,LXF,3171,"Potatoes, Yellow",10,5000,10
 9/6/2021,MKV,3171,"Potatoes, Yellow",10,5000,10
-9/6/2021,CBS,3153,"Peppers, Jalapeño",20,2550,0
+9/6/2021,CBS,3153,"Peppers, Jalapeño",20,2550,14
 9/6/2021,CBS,3201,"Tomatoes, Roma",20,3500,0
 9/6/2021,CLP,3828,"Peppers, Green Bell",10,3500,0
 9/6/2021,WKH,3759,"Onions, Bulb",20,4000,20

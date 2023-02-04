@@ -28,7 +28,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 10/10/2022,AGF,3759,"Onions, Bulb",20,4625,5134,13
 10/10/2022,YMF,3613,"Beets, Bulk",11,3100,3440,11
 10/10/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0
-10/10/2022,MLG,3759,"Onions, Bulb",10,4625,5134,15
+10/10/2022,MLG,3759,"Onions, Bulb",10,4625,5134,10
 10/10/2022,PBY,3573,"Greens, Bok Choi",10,4625,5134,0
 10/17/2022,NTN,3755,"Carrots, Orange",22,3675,4079,0
 10/17/2022,CLP,3613,"Beets, Bulk",11,3100,3440,11
@@ -178,7 +178,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 7/18/2022,JWI,3813,"Greens, Kale-24 ct",5,4275,4745,5
 7/18/2022,PBY,3809,"Beans, Green, Yellow or Purple",10,7100,7881,4
 7/18/2022,MHA,3362,"Cucumbers, Pickling",11,2400,2664,0
-7/18/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,35
+7/18/2022,CHO,3278,"Radishes, bunched-24 ct",20,4350,4829,20
 7/18/2022,CMA,3754,"Cabbage, Red",5,4075,4523,0
 7/18/2022,RSV,3809,"Beans, Green, Yellow or Purple",6,7100,7881,0
 7/18/2022,CLP,3362,"Cucumbers, Pickling",11,2400,2664,0
@@ -189,7 +189,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 7/18/2022,CHO,3182,"Squash, Summer, Patty Pan",22,2400,2664,0
 7/18/2022,ONC,3754,"Cabbage, Red",5,4075,4523,0
 7/18/2022,JWI,3278,"Radishes, bunched-24 ct",10,4350,4829,0
-7/18/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,15
+7/18/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,10
 7/18/2022,JWI,3809,"Beans, Green, Yellow or Purple",7,7100,7881,0
 7/18/2022,RSV,3362,"Cucumbers, Pickling",11,2400,2664,11
 7/18/2022,D2D,3813,"Greens, Kale-24 ct",5,4275,4745,5
@@ -200,7 +200,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 7/25/2022,SXF,3362,"Cucumbers, Pickling",11,2400,2664,11
 7/25/2022,CMU,3138,"Greens, Collard-24 ct",10,4275,4745,10
 7/25/2022,LOF,3813,"Greens, Kale-24 ct",5,4275,4745,5
-7/25/2022,JWI,3138,"Greens, Collard-24 ct",5,4275,4745,9
+7/25/2022,JWI,3138,"Greens, Collard-24 ct",5,4275,4745,5
 7/25/2022,CLP,3813,"Greens, Kale-24 ct",10,4275,4745,10
 7/25/2022,LVO,3138,"Greens, Collard-24 ct",5,4275,4745,1
 7/25/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
@@ -223,7 +223,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 7/25/2022,LVO,3669,"Greens, Chard-24 ct",5,4275,4745,0
 7/25/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 7/25/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
-7/25/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,8
+7/25/2022,D2D,3278,"Radishes, bunched-24 ct",10,4350,4829,10
 7/25/2022,CVP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 7/25/2022,RSV,3809,"Beans, Green, Yellow or Purple",10,7100,7881,0
 7/25/2022,MHG,3362,"Cucumbers, Pickling",11,2400,2664,0
@@ -321,7 +321,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/15/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 8/15/2022,CLP,3717,"Eggplant, Globe",15,3700,4107,2
 8/15/2022,AFC,3138,"Greens, Collard-24 ct",8,4275,4745,8
-8/15/2022,CBS,3404,Tomatillos,66,3275,3635,83
+8/15/2022,CBS,3404,Tomatillos,66,3275,3635,66
 8/15/2022,CMA,3138,"Greens, Collard-24 ct",5,4275,4745,4
 8/15/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36
 8/15/2022,CTH,3202,"Tomatoes, Slicing",15,4600,5106,0
@@ -333,7 +333,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/15/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,0
 8/15/2022,MLG,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 8/15/2022,PLT,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,12
-8/15/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,19
+8/15/2022,CLP,3182,"Squash, Summer, Patty Pan",18,2400,2664,18
 8/15/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,12
 8/15/2022,BXF,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 8/15/2022,JWI,3138,"Greens, Collard-24 ct",5,4275,4745,1
@@ -371,7 +371,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/15/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10
 8/15/2022,HOP,3362,"Cucumbers, Pickling",11,2400,2664,0
 8/15/2022,AGF,3091,"Melon, Honeydew",50,3125,3469,0
-8/15/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,26
+8/15/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,14
 8/15/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0
 8/15/2022,KHF,3202,"Tomatoes, Slicing",36,4600,5106,36
 8/15/2022,DTF,3202,"Tomatoes, Slicing",15,4600,5106,15
@@ -417,7 +417,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/22/2022,CHO,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0
 8/22/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 8/22/2022,CLP,3853,"Greens, Eggplant Leaves -12 ct",15,3650,4052,0
-8/22/2022,CBO,3813,"Greens, Kale-24 ct",5,4275,4745,7
+8/22/2022,CBO,3813,"Greens, Kale-24 ct",5,4275,4745,5
 8/22/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0
 8/22/2022,D2D,3754,"Cabbage, Red",5,4075,4523,5
 8/22/2022,AGF,3089,"Melon, Watermelon",40,3075,3413,0
@@ -434,7 +434,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/22/2022,MLG,3364,"Greens, Mustard-24 ct",10,4275,4745,0
 8/22/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11
 8/22/2022,CTH,3202,"Tomatoes, Slicing",15,4600,5106,0
-8/22/2022,CBS,3404,Tomatillos,66,3275,3635,100
+8/22/2022,CBS,3404,Tomatillos,66,3275,3635,66
 8/22/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,14
 8/22/2022,PLT,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,14
 8/22/2022,D2D,3813,"Greens, Kale-24 ct",5,4275,4745,5
@@ -456,11 +456,11 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/22/2022,D2D,3200,"Tomatoes, Grape, 12 ct Pint",10,4050,4496,10
 8/22/2022,PLT,3758,"Eggplant, African (Bitter Ball)",22,2400,2664,22
 8/22/2022,MFP,3828,"Peppers, Green Bell",5,4075,4523,5
-8/22/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,23
-8/22/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,14
+8/22/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,12
+8/22/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11
 8/22/2022,CLP,3813,"Greens, Kale-24 ct",10,4275,4745,10
 8/22/2022,YMF,3853,"Greens, Eggplant Leaves -12 ct",20,3650,4052,0
-8/22/2022,KHF,3201,"Tomatoes, Roma",36,4050,4496,45
+8/22/2022,KHF,3201,"Tomatoes, Roma",36,4050,4496,36
 8/22/2022,LFF,3458,"Peppers, Habanero",25,4050,4496,0
 8/22/2022,LFF,3828,"Peppers, Green Bell",25,4075,4523,0
 8/22/2022,PLT,3364,"Greens, Mustard-24 ct",5,4275,4745,5
@@ -523,7 +523,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/29/2022,CBS,3404,Tomatillos,20,3275,3635,20
 8/29/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20
 8/29/2022,CLP,3702,"Greens, Malabar Spinach-12 ct",12,3650,4052,0
-8/29/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,0
+8/29/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,3
 8/29/2022,MLG,3702,"Greens, Malabar Spinach-12 ct",14,3650,4052,0
 8/29/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,0
 8/29/2022,SXF,3826,"Greens, Sweet Potato Leaves-12 ct",50,3525,3913,50
@@ -543,7 +543,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 8/29/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36
 8/29/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,12
 8/29/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0
-8/29/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,0
+8/29/2022,MLG,3854,"Greens, Pumpkin Vine-12 ct",14,3650,4052,12
 8/29/2022,LDX,3153,"Peppers, Jalapeño",10,3000,3329,10
 8/29/2022,CBS,3201,"Tomatoes, Roma",15,4050,4496,0
 8/29/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,12
@@ -632,7 +632,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 9/12/2022,LOF,3364,"Greens, Mustard-24 ct",5,4275,4745,5
 9/12/2022,AGF,3759,"Onions, Bulb",20,4625,5134,20
 9/12/2022,KAL,3132,"Carrots, Rainbow",22,3675,4079,0
-9/12/2022,YMF,3668,"Eggplant, Japanese",10,3425,3802,13
+9/12/2022,YMF,3668,"Eggplant, Japanese",10,3425,3802,10
 9/12/2022,KSL,3364,"Greens, Mustard-24 ct",10,4275,4745,0
 9/12/2022,CAL,3153,"Peppers, Jalapeño",12,3000,3329,0
 9/12/2022,KHF,3668,"Eggplant, Japanese",10,3425,3802,0
@@ -646,7 +646,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 9/12/2022,CHO,3458,"Peppers, Habanero",10,4050,4496,0
 9/12/2022,CAL,3759,"Onions, Bulb",20,4625,5134,0
 9/12/2022,CMU,3132,"Carrots, Rainbow",11,3675,4079,11
-9/12/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,25
+9/12/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,20
 9/12/2022,CLP,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 9/12/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,10
 9/12/2022,MLG,3759,"Onions, Bulb",10,4625,5134,10
@@ -670,7 +670,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 9/12/2022,MFP,3364,"Greens, Mustard-24 ct",5,4275,4745,5
 9/12/2022,RSV,3755,"Carrots, Orange",22,3675,4079,22
 9/12/2022,MMO,3364,"Greens, Mustard-24 ct",5,4275,4745,5
-9/12/2022,MFP,3828,"Peppers, Green Bell",10,4075,4523,16
+9/12/2022,MFP,3828,"Peppers, Green Bell",10,4075,4523,10
 9/12/2022,HAF,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11
 9/12/2022,DTF,3202,"Tomatoes, Slicing",36,4600,5106,36
 9/12/2022,CBS,3201,"Tomatoes, Roma",24,4050,4496,0
@@ -714,7 +714,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 9/19/2022,BXF,3364,"Greens, Mustard-24 ct",5,4275,4745,0
 9/19/2022,CAL,3759,"Onions, Bulb",20,4625,5134,0
 9/19/2022,PBY,3201,"Tomatoes, Roma",10,4050,4496,10
-9/19/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,5
+9/19/2022,LFF,3828,"Peppers, Green Bell",20,4075,4523,10
 9/19/2022,AGF,3189,"Squash, Winter, Delicata",60,4075,4523,60
 9/19/2022,KSL,3828,"Peppers, Green Bell",10,4075,4523,0
 9/19/2022,PZM,3458,"Peppers, Habanero",10,4050,4496,10
@@ -789,7 +789,7 @@ Delivery Week,Producer Code,Product ID,Product,Quantity,Cost,Price,Fulfilled
 9/5/2022,TXI,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0
 9/5/2022,KHF,3201,"Tomatoes, Roma",36,4050,4496,36
 9/5/2022,BXF,3854,"Greens, Pumpkin Vine-12 ct",12,3650,4052,0
-9/5/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,0
+9/5/2022,CBS,3153,"Peppers, Jalapeño",12,3000,3329,11
 9/5/2022,TXI,3826,"Greens, Sweet Potato Leaves-12 ct",10,3525,3913,0
 9/5/2022,MLG,3758,"Eggplant, African (Bitter Ball)",11,2400,2664,11
 9/5/2022,SRF,3759,"Onions, Bulb",20,4625,5134,20
