@@ -28,8 +28,6 @@ const NavBar = (): JSX.Element => {
               color={"brand.600"}
               onClick={handleGoogleSignIn}
               _hover={{
-                boxShadow: "3px 3px 0px #CEECEF !important",
-                backgroundColor: "brand.200",
                 transform: "translate(3px, 4px)",
               }}
             >
@@ -56,8 +54,6 @@ const NavBar = (): JSX.Element => {
             colorScheme={"white"}
             color={"brand.600"}
             _hover={{
-              boxShadow: "3px 3px 0px #CEECEF !important",
-              backgroundColor: "brand.200",
               transform: "translate(3px, 4px)",
             }}
           >
