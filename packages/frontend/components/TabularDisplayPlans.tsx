@@ -24,7 +24,7 @@ type TabularDisplayProps = {
   loading: boolean;
 };
 
-type FilledPlan = Planned & {
+export type FilledPlan = Planned & {
   producer: Producer;
 };
 

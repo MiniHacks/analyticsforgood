@@ -24,7 +24,7 @@ type TabularDisplayProps = {
   loading: boolean;
 };
 
-type FilledOrder = Order & {
+export type FilledOrder = Order & {
   producer: Producer;
 };
 
