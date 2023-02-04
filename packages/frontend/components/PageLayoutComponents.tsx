@@ -5,10 +5,9 @@ const PageLayoutComponents = (): JSX.Element => {
   return (
     <Box>
       <HStack
-        marginTop={"300px"}
         w={"100%"}
         h={"600px"}
-        bg={"white"}
+        bg={"brand.100"}
         justifyContent={"center"}
         alignItems={"center"}
       >
