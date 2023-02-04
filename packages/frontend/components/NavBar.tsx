@@ -1,6 +1,6 @@
 import { Box, Button, HStack } from "@chakra-ui/react";
+import { useSession, signOut, signIn } from "next-auth/react";
 import Logo from "./Logo";
-import { useSession, signOut } from "next-auth/react";
 
 const NavBar = (): JSX.Element => {
   const { data: session, status } = useSession();
@@ -9,30 +9,32 @@ const NavBar = (): JSX.Element => {
   }
 
   console.log(status);
+
+  async function handleGoogleSignIn() {
+    signIn("google", { callbackUrl: "/dash" });
+  }
   return (
     <Box color={"black"} py={7} bg={"transparent"} top={"0"} zIndex={"100"}>
       <HStack px={"5%"} justifyContent={"space-between"}>
         <Logo />
         <HStack>
           {!session ? (
-            <>
-              <Button
-                variant={"solid"}
-                fontWeight={"200"}
-                fontFamily={"Poppins"}
-                fontSize={"18px"}
-                colorScheme={"white"}
-                color={"brand.600"}
-                onClick={() => window.open("https://accounts.google.com/o/oauth2/auth", "_blank")}
-          _hover={{
-            boxShadow: "3px 3px 0px #CEECEF !important",
-            backgroundColor: "brand.200",
-            transform: "translate(3px, 4px)",
-          }}
-              >
-                Login
-              </Button>
-            </>
+            <Button
+              variant={"solid"}
+              fontWeight={"200"}
+              fontFamily={"Poppins"}
+              fontSize={"18px"}
+              colorScheme={"white"}
+              color={"brand.600"}
+              onClick={handleGoogleSignIn}
+              _hover={{
+                boxShadow: "3px 3px 0px #CEECEF !important",
+                backgroundColor: "brand.200",
+                transform: "translate(3px, 4px)",
+              }}
+            >
+              Login
+            </Button>
           ) : (
             <Button
               variant={"solid"}
@@ -41,7 +43,7 @@ const NavBar = (): JSX.Element => {
               fontSize={"18px"}
               colorScheme={"white"}
               color={"brand.600"}
-              onClick={() => signOut()}
+              onClick={signOut}
             >
               Logout {session.user.name}
             </Button>
